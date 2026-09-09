@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="本地优先的 CCUS 与二氧化碳导师筛选工作台">
+  <title>碳研导航 · CCUS 导师筛选</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand"><span class="brand-mark" aria-hidden="true">◈</span><div><strong>碳研导航</strong><small>CCUS · CO₂ 导师筛选工作台</small></div></div>
+    <nav aria-label="主导航"><a class="active" href="#directory">导师目录</a><a href="#progress">我的进度</a><a href="#about">数据说明</a></nav>
+  </header>
+
+  <main id="directory" class="page-shell">
+    <section class="hero" aria-labelledby="page-title">
+      <p class="eyebrow">本地优先 · 证据驱动</p>
+      <h1 id="page-title">找到适合你的<br><em>CCUS 研究方向</em></h1>
+      <p class="hero-copy">以学校平台与专业方向双入口筛选，先看公开证据，再记录自己的联系进度。</p>
+      <label class="search-box" for="search-input"><span aria-hidden="true">⌕</span><input id="search-input" type="search" aria-label="搜索导师、学校、研究方向" placeholder="搜索导师、学校、研究方向…" autocomplete="off"><kbd>/</kbd></label>
+    </section>
+
+    <div class="workspace-grid">
+      <aside class="filter-panel" aria-label="筛选条件">
+        <div class="panel-heading"><div><span class="eyebrow">FILTERS</span><h2>筛选目录</h2></div><button id="clear-filters" class="text-button" type="button">清空</button></div>
+        <div id="active-filters" class="active-filters" aria-live="polite"></div>
+        <details open class="filter-group"><summary><span class="summary-icon">⌘</span><span>按院校筛选</span><span class="count" id="school-count">0</span></summary><div id="school-filters" class="filter-options"></div></details>
+        <details open class="filter-group"><summary><span class="summary-icon">⌬</span><span>按专业筛选</span><span class="count" id="tag-count">0</span></summary><div id="tag-filters" class="filter-options"></div></details>
+        <div class="filter-note">跨组取交集 · 同组多选取并集</div>
+      </aside>
+
+      <section class="results-panel" aria-labelledby="results-title">
+        <div class="results-heading"><div><span class="eyebrow">DIRECTORY</span><h2 id="results-title">导师目录 <span id="result-count" class="result-count">加载中…</span></h2></div><select id="sort-select" aria-label="排序方式"><option value="match">匹配度优先</option><option value="recent">最近核验</option><option value="name">姓名排序</option></select></div>
+        <div id="status-region" class="status-region" role="status" aria-live="polite">正在加载公开数据…</div>
+        <div id="advisor-list" class="advisor-list" aria-live="polite"></div>
+      </section>
+    </div>
+
+    <section id="progress" class="private-progress" aria-labelledby="progress-title"><div><span class="eyebrow">PRIVATE SPACE</span><h2 id="progress-title">我的筛选进度</h2><p>收藏与联系记录只保存在当前浏览器，不会写入公开数据。</p><p id="private-state-message" class="private-state-message" role="status" aria-live="polite"></p></div><div class="progress-stats"><div><strong id="favorite-total">0</strong><span>已收藏</span></div><div><strong id="contact-total">0</strong><span>已联系</span></div><button id="export-state" type="button" class="secondary-button">导出备份</button><button id="import-state" type="button" class="secondary-button">导入备份</button><input id="import-state-file" type="file" accept="application/json,.json" hidden></div></section>
+    <section id="about" class="about-note"><strong>数据边界</strong><span>公开档案仅展示已发布字段；“待核验”表示尚未完成人工审核，不代表导师不存在或方向已确认。</span></section>
+  </main>
+
+  <dialog id="profile-dialog" aria-labelledby="dialog-name"><form method="dialog" class="profile-dialog-form"><button class="dialog-close" value="close" aria-label="关闭档案">×</button><div id="profile-content"></div></form></dialog>
+  <script type="module" src="src/app.js"></script>
+</body>
+</html>

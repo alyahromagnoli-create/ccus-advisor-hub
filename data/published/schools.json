@@ -1,0 +1,191 @@
+[
+  {
+    "id": "cqu",
+    "name": "重庆大学",
+    "kind": "university",
+    "official_url": "https://www.cqu.edu.cn/",
+    "selection_reason": "作为用户本科背景的比较基准纳入高校池；相关学院、导师方向与当年招生资格仍需逐项核验。",
+    "checked_at": "2026-09-08",
+    "status": "待核验"
+  },
+  {
+    "id": "nju",
+    "name": "南京大学",
+    "kind": "university",
+    "official_url": "https://www.nju.edu.cn/",
+    "selection_reason": "既有官方页面快照显示能源与资源学院存在二氧化碳封存、CCUS 与矿物封存方向，适合作为首批证据化样本。",
+    "checked_at": "2026-07-06",
+    "status": "已有导师证据"
+  },
+  {
+    "id": "sjtu",
+    "name": "上海交通大学",
+    "kind": "university",
+    "official_url": "https://www.sjtu.edu.cn/",
+    "selection_reason": "既有低碳学院官方页面快照包含 CO2 地质利用与封存、碳捕集及转化方向，适合作为首批证据化样本。",
+    "checked_at": "2026-07-01",
+    "status": "已有导师证据"
+  },
+  {
+    "id": "sustech",
+    "name": "南方科技大学",
+    "kind": "university",
+    "official_url": "https://www.sustech.edu.cn/",
+    "selection_reason": "用户明确要求纳入；既有环境学院官方博士生导师页快照可用于验证捕集转化、多相流和地下环境方向的数据结构。",
+    "checked_at": "2026-07-02",
+    "status": "已有导师证据"
+  },
+  {
+    "id": "westlake",
+    "name": "西湖大学",
+    "kind": "university",
+    "official_url": "https://www.westlake.edu.cn/",
+    "selection_reason": "用户明确要求纳入新型研究型高校候选池；具体院系、CCUS 方向和招生入口尚待官方页面核验。",
+    "checked_at": "2026-09-08",
+    "status": "待核验"
+  },
+  {
+    "id": "xjtu",
+    "name": "西安交通大学",
+    "kind": "university",
+    "official_url": "https://www.xjtu.edu.cn/",
+    "selection_reason": "既有能动学院官方筛选材料提供多相流、清洁利用和低温储运候选；材料明确说明尚未确认直接 CCUS 导师。",
+    "checked_at": "2026-07-26",
+    "status": "方法候选"
+  },
+  {
+    "id": "tsinghua",
+    "name": "清华大学",
+    "kind": "university",
+    "official_url": "https://www.tsinghua.edu.cn/",
+    "selection_reason": "纳入综合平台高校的首轮候选范围，后续核验碳捕集、利用、封存相关院系及稳定招生入口。",
+    "checked_at": "2026-09-08",
+    "status": "待核验"
+  },
+  {
+    "id": "pku",
+    "name": "北京大学",
+    "kind": "university",
+    "official_url": "https://www.pku.edu.cn/",
+    "selection_reason": "纳入地学、环境与能源交叉方向的首轮候选范围；不预设存在直接地质封存团队，等待逐页核验。",
+    "checked_at": "2026-09-08",
+    "status": "待核验"
+  },
+  {
+    "id": "zju",
+    "name": "浙江大学",
+    "kind": "university",
+    "official_url": "https://www.zju.edu.cn/",
+    "selection_reason": "纳入能源、化工、环境与地学交叉方向候选池，具体 CCUS 导师和招生资格留待官方页面核验。",
+    "checked_at": "2026-09-08",
+    "status": "待核验"
+  },
+  {
+    "id": "cupbeijing",
+    "name": "中国石油大学（北京）",
+    "kind": "university",
+    "official_url": "https://www.cup.edu.cn/",
+    "selection_reason": "纳入油气储层与地下工程方法候选池，后续只在个人主页明确支持时标注 CCUS 或地质封存方向。",
+    "checked_at": "2026-09-08",
+    "status": "待核验"
+  },
+  {
+    "id": "upc",
+    "name": "中国石油大学（华东）",
+    "kind": "university",
+    "official_url": "https://www.upc.edu.cn/",
+    "selection_reason": "纳入油气储层、输运与低碳能源方法候选池，具体导师方向及招生资格需要官方来源确认。",
+    "checked_at": "2026-09-08",
+    "status": "待核验"
+  },
+  {
+    "id": "cug",
+    "name": "中国地质大学（武汉）",
+    "kind": "university",
+    "official_url": "https://www.cug.edu.cn/",
+    "selection_reason": "纳入地质、地下水与储层工程候选池，后续核验持续 CCUS 成果、导师主页和招生入口。",
+    "checked_at": "2026-09-08",
+    "status": "待核验"
+  },
+  {
+    "id": "cas-igg",
+    "name": "中国科学院地质与地球物理研究所",
+    "kind": "institute",
+    "official_url": "https://www.igg.cas.cn/",
+    "selection_reason": "纳入地质过程、储层表征与地下流体方法候选池；导师身份、直接 CCUS 方向和招生渠道尚待核验。",
+    "checked_at": "2026-09-08",
+    "status": "待核验"
+  },
+  {
+    "id": "cas-whrsm",
+    "name": "中国科学院武汉岩土力学研究所",
+    "kind": "institute",
+    "official_url": "https://whrsm.cas.cn/",
+    "selection_reason": "纳入岩土、多场耦合与地下工程方法候选池，后续核验二氧化碳封存项目和研究生招生信息。",
+    "checked_at": "2026-09-08",
+    "status": "待核验"
+  },
+  {
+    "id": "cas-giec",
+    "name": "中国科学院广州能源研究所",
+    "kind": "institute",
+    "official_url": "http://www.giec.cas.cn/",
+    "selection_reason": "纳入能源转化、气体水合物与低碳技术候选池，具体导师及当年招生资格需要官方个人页确认。",
+    "checked_at": "2026-09-08",
+    "status": "待核验"
+  },
+  {
+    "id": "cas-ipe",
+    "name": "中国科学院过程工程研究所",
+    "kind": "institute",
+    "official_url": "http://www.ipe.cas.cn/",
+    "selection_reason": "纳入分离、反应与过程强化方法候选池；是否存在直接 CCUS 导师及稳定招生入口尚待核验。",
+    "checked_at": "2026-09-08",
+    "status": "待核验"
+  },
+  {
+    "id": "cas-iet",
+    "name": "中国科学院工程热物理研究所",
+    "kind": "institute",
+    "official_url": "http://www.etp.ac.cn/",
+    "selection_reason": "纳入能源系统、热物理与储能方法候选池，后续核验与 CCUS 链条的具体交集和招生信息。",
+    "checked_at": "2026-09-08",
+    "status": "待核验"
+  },
+  {
+    "id": "cas-qibebt",
+    "name": "中国科学院青岛生物能源与过程研究所",
+    "kind": "institute",
+    "official_url": "http://www.qibebt.ac.cn/",
+    "selection_reason": "纳入二氧化碳转化与低碳过程的候选范围，导师方向、身份和招生渠道必须再由官方页面确认。",
+    "checked_at": "2026-09-08",
+    "status": "待核验"
+  },
+  {
+    "id": "ustc",
+    "name": "中国科学技术大学",
+    "kind": "university",
+    "official_url": "https://www.ustc.edu.cn/",
+    "selection_reason": "纳入碳捕集转化、能源存储、材料与环境交叉方向候选池；导师职称和研究方向来自官方教师主页。",
+    "checked_at": "2026-09-09",
+    "status": "已有导师证据"
+  },
+  {
+    "id": "hit",
+    "name": "哈尔滨工业大学",
+    "kind": "university",
+    "official_url": "https://www.hit.edu.cn/",
+    "selection_reason": "纳入储能、能源动力、环境工程、低碳与多相流方向候选池；覆盖哈尔滨校区官方教师主页。",
+    "checked_at": "2026-09-09",
+    "status": "已有导师证据"
+  },
+  {
+    "id": "scu",
+    "name": "四川大学",
+    "kind": "university",
+    "official_url": "https://www.scu.edu.cn/",
+    "selection_reason": "纳入碳中和未来技术学院、新能源与低碳技术研究院及化工/环境/材料交叉方向。",
+    "checked_at": "2026-09-09",
+    "status": "已有导师证据"
+  }
+]
