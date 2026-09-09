@@ -4,7 +4,6 @@
     "name": "徐纯刚",
     "school_id": "cas-giec",
     "title": "研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "水合物法二氧化碳捕集与封存",
       "天然气水合物",
@@ -22,7 +21,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国科学院广州能源研究所官方个人主页记录的研究方向：水合物法二氧化碳捕集与封存；天然气水合物；储氢。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院广州能源研究所官方个人主页记录的研究方向：水合物法二氧化碳捕集与封存；天然气水合物；储氢。论文 JIF 需逐项复核。",
     "official_profile_url": "https://giec.cas.cn/sourcedb/zw/zjrck/201706/t20170609_4809820.html",
     "papers": [
       {
@@ -125,7 +124,6 @@
     "name": "颜克凤",
     "school_id": "cas-giec",
     "title": "研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "天然气水合物",
       "CO₂置换开采",
@@ -141,7 +139,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国科学院广州能源研究所官方个人主页记录的研究方向：天然气水合物；CO₂置换开采；水合物储运。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院广州能源研究所官方个人主页记录的研究方向：天然气水合物；CO₂置换开采；水合物储运。论文 JIF 需逐项复核。",
     "official_profile_url": "https://giec.cas.cn/sourcedb/zw/zjrck/202204/t20220424_6436794.html",
     "papers": [
       {
@@ -228,7 +226,6 @@
     "name": "余益松",
     "school_id": "cas-giec",
     "title": "副研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "CO₂/CH₄水合物捕集与存储",
       "水合物CO₂封存",
@@ -242,7 +239,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国科学院广州能源研究所官方个人主页记录的研究方向：CO₂/CH₄水合物捕集与存储；水合物CO₂封存；流动安全。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院广州能源研究所官方个人主页记录的研究方向：CO₂/CH₄水合物捕集与存储；水合物CO₂封存；流动安全。论文 JIF 需逐项复核。",
     "official_profile_url": "https://giec.cas.cn/sourcedb/zw/zjrck/202403/t20240305_7012434.html",
     "papers": [
       {
@@ -329,7 +326,6 @@
     "name": "陈海生",
     "school_id": "cas-iet",
     "title": "研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "大规模物理储能",
       "压缩空气储能",
@@ -343,7 +339,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "中国科学院工程热物理研究所储能研发中心导师页面记录的研究方向：大规模物理储能；压缩空气储能；储能系统集成与工程示范。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院工程热物理研究所储能研发中心导师页面记录的研究方向：大规模物理储能；压缩空气储能；储能系统集成与工程示范。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.iet.cas.cn/edu/dsjs/",
     "papers": [],
     "sources": [
@@ -361,7 +357,6 @@
     "name": "郝勇",
     "school_id": "cas-iet",
     "title": "研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "太阳能热化学储能",
       "纳米陶瓷",
@@ -386,7 +381,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "中国科学院工程热物理研究所官方个人主页记录的研究方向：太阳能热化学储能；纳米陶瓷；固态氧化物燃料电池；太阳能制氢。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院工程热物理研究所官方个人主页记录的研究方向：太阳能热化学储能；纳米陶瓷；固态氧化物燃料电池；太阳能制氢。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.iet.cas.cn/oecbj/kytd/yjy_164114/202005/t20200502_5568334.html",
     "papers": [],
     "sources": [
@@ -404,7 +399,6 @@
     "name": "金红光",
     "school_id": "cas-iet",
     "title": "研究员、院士",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "能源有序转化",
       "分布式供能与可再生能源",
@@ -425,7 +419,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "中国科学院工程热物理研究所导师页面记录的研究方向：能源有序转化；分布式供能与可再生能源；热化学储能；氢能转化利用。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院工程热物理研究所导师页面记录的研究方向：能源有序转化；分布式供能与可再生能源；热化学储能；氢能转化利用。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.iet.cas.cn/edu/dsjs/",
     "papers": [
       {
@@ -478,7 +472,6 @@
     "name": "徐玉杰",
     "school_id": "cas-iet",
     "title": "研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "压缩空气储能系统",
       "热力循环优化",
@@ -497,7 +490,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "中国科学院工程热物理研究所官方导师主页记录的研究方向：压缩空气储能系统；热力循环优化；清洁供暖与储热；分布式能源系统。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院工程热物理研究所官方导师主页记录的研究方向：压缩空气储能系统；热力循环优化；清洁供暖与储热；分布式能源系统。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.iet.cas.cn/sourcedb/zw/yjsds/cnyfzx/202111/t20211126_6272206.html",
     "papers": [],
     "sources": [
@@ -515,7 +508,6 @@
     "name": "刘文景",
     "school_id": "cas-igg",
     "title": "研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "环境地球化学",
       "大陆岩石风化与碳循环",
@@ -532,7 +524,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "中国科学院地质与地球物理研究所官方个人主页记录的研究方向：环境地球化学；大陆岩石风化与碳循环；流域水和生源物质循环；人类活动环境效应。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院地质与地球物理研究所官方个人主页记录的研究方向：环境地球化学；大陆岩石风化与碳循环；流域水和生源物质循环；人类活动环境效应。论文 JIF 需逐项复核。",
     "official_profile_url": "https://igg.cas.cn/sourcedb_igg_cas/cn/zjrck/yjy/201702/t20170222_4749503.html",
     "papers": [],
     "sources": [
@@ -550,7 +542,6 @@
     "name": "张倩",
     "school_id": "cas-igg",
     "title": "特聘副研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "裂隙—基质介质流体流动与物质输运",
       "数字岩石物理",
@@ -571,7 +562,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国科学院地质与地球物理研究所官方个人主页记录的研究方向：裂隙—基质介质流体流动与物质输运；数字岩石物理；CO₂ 地质封存；地下水修复。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院地质与地球物理研究所官方个人主页记录的研究方向：裂隙—基质介质流体流动与物质输运；数字岩石物理；CO₂ 地质封存；地下水修复。论文 JIF 需逐项复核。",
     "official_profile_url": "https://igg.cas.cn/sourcedb_igg_cas/cn/zjrck/202601/t20260122_8117202.html",
     "papers": [],
     "sources": [
@@ -589,7 +580,6 @@
     "name": "赵明宇",
     "school_id": "cas-igg",
     "title": "研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "全球生物地球化学循环",
       "碳—磷—氧循环",
@@ -605,7 +595,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "中国科学院地质与地球物理研究所官方个人主页记录的研究方向：全球生物地球化学循环；碳—磷—氧循环；古环境指标与气候调节机制。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院地质与地球物理研究所官方个人主页记录的研究方向：全球生物地球化学循环；碳—磷—氧循环；古环境指标与气候调节机制。论文 JIF 需逐项复核。",
     "official_profile_url": "https://igg.cas.cn/sourcedb_igg_cas/cn/zjrck/202206/t20220630_6468644.html",
     "papers": [
       {
@@ -692,7 +682,6 @@
     "name": "郭旸旸",
     "school_id": "cas-ipe",
     "title": "青年研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "工业烟气污染物脱除",
       "吸附法二氧化碳捕集",
@@ -712,7 +701,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国科学院过程工程研究所官方个人主页记录的研究方向：工业烟气污染物脱除；吸附法二氧化碳捕集；钢铁行业减污降碳。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院过程工程研究所官方个人主页记录的研究方向：工业烟气污染物脱除；吸附法二氧化碳捕集；钢铁行业减污降碳。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ipe.cas.cn/sourcedb/zw/zjrc/qncj/202509/t20250903_7959018.html",
     "papers": [],
     "sources": [
@@ -730,7 +719,6 @@
     "name": "李会泉",
     "school_id": "cas-ipe",
     "title": "研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "战略金属资源绿色循环",
       "工业固废高值化",
@@ -753,7 +741,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国科学院过程工程研究所官方个人主页记录的研究方向：战略金属资源绿色循环；工业固废高值化；退役新能源器件回收；二氧化碳绿色催化与高值转化。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院过程工程研究所官方个人主页记录的研究方向：战略金属资源绿色循环；工业固废高值化；退役新能源器件回收；二氧化碳绿色催化与高值转化。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ipe.cas.cn/sourcedb/zw/zjrc/yjy/202105/t20210511_6012374.html",
     "papers": [
       {
@@ -840,7 +828,6 @@
     "name": "李松庚",
     "school_id": "cas-ipe",
     "title": "研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "煤与生物质热化学转化",
       "化学链燃烧与气化",
@@ -865,7 +852,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国科学院过程工程研究所官方个人主页记录的研究方向：煤与生物质热化学转化；化学链燃烧与气化；二氧化碳捕获；固废资源化与污染控制。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院过程工程研究所官方个人主页记录的研究方向：煤与生物质热化学转化；化学链燃烧与气化；二氧化碳捕获；固废资源化与污染控制。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.ipe.cas.cn/sourcedb/zw/zjrc/yjy/202105/t20210511_6012373.html",
     "papers": [
       {
@@ -952,7 +939,6 @@
     "name": "董杉木",
     "school_id": "cas-qibebt",
     "title": "研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "高比能电池界面化学",
       "极端环境锂电池",
@@ -972,7 +958,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "中国科学院青岛生物能源与过程研究所官方个人主页记录的研究方向：高比能电池界面化学；极端环境锂电池；电池单体与系统设计。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院青岛生物能源与过程研究所官方个人主页记录的研究方向：高比能电池界面化学；极端环境锂电池；电池单体与系统设计。论文 JIF 需逐项复核。",
     "official_profile_url": "https://qibebt.cas.cn/sourcedb/zw/expert/202106/t20210617_6113875.html",
     "papers": [],
     "sources": [
@@ -990,7 +976,6 @@
     "name": "马君",
     "school_id": "cas-qibebt",
     "title": "研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "高比能锂电池正极材料与界面",
       "电池材料结构与性能调控"
@@ -1007,7 +992,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "中国科学院青岛生物能源与过程研究所官方个人主页记录的研究方向：高比能锂电池正极材料与界面；电池材料结构与性能调控。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院青岛生物能源与过程研究所官方个人主页记录的研究方向：高比能锂电池正极材料与界面；电池材料结构与性能调控。论文 JIF 需逐项复核。",
     "official_profile_url": "https://qibebt.cas.cn/sourcedb/zw/expert/202503/t20250311_7551974.html",
     "papers": [],
     "sources": [
@@ -1025,7 +1010,6 @@
     "name": "叶克",
     "school_id": "cas-qibebt",
     "title": "研究员、博士生导师",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "能源小分子电催化",
       "氢能技术",
@@ -1051,7 +1035,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "中国科学院青岛生物能源与过程研究所官方个人主页记录的研究方向：能源小分子电催化；氢能技术；质子传导膜电极与燃料电池电堆。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院青岛生物能源与过程研究所官方个人主页记录的研究方向：能源小分子电催化；氢能技术；质子传导膜电极与燃料电池电堆。论文 JIF 需逐项复核。",
     "official_profile_url": "https://qibebt.cas.cn/sourcedb/zw/expert/202604/t20260409_8183236.html",
     "papers": [
       {
@@ -1138,7 +1122,6 @@
     "name": "周倩",
     "school_id": "cas-qibebt",
     "title": "副研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "固态锂电池",
       "聚合物电解质",
@@ -1156,7 +1139,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "中国科学院青岛生物能源与过程研究所官方个人主页记录的研究方向：固态锂电池；聚合物电解质；机器学习在固态电池中的应用。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院青岛生物能源与过程研究所官方个人主页记录的研究方向：固态锂电池；聚合物电解质；机器学习在固态电池中的应用。论文 JIF 需逐项复核。",
     "official_profile_url": "https://qibebt.cas.cn/sourcedb/zw/expert/202504/t20250403_7588877.html",
     "papers": [],
     "sources": [
@@ -1174,7 +1157,6 @@
     "name": "白冰",
     "school_id": "cas-whrsm",
     "title": "研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "碳中和岩土力学",
       "CO₂地质封存",
@@ -1197,7 +1179,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：碳中和岩土力学；CO₂地质封存；干热岩地热；生态修复。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：碳中和岩土力学；CO₂地质封存；干热岩地热；生态修复。论文 JIF 需逐项复核。",
     "official_profile_url": "https://whrsm.cas.cn/sourcedb/zw/zjrck/fyjy/201901/t20190110_5226654.html",
     "papers": [
       {
@@ -1280,7 +1262,6 @@
     "name": "常鑫",
     "school_id": "cas-whrsm",
     "title": "助理研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "超临界CO₂强化页岩开采与地质封存",
       "储层渗流"
@@ -1297,7 +1278,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：超临界CO₂强化页岩开采与地质封存；储层渗流。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：超临界CO₂强化页岩开采与地质封存；储层渗流。论文 JIF 需逐项复核。",
     "official_profile_url": "https://whrsm.cas.cn/xwdt2020/kydt_168099/202411/t20241115_7440163.html",
     "papers": [],
     "sources": [
@@ -1315,7 +1296,6 @@
     "name": "方志明",
     "school_id": "cas-whrsm",
     "title": "副研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "二氧化碳地质利用与封存监测",
       "煤层封存与驱煤层气"
@@ -1332,7 +1312,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：二氧化碳地质利用与封存监测；煤层封存与驱煤层气。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：二氧化碳地质利用与封存监测；煤层封存与驱煤层气。论文 JIF 需逐项复核。",
     "official_profile_url": "https://whrsm.cas.cn/sourcedb/zw/zjrck/fyjy/201501/t20150112_4297297.html",
     "papers": [
       {
@@ -1419,7 +1399,6 @@
     "name": "江权",
     "school_id": "cas-whrsm",
     "title": "研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "岩石力学",
       "深部工程安全",
@@ -1435,7 +1414,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：岩石力学；深部工程安全；多相介质。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：岩石力学；深部工程安全；多相介质。论文 JIF 需逐项复核。",
     "official_profile_url": "https://whrsm.cas.cn/yjsjy2020/zsxx_168126/sszs_168127/202007/P020200718406893633595.pdf",
     "papers": [],
     "sources": [
@@ -1453,7 +1432,6 @@
     "name": "李琦",
     "school_id": "cas-whrsm",
     "title": "研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "CCUS多相多场耦合",
       "泄漏风险",
@@ -1469,7 +1447,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：CCUS多相多场耦合；泄漏风险；监测装备。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：CCUS多相多场耦合；泄漏风险；监测装备。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.whrsm.cas.cn/yjsjy2020/xkfx_168130/co2_subject/",
     "papers": [],
     "sources": [
@@ -1487,7 +1465,6 @@
     "name": "李邵军",
     "school_id": "cas-whrsm",
     "title": "研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "智能岩石力学",
       "地下工程与储层安全"
@@ -1502,7 +1479,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：智能岩石力学；地下工程与储层安全。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：智能岩石力学；地下工程与储层安全。论文 JIF 需逐项复核。",
     "official_profile_url": "https://whrsm.cas.cn/yjsjy2020/zsxx_168126/sszs_168127/202007/P020200718406893633595.pdf",
     "papers": [
       {
@@ -1589,7 +1566,6 @@
     "name": "李小春",
     "school_id": "cas-whrsm",
     "title": "研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "二氧化碳地质封存",
       "岩石力学与工程安全"
@@ -1608,7 +1584,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：二氧化碳地质封存；岩石力学与工程安全。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：二氧化碳地质封存；岩石力学与工程安全。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.whrsm.cas.cn/yjsjy2020/xkfx_168130/co2_subject/",
     "papers": [
       {
@@ -1695,7 +1671,6 @@
     "name": "潘鹏志",
     "school_id": "cas-whrsm",
     "title": "研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "岩石力学",
       "深部地下工程",
@@ -1709,7 +1684,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：岩石力学；深部地下工程；多场耦合。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：岩石力学；深部地下工程；多场耦合。论文 JIF 需逐项复核。",
     "official_profile_url": "https://whrsm.cas.cn/yjsjy2020/zsxx_168126/sszs_168127/202007/P020200718406893633595.pdf",
     "papers": [
       {
@@ -1796,7 +1771,6 @@
     "name": "谭永胜",
     "school_id": "cas-whrsm",
     "title": "副研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "CO₂地质高效利用与安全封存",
       "井筒完整性",
@@ -1816,7 +1790,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：CO₂地质高效利用与安全封存；井筒完整性；储层多相渗流。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：CO₂地质高效利用与安全封存；井筒完整性；储层多相渗流。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.whrsm.cas.cn/sourcedb/zw/zjrck/fyjy/202501/t20250119_7520097.html",
     "papers": [
       {
@@ -1903,7 +1877,6 @@
     "name": "汪海滨",
     "school_id": "cas-whrsm",
     "title": "副研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "二氧化碳封存工程",
       "岩土多场耦合"
@@ -1918,7 +1891,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：二氧化碳封存工程；岩土多场耦合。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：二氧化碳封存工程；岩土多场耦合。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.whrsm.cas.cn/yjsjy2020/xkfx_168130/co2_subject/",
     "papers": [],
     "sources": [
@@ -1936,7 +1909,6 @@
     "name": "魏宁",
     "school_id": "cas-whrsm",
     "title": "研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "二氧化碳封存",
       "多相流",
@@ -1954,7 +1926,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：二氧化碳封存；多相流；地质工程。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：二氧化碳封存；多相流；地质工程。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.whrsm.cas.cn/yjsjy2020/xkfx_168130/co2_subject/",
     "papers": [],
     "sources": [
@@ -1972,7 +1944,6 @@
     "name": "张力为",
     "school_id": "cas-whrsm",
     "title": "研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "多孔介质成像",
       "CO₂封存安全监测",
@@ -1986,7 +1957,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：多孔介质成像；CO₂封存安全监测；岩土工程。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：多孔介质成像；CO₂封存安全监测；岩土工程。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.whrsm.cas.cn/yjsjy2020/xkfx_168130/co2_subject/",
     "papers": [],
     "sources": [
@@ -2004,7 +1975,6 @@
     "name": "陈红",
     "school_id": "cqu",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "动力工程与工程热物理",
       "节能减排"
@@ -2017,7 +1987,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：动力工程与工程热物理；节能减排。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：动力工程与工程热物理；节能减排。论文 JIF 需逐项复核。",
     "official_profile_url": "https://cte.cqu.edu.cn/szdw/jslb/ch.htm",
     "papers": [],
     "sources": [
@@ -2035,7 +2005,6 @@
     "name": "陈强",
     "school_id": "cqu",
     "title": "副研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "CO₂地质封存",
       "枯竭气藏多场耦合运移",
@@ -2053,7 +2022,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：CO₂地质封存；枯竭气藏多场耦合运移；压缩空气储能。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：CO₂地质封存；枯竭气藏多场耦合运移；压缩空气储能。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.res.cqu.edu.cn/info/1213/8289.htm",
     "papers": [],
     "sources": [
@@ -2071,7 +2040,6 @@
     "name": "陈珊珊",
     "school_id": "cqu",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "薄膜太阳能电池",
       "有机热电",
@@ -2093,7 +2061,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：薄膜太阳能电池；有机热电；可穿戴能源器件。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：薄膜太阳能电池；有机热电；可穿戴能源器件。论文 JIF 需逐项复核。",
     "official_profile_url": "https://cte.cqu.edu.cn/szdw/jszy/yxjs/xnyycnx.htm",
     "papers": [
       {
@@ -2180,7 +2148,6 @@
     "name": "程军",
     "school_id": "cqu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "碳中和",
       "CO₂减排转化利用",
@@ -2201,7 +2168,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：碳中和；CO₂减排转化利用；氢能；储能。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：碳中和；CO₂减排转化利用；氢能；储能。论文 JIF 需逐项复核。",
     "official_profile_url": "https://cte.cqu.edu.cn/szdw/jszy/yxjs/xnyycnx.htm",
     "papers": [
       {
@@ -2288,7 +2255,6 @@
     "name": "程旻",
     "school_id": "cqu",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "流动与强化传热传质",
       "新能源材料热物理"
@@ -2305,7 +2271,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：流动与强化传热传质；新能源材料热物理。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：流动与强化传热传质；新能源材料热物理。论文 JIF 需逐项复核。",
     "official_profile_url": "https://cte.cqu.edu.cn/szdw/jslb/cm.htm",
     "papers": [],
     "sources": [
@@ -2323,7 +2289,6 @@
     "name": "邓青林",
     "school_id": "cqu",
     "title": "副研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "裂隙岩体变形与渗流",
       "深部地热",
@@ -2343,7 +2308,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：裂隙岩体变形与渗流；深部地热；CO₂地质封存。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：裂隙岩体变形与渗流；深部地热；CO₂地质封存。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.res.cqu.edu.cn/info/1207/9341.htm",
     "papers": [
       {
@@ -2430,7 +2395,6 @@
     "name": "丁林",
     "school_id": "cqu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "热流固耦合",
       "计算流体力学",
@@ -2446,7 +2410,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：热流固耦合；计算流体力学；新能源利用。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：热流固耦合；计算流体力学；新能源利用。论文 JIF 需逐项复核。",
     "official_profile_url": "https://cte.cqu.edu.cn/szdw/jslb/dl.htm",
     "papers": [],
     "sources": [
@@ -2464,7 +2428,6 @@
     "name": "甘泉",
     "school_id": "cqu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "深部地热",
       "咸水层CO₂封存密闭性",
@@ -2480,7 +2443,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：深部地热；咸水层CO₂封存密闭性；储层地球物理。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：深部地热；咸水层CO₂封存密闭性；储层地球物理。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.res.cqu.edu.cn/info/1208/5827.htm",
     "papers": [
       {
@@ -2567,7 +2530,6 @@
     "name": "葛兆龙",
     "school_id": "cqu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "煤层气开发",
       "CO₂强化煤层气开发与地质封存一体化"
@@ -2584,7 +2546,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：煤层气开发；CO₂强化煤层气开发与地质封存一体化。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：煤层气开发；CO₂强化煤层气开发与地质封存一体化。论文 JIF 需逐项复核。",
     "official_profile_url": "https://faculty.cqu.edu.cn/ZhaolongGe/zh_CN/yjfx/321995/content/3329.htm",
     "papers": [
       {
@@ -2671,7 +2633,6 @@
     "name": "贾云中",
     "school_id": "cqu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "页岩气开发",
       "CO₂地质封存岩石力学",
@@ -2691,7 +2652,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：页岩气开发；CO₂地质封存岩石力学；深部储层。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：页岩气开发；CO₂地质封存岩石力学；深部储层。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.res.cqu.edu.cn/info/1208/8060.htm",
     "papers": [
       {
@@ -2778,7 +2739,6 @@
     "name": "亢银虎",
     "school_id": "cqu",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "燃烧CFD",
       "多相流",
@@ -2797,7 +2757,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：燃烧CFD；多相流；新能源与储能；氢氨燃烧。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：燃烧CFD；多相流；新能源与储能；氢氨燃烧。论文 JIF 需逐项复核。",
     "official_profile_url": "https://cte.cqu.edu.cn/szdw/jslb/kyh.htm",
     "papers": [
       {
@@ -2884,7 +2844,6 @@
     "name": "李建波",
     "school_id": "cqu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "循环流化床",
       "固废资源化",
@@ -2905,7 +2864,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：循环流化床；固废资源化；储能与余热回收；氢/氨燃烧。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：循环流化床；固废资源化；储能与余热回收；氢/氨燃烧。论文 JIF 需逐项复核。",
     "official_profile_url": "https://cte.cqu.edu.cn/szdw/jslb/ljb.htm",
     "papers": [],
     "sources": [
@@ -2923,7 +2882,6 @@
     "name": "李猛",
     "school_id": "cqu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "微纳固液界面",
       "能质转换与传输"
@@ -2936,7 +2894,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：微纳固液界面；能质转换与传输。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：微纳固液界面；能质转换与传输。论文 JIF 需逐项复核。",
     "official_profile_url": "https://cte.cqu.edu.cn/szdw/jszy/yxjs/xnyycnx.htm",
     "papers": [],
     "sources": [
@@ -2954,7 +2912,6 @@
     "name": "李天阳",
     "school_id": "cqu",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "CO₂封存区地震—电磁监测",
       "多尺度地球物理反演"
@@ -2969,7 +2926,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：CO₂封存区地震—电磁监测；多尺度地球物理反演。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：CO₂封存区地震—电磁监测；多尺度地球物理反演。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.res.cqu.edu.cn/info/1382/8032.htm",
     "papers": [
       {
@@ -3056,7 +3013,6 @@
     "name": "刘玉东",
     "school_id": "cqu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "纳米流体冰蓄冷",
       "固态制冷",
@@ -3076,7 +3032,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：纳米流体冰蓄冷；固态制冷；蓄冷材料。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：纳米流体冰蓄冷；固态制冷；蓄冷材料。论文 JIF 需逐项复核。",
     "official_profile_url": "https://cte.cqu.edu.cn/szdw/jslb/lyd.htm",
     "papers": [],
     "sources": [
@@ -3094,7 +3050,6 @@
     "name": "陆朝晖",
     "school_id": "cqu",
     "title": "研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "非常规天然气",
       "CO₂地质封存",
@@ -3112,7 +3067,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：非常规天然气；CO₂地质封存；高压水射流。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：非常规天然气；CO₂地质封存；高压水射流。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.res.cqu.edu.cn/info/1212/8294.htm",
     "papers": [],
     "sources": [
@@ -3130,7 +3085,6 @@
     "name": "彭守建",
     "school_id": "cqu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "深部煤岩灾变",
       "非常规天然气",
@@ -3150,7 +3104,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：深部煤岩灾变；非常规天然气；二氧化碳地质利用与封存。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：深部煤岩灾变；非常规天然气；二氧化碳地质利用与封存。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.res.cqu.edu.cn/info/1208/6047.htm",
     "papers": [
       {
@@ -3203,7 +3157,6 @@
     "name": "秦朝中",
     "school_id": "cqu",
     "title": "研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "数字岩心",
       "多尺度渗流",
@@ -3220,7 +3173,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：数字岩心；多尺度渗流；多孔介质反应流；地下储能。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：数字岩心；多尺度渗流；多孔介质反应流；地下储能。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.res.cqu.edu.cn/info/1212/5885.htm",
     "papers": [],
     "sources": [
@@ -3238,7 +3191,6 @@
     "name": "冉景煜",
     "school_id": "cqu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "催化燃烧",
       "CO₂捕集转化",
@@ -3256,7 +3208,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：催化燃烧；CO₂捕集转化；高温固体储热。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：催化燃烧；CO₂捕集转化；高温固体储热。论文 JIF 需逐项复核。",
     "official_profile_url": "https://cte.cqu.edu.cn/szdw/jslb/rjy.htm",
     "papers": [],
     "sources": [
@@ -3274,7 +3226,6 @@
     "name": "王坚",
     "school_id": "cqu",
     "title": "研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "环境工程",
       "工业减排",
@@ -3290,7 +3241,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：环境工程；工业减排；石油环保技术。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：环境工程；工业减排；石油环保技术。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.res.cqu.edu.cn/info/1382/9379.htm",
     "papers": [],
     "sources": [
@@ -3308,7 +3259,6 @@
     "name": "王磊",
     "school_id": "cqu",
     "title": "准聘副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "钠/钾离子电池",
       "后锂储能器件",
@@ -3326,7 +3276,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：钠/钾离子电池；后锂储能器件；储能材料。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：钠/钾离子电池；后锂储能器件；储能材料。论文 JIF 需逐项复核。",
     "official_profile_url": "https://cte.cqu.edu.cn/szdw/jslb/wl.htm",
     "papers": [
       {
@@ -3355,7 +3305,6 @@
     "name": "汪洋",
     "school_id": "cqu",
     "title": "助理研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "燃料电池/电解池",
       "多尺度热质传递"
@@ -3374,7 +3323,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：燃料电池/电解池；多尺度热质传递。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：燃料电池/电解池；多尺度热质传递。论文 JIF 需逐项复核。",
     "official_profile_url": "https://cte.cqu.edu.cn/szdw/jslb/wy.htm",
     "papers": [],
     "sources": [
@@ -3392,7 +3341,6 @@
     "name": "吴春梅",
     "school_id": "cqu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "传热传质",
       "界面现象",
@@ -3408,7 +3356,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：传热传质；界面现象；非平衡热力学。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：传热传质；界面现象；非平衡热力学。论文 JIF 需逐项复核。",
     "official_profile_url": "https://cte.cqu.edu.cn/szdw/jslb/wcm.htm",
     "papers": [],
     "sources": [
@@ -3426,7 +3374,6 @@
     "name": "夏奡",
     "school_id": "cqu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "碳中和",
       "生物质催化转化",
@@ -3446,7 +3393,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：碳中和；生物质催化转化；分布式能源。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：碳中和；生物质催化转化；分布式能源。论文 JIF 需逐项复核。",
     "official_profile_url": "https://cte.cqu.edu.cn/szdw/jslb/xa.htm",
     "papers": [],
     "sources": [
@@ -3464,7 +3411,6 @@
     "name": "徐肖肖",
     "school_id": "cqu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "CO₂制冷与热泵",
       "超临界CO₂传热",
@@ -3480,7 +3426,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：CO₂制冷与热泵；超临界CO₂传热；低品位余热回收。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：CO₂制冷与热泵；超临界CO₂传热；低品位余热回收。论文 JIF 需逐项复核。",
     "official_profile_url": "https://cte.cqu.edu.cn/szdw/jslb/xxx.htm",
     "papers": [
       {
@@ -3539,7 +3485,6 @@
     "name": "杨扬",
     "school_id": "cqu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "微纳尺度传递",
       "多相反应流",
@@ -3561,7 +3506,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：微纳尺度传递；多相反应流；绿色氢能与燃料电池。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：微纳尺度传递；多相反应流；绿色氢能与燃料电池。论文 JIF 需逐项复核。",
     "official_profile_url": "https://cte.cqu.edu.cn/szdw/jszy/yxjs/xnyycnx.htm",
     "papers": [],
     "sources": [
@@ -3579,7 +3524,6 @@
     "name": "袁波",
     "school_id": "cqu",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "计算流体力学",
       "高压水射流",
@@ -3595,7 +3539,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：计算流体力学；高压水射流；流动传热。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：计算流体力学；高压水射流；流动传热。论文 JIF 需逐项复核。",
     "official_profile_url": "https://cte.cqu.edu.cn/szdw/jslb/yb.htm",
     "papers": [],
     "sources": [
@@ -3613,7 +3557,6 @@
     "name": "周雷",
     "school_id": "cqu",
     "title": "研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "二氧化碳地下封存",
       "能源地下储存",
@@ -3633,7 +3576,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：二氧化碳地下封存；能源地下储存；孔隙介质多相流。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：二氧化碳地下封存；能源地下储存；孔隙介质多相流。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.res.cqu.edu.cn/info/1208/6043.htm",
     "papers": [],
     "sources": [
@@ -3651,7 +3594,6 @@
     "name": "周哲",
     "school_id": "cqu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "二氧化碳地质封存",
       "高压水射流",
@@ -3671,7 +3613,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：二氧化碳地质封存；高压水射流；岩体力学。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：二氧化碳地质封存；高压水射流；岩体力学。论文 JIF 需逐项复核。",
     "official_profile_url": "https://faculty.cqu.edu.cn/Zhezhou/zh_CN/yjfx/339755/content/3961.htm",
     "papers": [],
     "sources": [
@@ -3689,7 +3631,6 @@
     "name": "朱贤青",
     "school_id": "cqu",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "生物质热化学转化",
       "固废热解气化",
@@ -3713,7 +3654,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "重庆大学官方教师主页记录的研究方向：生物质热化学转化；固废热解气化；锂电池回收。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "重庆大学官方教师主页记录的研究方向：生物质热化学转化；固废热解气化；锂电池回收。论文 JIF 需逐项复核。",
     "official_profile_url": "https://cte.cqu.edu.cn/szdw/jszy/yxjs/xnyycnx.htm",
     "papers": [],
     "sources": [
@@ -3731,7 +3672,6 @@
     "name": "崔国栋",
     "school_id": "cug",
     "title": "特任教授、博士生导师",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "二氧化碳地质封存模拟与软件",
       "CO₂ 多相渗流换热",
@@ -3754,7 +3694,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国地质大学（武汉）工程学院官方个人主页记录的研究方向：二氧化碳地质封存模拟与软件；CO₂ 多相渗流换热；CO₂ 提高油气采收率；热流固化反应流动。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国地质大学（武汉）工程学院官方个人主页记录的研究方向：二氧化碳地质封存模拟与软件；CO₂ 多相渗流换热；CO₂ 提高油气采收率；热流固化反应流动。论文 JIF 需逐项复核。",
     "official_profile_url": "https://gcxy.cug.edu.cn/info/1082/4573.htm",
     "papers": [],
     "sources": [
@@ -3772,7 +3712,6 @@
     "name": "孔令运",
     "school_id": "cug",
     "title": "特任教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "二氧化碳封存地质力学",
       "非常规储层岩石力学",
@@ -3793,7 +3732,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国地质大学（武汉）新能源学院官方个人主页记录的研究方向：二氧化碳封存地质力学；非常规储层岩石力学；水力压裂；储层表征评价。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国地质大学（武汉）新能源学院官方个人主页记录的研究方向：二氧化碳封存地质力学；非常规储层岩石力学；水力压裂；储层表征评价。论文 JIF 需逐项复核。",
     "official_profile_url": "https://energy.cug.edu.cn/info/1043/4719.htm",
     "papers": [],
     "sources": [
@@ -3811,7 +3750,6 @@
     "name": "姚悦",
     "school_id": "cug",
     "title": "预聘副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "深层地热与油气勘探开发",
       "CCUS 陆海统筹",
@@ -3834,7 +3772,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国地质大学（武汉）新能源学院官方个人主页记录的研究方向：深层地热与油气勘探开发；CCUS 陆海统筹；二氧化碳地质封存；地下储能与碳汇。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国地质大学（武汉）新能源学院官方个人主页记录的研究方向：深层地热与油气勘探开发；CCUS 陆海统筹；二氧化碳地质封存；地下储能与碳汇。论文 JIF 需逐项复核。",
     "official_profile_url": "https://energy.cug.edu.cn/info/1045/6609.htm",
     "papers": [],
     "sources": [
@@ -3852,7 +3790,6 @@
     "name": "张准",
     "school_id": "cug",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "非常规能源储层物性智能表征",
       "三维地质建模",
@@ -3872,7 +3809,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国地质大学（武汉）工程学院官方个人主页记录的研究方向：非常规能源储层物性智能表征；三维地质建模；二氧化碳地质封存与利用。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国地质大学（武汉）工程学院官方个人主页记录的研究方向：非常规能源储层物性智能表征；三维地质建模；二氧化碳地质封存与利用。论文 JIF 需逐项复核。",
     "official_profile_url": "https://gcxy.cug.edu.cn/info/1088/8346.htm",
     "papers": [],
     "sources": [
@@ -3890,7 +3827,6 @@
     "name": "胡婷",
     "school_id": "cupbeijing",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "二氧化碳地质利用与封存",
       "油藏多组分多相数值模拟",
@@ -3911,7 +3847,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国石油大学（北京）教师个人主页记录的研究方向：二氧化碳地质利用与封存；油藏多组分多相数值模拟；海上 CCUS；碳迁移与相态分布。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国石油大学（北京）教师个人主页记录的研究方向：二氧化碳地质利用与封存；油藏多组分多相数值模拟；海上 CCUS；碳迁移与相态分布。论文 JIF 需逐项复核。",
     "official_profile_url": "https://faculty.cup.edu.cn/huting/index.html",
     "papers": [],
     "sources": [
@@ -3929,7 +3865,6 @@
     "name": "贾继辉",
     "school_id": "cupbeijing",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "二氧化碳地质封存",
       "孔隙介质中 CO₂ 运移、溶解与矿化",
@@ -3955,7 +3890,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国石油大学（北京）教师个人主页记录的研究方向：二氧化碳地质封存；孔隙介质中 CO₂ 运移、溶解与矿化；天然气水合物与储氢。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国石油大学（北京）教师个人主页记录的研究方向：二氧化碳地质封存；孔隙介质中 CO₂ 运移、溶解与矿化；天然气水合物与储氢。论文 JIF 需逐项复核。",
     "official_profile_url": "https://faculty.cup.edu.cn/jiajihui/index.html",
     "papers": [],
     "sources": [
@@ -3973,7 +3908,6 @@
     "name": "彭勃",
     "school_id": "cupbeijing",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "碳捕集、利用与封存",
       "二氧化碳地质利用",
@@ -3996,7 +3930,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国石油大学（北京）教师个人主页记录的研究方向：碳捕集、利用与封存；二氧化碳地质利用；CO₂ 驱油与监测；石油石化污染控制。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国石油大学（北京）教师个人主页记录的研究方向：碳捕集、利用与封存；二氧化碳地质利用；CO₂ 驱油与监测；石油石化污染控制。论文 JIF 需逐项复核。",
     "official_profile_url": "https://faculty.cup.edu.cn/pengbo/",
     "papers": [],
     "sources": [
@@ -4014,7 +3948,6 @@
     "name": "宋泽章",
     "school_id": "cupbeijing",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "人工智能驱动二氧化碳地质封存",
       "深部热液与储层地质",
@@ -4032,7 +3965,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国石油大学（北京）教师个人主页记录的研究方向：人工智能驱动二氧化碳地质封存；深部热液与储层地质；致密砂岩微裂缝识别。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国石油大学（北京）教师个人主页记录的研究方向：人工智能驱动二氧化碳地质封存；深部热液与储层地质；致密砂岩微裂缝识别。论文 JIF 需逐项复核。",
     "official_profile_url": "https://faculty.cup.edu.cn/songzezhang/",
     "papers": [],
     "sources": [
@@ -4050,7 +3983,6 @@
     "name": "赵阳",
     "school_id": "cupbeijing",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "CO₂ 驱油与地质封存",
       "低渗裂缝性油藏",
@@ -4070,7 +4002,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国石油大学（北京）教师个人主页记录的研究方向：CO₂ 驱油与地质封存；低渗裂缝性油藏；智能材料调控 CO₂ 运移与泄漏安全。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国石油大学（北京）教师个人主页记录的研究方向：CO₂ 驱油与地质封存；低渗裂缝性油藏；智能材料调控 CO₂ 运移与泄漏安全。论文 JIF 需逐项复核。",
     "official_profile_url": "https://faculty.cup.edu.cn/pezhaoyang/",
     "papers": [],
     "sources": [
@@ -4088,7 +4020,6 @@
     "name": "陈川",
     "school_id": "hit",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "污水低碳处理与资源化",
       "水生态碳氮硫循环",
@@ -4104,7 +4035,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "哈尔滨工业大学官方教师个人主页记录的研究方向：污水低碳处理与资源化；水生态碳氮硫循环；环境工程。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "哈尔滨工业大学官方教师个人主页记录的研究方向：污水低碳处理与资源化；水生态碳氮硫循环；环境工程。论文 JIF 需逐项复核。",
     "official_profile_url": "https://homepage.hit.edu.cn/chenchuan",
     "papers": [],
     "sources": [
@@ -4122,7 +4053,6 @@
     "name": "何玉荣",
     "school_id": "hit",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "能源清洁低碳高效利用",
       "新能源利用与储能过程中的多相流热物理学",
@@ -4142,7 +4072,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "哈尔滨工业大学官方教师个人主页记录的研究方向：能源清洁低碳高效利用；新能源利用与储能过程中的多相流热物理学；器件热管理。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "哈尔滨工业大学官方教师个人主页记录的研究方向：能源清洁低碳高效利用；新能源利用与储能过程中的多相流热物理学；器件热管理。论文 JIF 需逐项复核。",
     "official_profile_url": "https://homepage.hit.edu.cn/heyurong",
     "papers": [],
     "sources": [
@@ -4160,7 +4090,6 @@
     "name": "南军",
     "school_id": "hit",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "饮用水安全保障",
       "水处理工艺设备强化",
@@ -4176,7 +4105,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "哈尔滨工业大学官方教师个人主页记录的研究方向：饮用水安全保障；水处理工艺设备强化；水系统数值模拟与优化。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "哈尔滨工业大学官方教师个人主页记录的研究方向：饮用水安全保障；水处理工艺设备强化；水系统数值模拟与优化。论文 JIF 需逐项复核。",
     "official_profile_url": "https://homepage.hit.edu.cn/nanjun",
     "papers": [],
     "sources": [
@@ -4194,7 +4123,6 @@
     "name": "秦江",
     "school_id": "hit",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "新能源及储能开发利用",
       "空天动力",
@@ -4210,7 +4138,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "哈尔滨工业大学官方教师个人主页记录的研究方向：新能源及储能开发利用；空天动力；飞行器热管理。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "哈尔滨工业大学官方教师个人主页记录的研究方向：新能源及储能开发利用；空天动力；飞行器热管理。论文 JIF 需逐项复核。",
     "official_profile_url": "https://homepage.hit.edu.cn/qinjiang?lang=zh",
     "papers": [],
     "sources": [
@@ -4228,7 +4156,6 @@
     "name": "王博",
     "school_id": "hit",
     "title": "长聘教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "电化学储能",
       "先进电池",
@@ -4247,7 +4174,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "哈尔滨工业大学官方教师个人主页记录的研究方向：电化学储能；先进电池；储能材料；精密电化学制造。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "哈尔滨工业大学官方教师个人主页记录的研究方向：电化学储能；先进电池；储能材料；精密电化学制造。论文 JIF 需逐项复核。",
     "official_profile_url": "https://homepage.hit.edu.cn/wb?lang=zh",
     "papers": [],
     "sources": [
@@ -4265,7 +4192,6 @@
     "name": "吴清莲",
     "school_id": "hit",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "碳中和",
       "污水污泥处理与资源化能源化",
@@ -4283,7 +4209,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "哈尔滨工业大学官方教师个人主页记录的研究方向：碳中和；污水污泥处理与资源化能源化；环境生物技术。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "哈尔滨工业大学官方教师个人主页记录的研究方向：碳中和；污水污泥处理与资源化能源化；环境生物技术。论文 JIF 需逐项复核。",
     "official_profile_url": "https://homepage.hit.edu.cn/wuqinglian?lang=zh",
     "papers": [],
     "sources": [
@@ -4301,7 +4227,6 @@
     "name": "卞斌",
     "school_id": "nju",
     "title": "助理教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "微生物驱动碳源转化及资源回收技术",
       "1. 微生物电合成 – 一碳及多碳化合物生物合成",
@@ -4320,7 +4245,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：微生物驱动碳源转化及资源回收技术；1. 微生物电合成 – 一碳及多碳化合物生物合成；2. 微生物碳链延长 – 碳源高值转化；3. 导电膜生物反应器 – 生物电解制氢。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：微生物驱动碳源转化及资源回收技术；1. 微生物电合成 – 一碳及多碳化合物生物合成；2. 微生物碳链延长 – 碳源高值转化；3. 导电膜生物反应器 – 生物电解制氢。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/3411.htm",
     "papers": [],
     "sources": [
@@ -4338,7 +4263,6 @@
     "name": "蔡亮",
     "school_id": "nju",
     "title": "助理教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "阴离子交换膜（AEM）电解水制氢电极与器件研发",
       "质子交换膜（PEM）电解水制氢催化材料与器件",
@@ -4359,7 +4283,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：AEM电解水制氢电极与器件研发；PEM电解水制氢催化材料与器件；电解水制氢耦合 废塑料升级回收；工况与时间分辨 XAFS 光谱学及应用。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：AEM电解水制氢电极与器件研发；PEM电解水制氢催化材料与器件；电解水制氢耦合 废塑料升级回收；工况与时间分辨 XAFS 光谱学及应用。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/3231.htm",
     "papers": [],
     "sources": [
@@ -4377,7 +4301,6 @@
     "name": "陈骏",
     "school_id": "nju",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "矿物封存",
       "地球化学、成岩、沉积、矿物、反应动力学"
@@ -4392,7 +4315,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：矿物封存；地球化学、成岩、沉积、矿物、反应动力学。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：矿物封存；地球化学、成岩、沉积、矿物、反应动力学。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/3431.htm",
     "papers": [],
     "sources": [
@@ -4410,7 +4333,6 @@
     "name": "陈晓波",
     "school_id": "nju",
     "title": "助理教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "原位电子显微学、绿色冶金、金属腐蚀、热催化及反应机理"
     ],
@@ -4424,7 +4346,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：原位电子显微学、绿色冶金、金属腐蚀、热催化及反应机理。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：原位电子显微学、绿色冶金、金属腐蚀、热催化及反应机理。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/4301.htm",
     "papers": [],
     "sources": [
@@ -4442,7 +4364,6 @@
     "name": "陈智恒宇",
     "school_id": "nju",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "X射线全散射对分布函数分析 能源材料的同步辐射原位表征 多孔/纳米材料 非均相催化 机器学习在数据分析中的应用"
     ],
@@ -4460,7 +4381,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：X射线全散射对分布函数分析 能源材料的同步辐射原位表征 多孔/纳米材料 非均相催化 机器学习在数据分析中的应用。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：X射线全散射对分布函数分析 能源材料的同步辐射原位表征 多孔/纳米材料 非均相催化 机器学习在数据分析中的应用。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/4491.htm",
     "papers": [],
     "sources": [
@@ -4478,7 +4399,6 @@
     "name": "冯光霞",
     "school_id": "nju",
     "title": "助理教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "电化学界面反应的原位表征与储能器件设计（锂金属电池，水系金属电池）"
     ],
@@ -4494,7 +4414,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：电化学界面反应的原位表征与储能器件设计（锂金属电池，水系金属电池）。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：电化学界面反应的原位表征与储能器件设计（锂金属电池，水系金属电池）。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/4131.htm",
     "papers": [],
     "sources": [
@@ -4512,7 +4432,6 @@
     "name": "贾腾",
     "school_id": "nju",
     "title": "助理教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "太阳能高效冷/热/电/高值燃料转化与储存",
       "太阳能光伏光热一体化部件及系统",
@@ -4530,7 +4449,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：太阳能高效冷/热/电/高值燃料转化与储存；太阳能光伏光热一体化部件及系统；新能源器件与系统的能量管理与传热传质强化。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：太阳能高效冷/热/电/高值燃料转化与储存；太阳能光伏光热一体化部件及系统；新能源器件与系统的能量管理与传热传质强化。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/3371.htm",
     "papers": [],
     "sources": [
@@ -4548,7 +4467,6 @@
     "name": "姜浩",
     "school_id": "nju",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "探索物质架构原理，利用图论和人工智能等前沿技术，实现材料的大规模设计、精准构筑与能源应用"
     ],
@@ -4562,7 +4480,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：探索物质架构原理，利用图论和人工智能等前沿技术，实现材料的大规模设计、精准构筑与能源应用。。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：探索物质架构原理，利用图论和人工智能等前沿技术，实现材料的大规模设计、精准构筑与能源应用。。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/3991.htm",
     "papers": [],
     "sources": [
@@ -4580,7 +4498,6 @@
     "name": "金彪",
     "school_id": "nju",
     "title": "副教授、特聘研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "碳捕集"
     ],
@@ -4592,7 +4509,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：碳捕集。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：碳捕集。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/3211.htm",
     "papers": [],
     "sources": [
@@ -4610,7 +4527,6 @@
     "name": "金艳",
     "school_id": "nju",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "电化学能源存储材料与器件（钠离子电池、锌电池等），智能光学材料与器件（电致变色智能窗与显示器件）"
     ],
@@ -4628,7 +4544,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：电化学能源存储材料与器件（钠离子电池、锌电池等），智能光学材料与器件（电致变色智能窗与显示器件）。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：电化学能源存储材料与器件（钠离子电池、锌电池等），智能光学材料与器件（电致变色智能窗与显示器件）。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/3191.htm",
     "papers": [],
     "sources": [
@@ -4646,7 +4562,6 @@
     "name": "景旭东",
     "school_id": "nju",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "CCUS、地质封存、二氧化碳地质封存",
       "地下、多孔介质"
@@ -4663,7 +4578,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：CCUS、地质封存、二氧化碳地质封存；地下、多孔介质。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：CCUS、地质封存、二氧化碳地质封存；地下、多孔介质。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/3561.htm",
     "papers": [],
     "sources": [
@@ -4681,7 +4596,6 @@
     "name": "李俊",
     "school_id": "nju",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "CCUS、CCS、地质封存、CO₂封存",
       "地球化学、矿物、数值模拟",
@@ -4701,7 +4615,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：CCUS、CCS、地质封存、CO₂封存；地球化学、矿物、数值模拟；地下、储层、流体。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：CCUS、CCS、地质封存、CO₂封存；地球化学、矿物、数值模拟；地下、储层、流体。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/4051.htm",
     "papers": [
       {
@@ -4730,7 +4644,6 @@
     "name": "刘盛文",
     "school_id": "nju",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "氢能与燃料电池、长时储能、绿色化工、电化学催化及反应机理研究"
     ],
@@ -4754,7 +4667,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：氢能与燃料电池、长时储能、绿色化工、电化学催化及反应机理研究。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：氢能与燃料电池、长时储能、绿色化工、电化学催化及反应机理研究。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/4341.htm",
     "papers": [],
     "sources": [
@@ -4772,7 +4685,6 @@
     "name": "吕光鑫",
     "school_id": "nju",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "纳米传热学、导热高分子材料、芯片封装材料、热储能材料与技术、科学仪器设计等"
     ],
@@ -4788,7 +4700,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：纳米传热学、导热高分子材料、芯片封装材料、热储能材料与技术、科学仪器设计等。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：纳米传热学、导热高分子材料、芯片封装材料、热储能材料与技术、科学仪器设计等。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/3251.htm",
     "papers": [],
     "sources": [
@@ -4806,7 +4718,6 @@
     "name": "马朝阳",
     "school_id": "nju",
     "title": "助理教授、特聘研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "地质封存、二氧化碳地质封存",
       "地球化学、矿物",
@@ -4826,7 +4737,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：地质封存、二氧化碳地质封存；地球化学、矿物；深部、深地、地下、储层、地热、水-岩、流体。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：地质封存、二氧化碳地质封存；地球化学、矿物；深部、深地、地下、储层、地热、水-岩、流体。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/3271.htm",
     "papers": [],
     "sources": [
@@ -4844,7 +4755,6 @@
     "name": "宋琰",
     "school_id": "nju",
     "title": "助理教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "光热驱动资源提取合成（地球与地外场景）",
       "1. 地球资源提取：界面光热驱动水、金属等关键资源的绿色提取与利用",
@@ -4859,7 +4769,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：光热驱动资源提取合成（地球与地外场景）；1. 地球资源提取：界面光热驱动水、金属等关键资源的绿色提取与利用；2. 地外资源合成：面向火星等地外环境，原位光热驱动高碳化学品合成；3. 光热原位表征：光热过程的微观原位表征与机制解析。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：光热驱动资源提取合成（地球与地外场景）；1. 地球资源提取：界面光热驱动水、金属等关键资源的绿色提取与利用；2. 地外资源合成：面向火星等地外环境，原位光热驱动高碳化学品合成；3. 光热原位表征：光热过程的微观原位表征与机制解析。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/3391.htm",
     "papers": [],
     "sources": [
@@ -4877,7 +4787,6 @@
     "name": "王景阳",
     "school_id": "nju",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "钠离子电池材料，固态电解质与固态电池，第一性原理计算，材料科学人工智能"
     ],
@@ -4893,7 +4802,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：钠离子电池材料，固态电解质与固态电池，第一性原理计算，材料科学人工智能。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：钠离子电池材料，固态电解质与固态电池，第一性原理计算，材料科学人工智能。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/3291.htm",
     "papers": [],
     "sources": [
@@ -4911,7 +4820,6 @@
     "name": "王晓君",
     "school_id": "nju",
     "title": "助理教授、特聘研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "CCS、碳捕集",
       "碳循环"
@@ -4924,7 +4832,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：CCS、碳捕集；碳循环。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：CCS、碳捕集；碳循环。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/3311.htm",
     "papers": [],
     "sources": [
@@ -4942,7 +4850,6 @@
     "name": "徐加陵",
     "school_id": "nju",
     "title": "助理教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "流体"
     ],
@@ -4954,7 +4861,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：流体。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：流体。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/3651.htm",
     "papers": [],
     "sources": [
@@ -4972,7 +4879,6 @@
     "name": "颜亦超",
     "school_id": "nju",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "清洁能源存储与转换材料和器件（液流电池、钠离子电池、固态电池、钙钛矿光伏界面材料、锌电池等），绿色能源催化技术（绿色电化学合成、电催化等）"
     ],
@@ -4994,7 +4900,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：清洁能源存储与转换材料和器件（液流电池、钠离子电池、固态电池、钙钛矿光伏界面材料、锌电池等），绿色能源催化技术（绿色电化学合成、电催化等）。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：清洁能源存储与转换材料和器件（液流电池、钠离子电池、固态电池、钙钛矿光伏界面材料、锌电池等），绿色能源催化技术（绿色电化学合成、电催化等）。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/3331.htm",
     "papers": [],
     "sources": [
@@ -5012,7 +4918,6 @@
     "name": "杨成升",
     "school_id": "nju",
     "title": "助理教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "碳中和目标下的智能催化系统与动态反应科学",
       "1. 双碳目标驱动的CO₂人工光合作用系统",
@@ -5037,7 +4942,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：碳中和目标下的智能催化系统与动态反应科学；1. 双碳目标驱动的CO₂人工光合作用系统；聚焦新能源驱动CO₂制高值化学品（醇类/烯烃/含氧药物中间体）；开发光-热-电场协同调控的分子级催化界面；2. C1分子与氢能智慧催化工厂；合成气/CO₂定向转化为燃料前驱体；大数据辅助加氢/制氢催化剂理性设计；微反应器强化传递过程与动态调控；3. 多场耦合催化反应工程；电热-光热复合能场调控表面反应路径；结构化催化剂传热强化与热量集成；4. 动态催化指纹图谱；超快时间分辨原位红外光谱技术；瞬态物种同步辐射XAS追踪；催化剂表界面动态重构的工作状态原位表征表征。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：碳中和目标下的智能催化系统与动态反应科学；1. 双碳目标驱动的CO₂人工光合作用系统；聚焦新能源驱动CO₂制高值化学品（醇类/烯烃/含氧药物中间体）；开发光-热-电场协同调控的分子级催化界面；2. C1分子与氢能智慧催化工厂；合成气/CO₂定向转化为燃料前驱体；大数据辅助加氢/制氢催化剂理性设计；微反应器强化传递过程与动态调控；3. 多场耦合催化反应工程；电热-光热复合能场调控表面反应路径；结构化催化剂传热强化与热量集成；4. 动态催化指纹图谱；超快时间分辨原位红外光谱技术；瞬态物种同步辐射XAS追踪；催化剂表界面动态重构的工作状态原位表征表征。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/3131.htm",
     "papers": [],
     "sources": [
@@ -5055,7 +4960,6 @@
     "name": "袁忠诚",
     "school_id": "nju",
     "title": "助理教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "1. 多功能光电子器件与应用",
       "2. 器件界面反应机理与调控"
@@ -5068,7 +4972,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：1. 多功能光电子器件与应用；2. 器件界面反应机理与调控。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：1. 多功能光电子器件与应用；2. 器件界面反应机理与调控。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/4381.htm",
     "papers": [],
     "sources": [
@@ -5086,7 +4990,6 @@
     "name": "赵良",
     "school_id": "nju",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "碳封存、地质封存、二氧化碳封存、二氧化碳地质封存、矿物封存、碳酸盐化",
       "地球化学、矿物、反应动力学",
@@ -5106,7 +5009,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：碳封存、地质封存、二氧化碳封存、二氧化碳地质封存、矿物封存、碳酸盐化；地球化学、矿物、反应动力学；水-岩。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：碳封存、地质封存、二氧化碳封存、二氧化碳地质封存、矿物封存、碳酸盐化；地球化学、矿物、反应动力学；水-岩。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/3171.htm",
     "papers": [],
     "sources": [
@@ -5124,7 +5027,6 @@
     "name": "周来东",
     "school_id": "nju",
     "title": "助理教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "固态离子学，固态电解质，全固态电池"
     ],
@@ -5140,7 +5042,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：固态离子学，固态电解质，全固态电池。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：固态离子学，固态电解质，全固态电池。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/3591.htm",
     "papers": [],
     "sources": [
@@ -5158,7 +5060,6 @@
     "name": "朱地",
     "school_id": "nju",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "地球化学",
       "深地"
@@ -5171,7 +5072,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：地球化学；深地。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：地球化学；深地。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/3521.htm",
     "papers": [],
     "sources": [
@@ -5189,7 +5090,6 @@
     "name": "朱嘉",
     "school_id": "nju",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "基于微纳结构的光热调控领域的研究"
     ],
@@ -5201,7 +5101,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：基于微纳结构的光热调控领域的研究。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：基于微纳结构的光热调控领域的研究。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/3151.htm",
     "papers": [],
     "sources": [
@@ -5219,7 +5119,6 @@
     "name": "朱鹏臣",
     "school_id": "nju",
     "title": "助理教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "钙钛矿光电转换器件、界面光热转换机理及器件等"
     ],
@@ -5231,7 +5130,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：钙钛矿光电转换器件、界面光热转换机理及器件等。。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南京大学能源与资源学院官方个人主页记录的研究方向：钙钛矿光电转换器件、界面光热转换机理及器件等。。论文 JIF 需逐项复核。",
     "official_profile_url": "https://sser.nju.edu.cn/info/1003/3351.htm",
     "papers": [],
     "sources": [
@@ -5249,7 +5148,6 @@
     "name": "邸元",
     "school_id": "pku",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "多孔与裂隙介质 THMC 多场耦合",
       "多相流数值模拟",
@@ -5274,7 +5172,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "北京大学能源与资源工程系官方个人主页记录的研究方向：多孔与裂隙介质 THMC 多场耦合；多相流数值模拟；二氧化碳驱油与地质封存；深地储能。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "北京大学能源与资源工程系官方个人主页记录的研究方向：多孔与裂隙介质 THMC 多场耦合；多相流数值模拟；二氧化碳驱油与地质封存；深地储能。论文 JIF 需逐项复核。",
     "official_profile_url": "https://faculty.pku.edu.cn/diyuan/en/index.htm",
     "papers": [],
     "sources": [
@@ -5292,7 +5190,6 @@
     "name": "许成",
     "school_id": "pku",
     "title": "长聘教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "火成碳酸岩与稀土成矿",
       "岩石地球化学",
@@ -5306,7 +5203,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "北京大学地球与空间科学学院官方个人主页记录的研究方向：火成碳酸岩与稀土成矿；岩石地球化学；深部碳循环与地球动力学。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "北京大学地球与空间科学学院官方个人主页记录的研究方向：火成碳酸岩与稀土成矿；岩石地球化学；深部碳循环与地球动力学。论文 JIF 需逐项复核。",
     "official_profile_url": "https://faculty.pku.edu.cn/xucheng/zh_CN/kyxm/3870/list/index.htm",
     "papers": [],
     "sources": [
@@ -5324,7 +5221,6 @@
     "name": "张川",
     "school_id": "pku",
     "title": "助理教授、研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "能源系统复杂性建模",
       "碳中和技术路线设计",
@@ -5343,7 +5239,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "北京大学能源研究院官方个人主页记录的研究方向：能源系统复杂性建模；碳中和技术路线设计；能源战略与政策；能源环境系统分析。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "北京大学能源研究院官方个人主页记录的研究方向：能源系统复杂性建模；碳中和技术路线设计；能源战略与政策；能源环境系统分析。论文 JIF 需逐项复核。",
     "official_profile_url": "https://faculty.pku.edu.cn/czhang/zh_CN/index.htm",
     "papers": [],
     "sources": [
@@ -5361,7 +5257,6 @@
     "name": "章凯强",
     "school_id": "pku",
     "title": "研究员、助理教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "二氧化碳地质利用与封存",
       "地下清洁能源开发利用",
@@ -5379,7 +5274,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "北京大学能源研究院官方个人主页记录的研究方向：二氧化碳地质利用与封存；地下清洁能源开发利用；能源系统分析。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "北京大学能源研究院官方个人主页记录的研究方向：二氧化碳地质利用与封存；地下清洁能源开发利用；能源系统分析。论文 JIF 需逐项复核。",
     "official_profile_url": "https://faculty.pku.edu.cn/zhangkaiqiang/zh_CN/index.htm",
     "papers": [],
     "sources": [
@@ -5397,7 +5292,6 @@
     "name": "储伟",
     "school_id": "scu",
     "title": "二级教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "氢能化工催化",
       "锂电材料与储能器件",
@@ -5424,7 +5318,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "四川大学化学工程学院官方教师主页记录的研究方向：氢能化工催化；锂电材料与储能器件；碳基材料与能源转化；环境催化。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "四川大学化学工程学院官方教师主页记录的研究方向：氢能化工催化；锂电材料与储能器件；碳基材料与能源转化；环境催化。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ce.scu.edu.cn/info/1090/4014.htm",
     "papers": [],
     "sources": [
@@ -5442,7 +5336,6 @@
     "name": "代忠德",
     "school_id": "scu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "CO₂捕集",
       "气体膜分离",
@@ -5467,7 +5360,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "四川大学碳中和未来技术学院官方教师主页记录的研究方向：CO₂捕集；气体膜分离；大气污染控制；碳捕集转化材料与过程放大。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "四川大学碳中和未来技术学院官方教师主页记录的研究方向：CO₂捕集；气体膜分离；大气污染控制；碳捕集转化材料与过程放大。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ccnft.scu.edu.cn/info/1084/1108.htm",
     "papers": [],
     "sources": [
@@ -5485,7 +5378,6 @@
     "name": "江霞",
     "school_id": "scu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "有机固废能源化",
       "碳污协同减排",
@@ -5506,7 +5398,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "四川大学碳中和未来技术学院官方教师页记录的研究方向：有机固废能源化；碳污协同减排；生物质基碳捕集材料；碳中和技术。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "四川大学碳中和未来技术学院官方教师页记录的研究方向：有机固废能源化；碳污协同减排；生物质基碳捕集材料；碳中和技术。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ccnft.scu.edu.cn/tzhktz/tdcy/js.htm",
     "papers": [],
     "sources": [
@@ -5524,7 +5416,6 @@
     "name": "李建军",
     "school_id": "scu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "大气污染控制",
       "烟气脱硫脱硝",
@@ -5549,7 +5440,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "四川大学碳中和未来技术学院官方教师主页记录的研究方向：大气污染控制；烟气脱硫脱硝；催化材料；能源回收利用与节能降碳。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "四川大学碳中和未来技术学院官方教师主页记录的研究方向：大气污染控制；烟气脱硫脱硝；催化材料；能源回收利用与节能降碳。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ccnft.scu.edu.cn/info/1094/1593.htm",
     "papers": [],
     "sources": [
@@ -5567,7 +5458,6 @@
     "name": "王邦达",
     "school_id": "scu",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "生物质资源化",
       "工业固废资源化",
@@ -5588,7 +5478,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "四川大学碳中和未来技术学院官方教师主页记录的研究方向：生物质资源化；工业固废资源化；能源环境材料；碳中和技术。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "四川大学碳中和未来技术学院官方教师主页记录的研究方向：生物质资源化；工业固废资源化；能源环境材料；碳中和技术。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ccnft.scu.edu.cn/info/1098/1294.htm",
     "papers": [],
     "sources": [
@@ -5606,7 +5496,6 @@
     "name": "杨林",
     "school_id": "scu",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "碳中和技术",
       "工业废气处理与循环利用",
@@ -5629,7 +5518,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "四川大学碳中和未来技术学院官方教师主页记录的研究方向：碳中和技术；工业废气处理与循环利用；CO₂捕集分离；能源环境功能材料。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "四川大学碳中和未来技术学院官方教师主页记录的研究方向：碳中和技术；工业废气处理与循环利用；CO₂捕集分离；能源环境功能材料。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ccnft.scu.edu.cn/info/1085/1764.htm",
     "papers": [],
     "sources": [
@@ -5647,7 +5536,6 @@
     "name": "郑峻峰",
     "school_id": "scu",
     "title": "特聘副研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "CO₂捕集膜",
       "碳中和技术",
@@ -5666,7 +5554,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "四川大学碳中和未来技术学院官方教师主页记录的研究方向：CO₂捕集膜；碳中和技术；低碳膜分离技术；环境与化工过程。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "四川大学碳中和未来技术学院官方教师主页记录的研究方向：CO₂捕集膜；碳中和技术；低碳膜分离技术；环境与化工过程。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ccnft.scu.edu.cn/info/1085/1863.htm",
     "papers": [],
     "sources": [
@@ -5684,7 +5572,6 @@
     "name": "陈熙",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "固体废弃物资源化利用 生物质转化利用 碳材料以及绿色环保材料 纳米催化"
     ],
@@ -5702,7 +5589,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：固体废弃物资源化利用 生物质转化利用 碳材料以及绿色环保材料 纳米催化。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：固体废弃物资源化利用 生物质转化利用 碳材料以及绿色环保材料 纳米催化。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/739",
     "papers": [
       {
@@ -5769,7 +5656,6 @@
     "name": "邓涛",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "固态电池与界面电化学",
       "新型电池电解液设计与应用",
@@ -5791,7 +5677,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：固态电池与界面电化学 新型电池电解液设计与应用 AI+多尺度模拟与能源材料 课题组实验室位于闵行校区/临港低碳学院，计划长期招收化学、化工、材料、能源动力等方向的本科生、硕博生、博士后以及留学生，有固态电池、计算化学（DFT/MD）以及AI+材料应用研究经验的优先，欢迎感兴趣者邮件联系. （2026年度计划招收1名博士，2名博士后）。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：固态电池与界面电化学 新型电池电解液设计与应用 AI+多尺度模拟与能源材料 课题组实验室位于闵行校区/临港低碳学院，计划长期招收化学、化工、材料、能源动力等方向的本科生、硕博生、博士后以及留学生，有固态电池、计算化学（DFT/MD）以及AI+材料应用研究经验的优先，欢迎感兴趣者邮件联系. （2026年度计划招收1名博士，2名博士后）。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/3594",
     "papers": [
       {
@@ -5858,7 +5744,6 @@
     "name": "董春阳",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "氢的催化制取与加脱氢过程",
       "化学储氢介质催化加脱氢",
@@ -5881,7 +5766,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：氢的催化制取及平台分子的加脱氢过程是氢能经济中的关键环节。针对传统催化过程存在的高能耗，高成本，低效率的技术瓶颈，本研究小组致力于开发绿色可替代的反应新路线，构筑原子经济且稳定高效的催化新结构，开发基于同位素探针和原位谱学技术的催化机制破译新方法。研究涉及的具体方向包含以下三个方面： 1）化学储氢介质催化加脱氢的过程强化； 2）温室气体（甲烷、二氧化碳）在温和条件下的制氢及增值转化； 3）围绕烃类小分子C-H键活化及氢转移的光催化新反应。。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：氢的催化制取及平台分子的加脱氢过程是氢能经济中的关键环节。针对传统催化过程存在的高能耗，高成本，低效率的技术瓶颈，本研究小组致力于开发绿色可替代的反应新路线，构筑原子经济且稳定高效的催化新结构，开发基于同位素探针和原位谱学技术的催化机制破译新方法。研究涉及的具体方向包含以下三个方面： 1）化学储氢介质催化加脱氢的过程强化； 2）温室气体（甲烷、二氧化碳）在温和条件下的制氢及增值转化； 3）围绕烃类小分子C-H键活化及氢转移的光催化新反应。。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/4126",
     "papers": [
       {
@@ -5948,7 +5833,6 @@
     "name": "董雪",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "激光测试技术（激光成像及图像处理） 机器视觉 传感器融合"
     ],
@@ -5960,7 +5844,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：激光测试技术（激光成像及图像处理） 机器视觉 传感器融合。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：激光测试技术（激光成像及图像处理） 机器视觉 传感器融合。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/516",
     "papers": [
       {
@@ -6027,7 +5911,6 @@
     "name": "耿涌",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "循环经济、产业生态学、环境管理、气候变化政策"
     ],
@@ -6041,7 +5924,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：循环经济、产业生态学、环境管理、气候变化政策。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：循环经济、产业生态学、环境管理、气候变化政策。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/220",
     "papers": [
       {
@@ -6102,7 +5985,6 @@
     "name": "韩伟吉",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "电池储能系统管理与控制",
       "电网储能与电动汽车应用",
@@ -6121,7 +6003,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：电池储能系统管理与控制，及其在电网储能和电动汽车的应用； 绿电市场，绿证市场，碳排市场，电力市场； 需求响应、负荷预测及光伏太阳能系统。。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：电池储能系统管理与控制，及其在电网储能和电动汽车的应用； 绿电市场，绿证市场，碳排市场，电力市场； 需求响应、负荷预测及光伏太阳能系统。。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/2886",
     "papers": [
       {
@@ -6188,7 +6070,6 @@
     "name": "何道平",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "热液小分子演化与前生命化学",
       "无机合成与有机地球化学",
@@ -6221,7 +6102,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：本课题组隶属分子生命研究所，聚焦简单热液小分子如何演变为复杂生命，同时服务国家减污降碳、循环经济与全球气候变化。主要研究方向如下： ​​​​​​无机合成 天体生物学 有机地球化学 水污染与控制化学 极端环境能源化学 废弃生物质循环赋能 理论研究 前生命热液碳氮化学循环 深部生命起源 地球宜居性 地外生命痕迹反演 有机质成因&分布、转化&循环、效应&影响 深部新化学反应 深部新型稀缺能源 应用研究 二氧化碳高质化 低碳绿色脱硝技术开发 碳氮协同资源化转化 地球化学制氢/铵/烃 中草药渣腐植化技术开发 课题组长期招收化学、化工、环境、材料等方向的硕博士及博士后，欢迎感兴趣者联系。合作导师为环境学院长江学者金放鸣特聘教授,可自行选择去闵行校区环境学院做实验，https://fmjin.sjtu.edu.cn/。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：本课题组隶属分子生命研究所，聚焦简单热液小分子如何演变为复杂生命，同时服务国家减污降碳、循环经济与全球气候变化。主要研究方向如下： ​​​​​​无机合成 天体生物学 有机地球化学 水污染与控制化学 极端环境能源化学 废弃生物质循环赋能 理论研究 前生命热液碳氮化学循环 深部生命起源 地球宜居性 地外生命痕迹反演 有机质成因&分布、转化&循环、效应&影响 深部新化学反应 深部新型稀缺能源 应用研究 二氧化碳高质化 低碳绿色脱硝技术开发 碳氮协同资源化转化 地球化学制氢/铵/烃 中草药渣腐植化技术开发 课题组长期招收化学、化工、环境、材料等方向的硕博士及博士后，欢迎感兴趣者联系。合作导师为环境学院长江学者金放鸣特聘教授,可自行选择去闵行校区环境学院做实验，https://fmjin.sjtu.edu.cn/。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/3610",
     "papers": [
       {
@@ -6270,7 +6151,6 @@
     "name": "何义亮",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "水污染控制与水环境修复 新生污染物环境行为 环境友好净化技术"
     ],
@@ -6284,7 +6164,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：水污染控制与水环境修复 新生污染物环境行为 环境友好净化技术。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：水污染控制与水环境修复 新生污染物环境行为 环境友好净化技术。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/161",
     "papers": [
       {
@@ -6333,7 +6213,6 @@
     "name": "侯磊",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "CO2地质利用与封存 H2大规模地下存储 人工智能+现场数据驱动的基础理论研究 AI算法在地质工程中的应用 深地空间评价与非常规资源开发 欢迎相关专业和感兴趣的同学就以上研究方向交流！"
     ],
@@ -6345,7 +6224,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：CO2地质利用与封存 H2大规模地下存储 AI+现场数据驱动的基础理论研究 AI算法在地质工程中的应用 深地空间评价与非常规资源开发 欢迎相关专业和感兴趣的同学就以上研究方向交流！。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：CO2地质利用与封存 H2大规模地下存储 AI+现场数据驱动的基础理论研究 AI算法在地质工程中的应用 深地空间评价与非常规资源开发 欢迎相关专业和感兴趣的同学就以上研究方向交流！。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/3372",
     "papers": [
       {
@@ -6394,7 +6273,6 @@
     "name": "纪亚",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "电化学储能",
       "液流电池",
@@ -6418,7 +6296,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：电化学储能 液流 电池 固相 储能 空间解耦制氢 智能柔性 材料 常年招收化学、材料、能源动力方向的硕、博研究生，对以上研究方向感兴趣者，欢迎邮件联系！。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：电化学储能 液流 电池 固相 储能 空间解耦制氢 智能柔性 材料 常年招收化学、材料、能源动力方向的硕、博研究生，对以上研究方向感兴趣者，欢迎邮件联系！。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/2438",
     "papers": [
       {
@@ -6473,7 +6351,6 @@
     "name": "李佳",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "电子垃圾的资源化处理与处置 废旧塑料的资源化 废旧锂离子电池的资源化"
     ],
@@ -6489,7 +6366,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：电子垃圾的资源化处理与处置 废旧塑料的资源化 废旧锂离子电池的资源化。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：电子垃圾的资源化处理与处置 废旧塑料的资源化 废旧锂离子电池的资源化。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/555",
     "papers": [
       {
@@ -6538,7 +6415,6 @@
     "name": "龙霞",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "制氢关键材料与技术：碱水制氢、直接海水制氢 氢燃料电池：低铂催化剂、单原子催化剂 金属-空气电池：正极材料 催化材料设计与性能优化：人工智能、高通量筛选、表界面修饰 机理研究：高时空分辨率的谱学与成像联用技术 招收化学、材料等方向硕士、博士、博士后，欢迎感兴趣者邮件联系"
     ],
@@ -6560,7 +6436,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：制氢关键材料与技术：碱水制氢、直接海水制氢 氢燃料电池：低铂催化剂、单原子催化剂 金属-空气电池：正极材料 催化材料设计与性能优化：人工智能、高通量筛选、表界面修饰 机理研究：高时空分辨率的谱学与成像联用技术 招收化学、材料等方向硕士、博士、博士后，欢迎感兴趣者邮件联系。。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：制氢关键材料与技术：碱水制氢、直接海水制氢 氢燃料电池：低铂催化剂、单原子催化剂 金属-空气电池：正极材料 催化材料设计与性能优化：人工智能、高通量筛选、表界面修饰 机理研究：高时空分辨率的谱学与成像联用技术 招收化学、材料等方向硕士、博士、博士后，欢迎感兴趣者邮件联系。。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/2908",
     "papers": [
       {
@@ -6609,7 +6485,6 @@
     "name": "楼紫阳",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "生活垃圾填埋场稳定化及二次污染控制",
       "危险废物鉴别及源头减量技术",
@@ -6631,7 +6506,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：生活垃圾填埋场稳定化及二次污染控制； 危险废物鉴别及源头减量技术； 生活垃圾温室气体排放与削减方法； 高浓度废水处理； 固废管理与循环经济。。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：生活垃圾填埋场稳定化及二次污染控制； 危险废物鉴别及源头减量技术； 生活垃圾温室气体排放与削减方法； 高浓度废水处理； 固废管理与循环经济。。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/254",
     "papers": [
       {
@@ -6680,7 +6555,6 @@
     "name": "吕小静",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "舰艇燃气轮机混合动力及智能控制 无人船舶动力系统 空间站能源系统及数字化"
     ],
@@ -6692,7 +6566,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：舰艇燃气轮机混合动力及智能控制 无人船舶动力系统 空间站能源系统及数字化。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：舰艇燃气轮机混合动力及智能控制 无人船舶动力系统 空间站能源系统及数字化。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/773",
     "papers": [
       {
@@ -6747,7 +6621,6 @@
     "name": "彭陈",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "电催化二氧化碳还原",
       "催化结构单元与电解液设计",
@@ -6767,7 +6640,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：1、电催化二氧化碳还原 2、新型催化结构单元、电解液的设计与合成及相关催化机理研究 3、电化学二氧化碳捕获与转化。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：1、电催化二氧化碳还原 2、新型催化结构单元、电解液的设计与合成及相关催化机理研究 3、电化学二氧化碳捕获与转化。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/4615",
     "papers": [
       {
@@ -6816,7 +6689,6 @@
     "name": "任涛",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "辐射换热",
       "大气温室气体光学监测",
@@ -6831,7 +6703,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：辐射换热 大气温室气体光学监测（基于卫星光谱和人工智能） 燃烧诊断（基于红外光谱和人工智能） 高温气体光谱学 常年招收硕、博研究生，对以上研究方向感兴趣者，欢迎邮件联系！。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：辐射换热 大气温室气体光学监测（基于卫星光谱和人工智能） 燃烧诊断（基于红外光谱和人工智能） 高温气体光谱学 常年招收硕、博研究生，对以上研究方向感兴趣者，欢迎邮件联系！。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/651",
     "papers": [
       {
@@ -6880,7 +6752,6 @@
     "name": "宋东平",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "北冰洋海洋示踪剂地球化学",
       "气候变化",
@@ -6896,7 +6767,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：1. 北冰洋海洋示踪剂地球化学（δ¹⁸O, ³H/³He, SF₆, 稀有气体） 2. 气候变化 3. 碳循环的闭合 4. 地球系统及人类对其影响 5. 可持续发展与全球未来。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：1. 北冰洋海洋示踪剂地球化学（δ¹⁸O, ³H/³He, SF₆, 稀有气体） 2. 气候变化 3. 碳循环的闭合 4. 地球系统及人类对其影响 5. 可持续发展与全球未来。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/4600",
     "papers": [
       {
@@ -6925,7 +6796,6 @@
     "name": "童抗抗",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "城市多基础设施集成碳足迹核算",
       "城市净零碳转型路径",
@@ -6941,7 +6811,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：城市多基础设施集成的碳足迹核算 城市净零碳转型路径分析 城市多基础设施集成低碳转型的多重社会-环境影响评价。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：城市多基础设施集成的碳足迹核算 城市净零碳转型路径分析 城市多基础设施集成低碳转型的多重社会-环境影响评价。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/2686",
     "papers": [
       {
@@ -6990,7 +6860,6 @@
     "name": "汪凯",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "城市模拟与计算 气候风险与韧性城市 地表能量平衡 建筑通风与能耗"
     ],
@@ -7002,7 +6871,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：城市模拟与计算 气候风险与韧性城市 地表能量平衡 建筑通风与能耗。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：城市模拟与计算 气候风险与韧性城市 地表能量平衡 建筑通风与能耗。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/3094",
     "papers": [
       {
@@ -7051,7 +6920,6 @@
     "name": "王轩",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "大气环境模拟",
       "大气化学传输模式的开发",
@@ -7068,7 +6936,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：大气环境模拟；大气化学传输模式的开发；气溶胶气候效应；二次气溶胶生成机制；全球卤素循环；海洋大气相互作用等。。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：大气环境模拟；大气化学传输模式的开发；气溶胶气候效应；二次气溶胶生成机制；全球卤素循环；海洋大气相互作用等。。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/4594",
     "papers": [
       {
@@ -7117,7 +6985,6 @@
     "name": "王元星",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "电化学 CO₂ 还原",
       "电化学水分解",
@@ -7133,7 +7000,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：电化学CO2还原反应 电化学水分解反应 低维纳米材料合成 课题组常年招收硕士研究生、博士研究生和博士后，对以上研究方向感兴趣者，欢迎联系！。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：电化学CO2还原反应 电化学水分解反应 低维纳米材料合成 课题组常年招收硕士研究生、博士研究生和博士后，对以上研究方向感兴趣者，欢迎联系！。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/3507",
     "papers": [
       {
@@ -7182,7 +7049,6 @@
     "name": "薛渊",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "生物质热化学转化制备绿色燃料、化学品与高值材料",
       "城市固废与塑料资源化",
@@ -7205,7 +7071,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：生物质热化学转化制备绿色燃料、化学品及高值材料 城市固废/塑料资源化及处理 生物质/城市固废转化过程的污染检测及控制 非均相催化/非平衡态快速热解 欢迎从事上述研究方向或对上述研究感兴趣的同学联系！。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：生物质热化学转化制备绿色燃料、化学品及高值材料 城市固废/塑料资源化及处理 生物质/城市固废转化过程的污染检测及控制 非均相催化/非平衡态快速热解 欢迎从事上述研究方向或对上述研究感兴趣的同学联系！。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/783",
     "papers": [
       {
@@ -7254,7 +7120,6 @@
     "name": "姚飞",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "大气环境与影响应对",
       "可再生能源与气候变化减缓",
@@ -7270,7 +7135,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：大气环境及影响与应对 可再生能源与减缓气候变化 AI赋能可持续能源与环境研究。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：大气环境及影响与应对 可再生能源与减缓气候变化 AI赋能可持续能源与环境研究。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/4613",
     "papers": [
       {
@@ -7319,7 +7184,6 @@
     "name": "姚琳",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "智能节能材料与器件",
       "光热、光电与热电调控",
@@ -7342,7 +7206,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：1. 智能节能材料、器件和低碳应用 1). 智能光热、光电和热电调控材料 2). 太阳能利用与建筑和交通节能 2. 低碳能源转化 1). 绿氢与人工光合作用 2). 甲烷重整及去除 招收材料、化学、能源动力和环境科学方向硕士、博士，欢迎感兴趣者邮件联系！。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：1. 智能节能材料、器件和低碳应用 1). 智能光热、光电和热电调控材料 2). 太阳能利用与建筑和交通节能 2. 低碳能源转化 1). 绿氢与人工光合作用 2). 甲烷重整及去除 招收材料、化学、能源动力和环境科学方向硕士、博士，欢迎感兴趣者邮件联系！。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/2836",
     "papers": [
       {
@@ -7391,7 +7255,6 @@
     "name": "余海珊",
     "school_id": "sjtu",
     "title": "讲师",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "环境经济学 能源经济学 计量经济学 动态优化"
     ],
@@ -7407,7 +7270,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：环境经济学 能源经济学 计量经济学 动态优化。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：环境经济学 能源经济学 计量经济学 动态优化。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/353",
     "papers": [
       {
@@ -7456,7 +7319,6 @@
     "name": "张景新",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "有机固废能源化与资源化",
       "厌氧发酵与生态能源系统",
@@ -7477,7 +7339,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：有机固废能源化与资源化 新型厌氧发酵技术与能源系统 AI辅助生物反应器设计与智能控制 碳捕集与高值化利用 欢迎申请人以本科短期训练、硕士、博士、联合培养研究生、科研助理、博士后等形式加入团队。 课题组长期与新加坡国立大学合作，基于上海交通大学与新加坡国立大学CREATE-E2S2中心构建了长短期学生赴新加坡交流的机制，合作研究主要聚焦城市有机固体废弃物资源化技术和生态能源系统研究，开展“超大城市的能源与环境可持续发展解决方案”Create-E2S2项目及多个中新双方合作课题。目前，课题组赴新短期交流学生4人次，联合培养博士生1人次，欢迎环境、化学化工、生物等相关专业的申请人加入团队。有意者请将完整版CV发至邮箱lcczjx@sjtu.edu.cn。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：有机固废能源化与资源化 新型厌氧发酵技术与能源系统 AI辅助生物反应器设计与智能控制 碳捕集与高值化利用 欢迎申请人以本科短期训练、硕士、博士、联合培养研究生、科研助理、博士后等形式加入团队。 课题组长期与新加坡国立大学合作，基于上海交通大学与新加坡国立大学CREATE-E2S2中心构建了长短期学生赴新加坡交流的机制，合作研究主要聚焦城市有机固体废弃物资源化技术和生态能源系统研究，开展“超大城市的能源与环境可持续发展解决方案”Create-E2S2项目及多个中新双方合作课题。目前，课题组赴新短期交流学生4人次，联合培养博士生1人次，欢迎环境、化学化工、生物等相关专业的申请人加入团队。有意者请将完整版CV发至邮箱lcczjx@sjtu.edu.cn。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/776",
     "papers": [
       {
@@ -7526,7 +7388,6 @@
     "name": "张垚鑫",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "固液界面能质转化与多孔界面传热传质",
       "太阳能热利用",
@@ -7550,7 +7411,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：固液（水）汽界面能质转化及多孔界面传热传质 太阳能热利用技术与优化 水与能源可持续技术，光热界面水蒸发 太阳能驱动水处理（浓盐水、矿井水固废协调处置利用）与海水淡化 多物理场耦合模拟及仿真计算、智慧能源。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：固液（水）汽界面能质转化及多孔界面传热传质 太阳能热利用技术与优化 水与能源可持续技术，光热界面水蒸发 太阳能驱动水处理（浓盐水、矿井水固废协调处置利用）与海水淡化 多物理场耦合模拟及仿真计算、智慧能源。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/3336",
     "papers": [
       {
@@ -7599,7 +7460,6 @@
     "name": "张宇泉",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "资源环境经济与政策 气候变化综合评估（影响、减缓与适应） 通用代数建模系统（GAMS）语言建模编程"
     ],
@@ -7611,7 +7471,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：资源环境经济与政策 气候变化综合评估（影响、减缓与适应） GAMS语言建模编程。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：资源环境经济与政策 气候变化综合评估（影响、减缓与适应） GAMS语言建模编程。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/772",
     "papers": [
       {
@@ -7660,7 +7520,6 @@
     "name": "张振东",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "生物燃料制备与应用",
       "氨气制备与燃烧",
@@ -7677,7 +7536,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：生物燃料制备与应用 氨气制备与燃烧应用 新能源系统设计 碳捕集与利用 *有硕士名额，欢迎2025年秋季入学的硕士生报名，欢迎邮件咨询 ctchong@sjtu.edu.cn **诚聘2024/2025 博士后（燃烧）及科研助理，欢迎邮件咨询 ctchong@sjtu.edu.cn。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：生物燃料制备与应用 氨气制备与燃烧应用 新能源系统设计 碳捕集与利用 *有硕士名额，欢迎2025年秋季入学的硕士生报名，欢迎邮件咨询 ctchong@sjtu.edu.cn **诚聘2024/2025 博士后（燃烧）及科研助理，欢迎邮件咨询 ctchong@sjtu.edu.cn。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/759",
     "papers": [
       {
@@ -7716,7 +7575,6 @@
     "name": "周叶",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "电催化制氢与燃料电池",
       "过渡金属电催化",
@@ -7740,7 +7598,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：电催化（电解水/电解海水制氢、燃料电池）研究 廉价过渡金属基材料用于电催化产氧（OER）、产氢 (HER) 及氧还原 (ORR) 等反应的研究 锂电池研究 材料开发、表征分析及机理研究 退役锂离子电池活性材料回收研究 磷酸铁锂、三元锂退役正极材料结构修复、直接再生研究 招收硕士、博士研究生，欢迎对以上研究方向感兴趣者邮件联系我！。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：电催化（电解水/电解海水制氢、燃料电池）研究 廉价过渡金属基材料用于电催化产氧（OER）、产氢 (HER) 及氧还原 (ORR) 等反应的研究 锂电池研究 材料开发、表征分析及机理研究 退役锂离子电池活性材料回收研究 磷酸铁锂、三元锂退役正极材料结构修复、直接再生研究 招收硕士、博士研究生，欢迎对以上研究方向感兴趣者邮件联系我！。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/2606",
     "papers": [
       {
@@ -7769,7 +7627,6 @@
     "name": "Corbier Darius",
     "school_id": "sjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "气候变化减缓政策的社会经济、资源与气候影响评估",
       "循环经济系统与能源—经济模型",
@@ -7785,7 +7642,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：Darius Corbier's research primarily focuses on assessing the socioeconomic, resource and climatic impacts of climate change mitigation policies, with a focus on circular economic systems. He is currently developing the CIRCular Energy-Economy (CIRCEE) model, designed to analyze the key transmission channels of circular economy strategies at both the consumer and producer levels. His current research focuses on technological advancement toward green product design, the role of consumers in enabling the circular economy, and the role of critical materials in climate change mitigation.。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "上海交通大学中英国际低碳学院官方个人主页记录的研究方向：Darius Corbier's research primarily focuses on assessing the socioeconomic, resource and climatic impacts of climate change mitigation policies, with a focus on circular economic systems. He is currently developing the CIRCular Energy-Economy (CIRCEE) model, designed to analyze the key transmission channels of circular economy strategies at both the consumer and producer levels. His current research focuses on technological advancement toward green product design, the role of consumers in enabling the circular economy, and the role of critical materials in climate change mitigation.。论文 JIF 需逐项复核。",
     "official_profile_url": "https://lcc.sjtu.edu.cn/Data/View/4439",
     "papers": [
       {
@@ -7814,7 +7671,6 @@
     "name": "曾振中",
     "school_id": "sustech",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "1. 全球环境变化 2. 地球系统科学 3. 地球系统模拟 4. 气候变异及其归因 5. 植被气候相互作用 6. 生态水文、植被遥感、土地利用变化 7. 地表水文学 教学： 全球气候变化，本科课程（主讲） 生态气候学，研究生课程（主讲） 全球环境问题，本科生课程（参讲） “鹏程生态”特色思政课，本科生课程（参讲） 环境科学与工程研究方法，研究生课程（参讲）"
     ],
@@ -7832,7 +7688,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1. 全球环境变化 2. 地球系统科学 3. 地球系统模拟 4. 气候变异及其归因 5. 植被气候相互作用 6. 生态水文、植被遥感、土地利用变化 7. 地表水文学 教学： 全球气候变化，本科课程（主讲） 生态气候学，研究生课程（主讲） 全球环境问题，本科生课程（参讲） “鹏程生态”特色思政课，本科生课程（参讲） 环境科学与工程研究方法，研究生课程（参讲）。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1. 全球环境变化 2. 地球系统科学 3. 地球系统模拟 4. 气候变异及其归因 5. 植被气候相互作用 6. 生态水文、植被遥感、土地利用变化 7. 地表水文学 教学： 全球气候变化，本科课程（主讲） 生态气候学，研究生课程（主讲） 全球环境问题，本科生课程（参讲） “鹏程生态”特色思政课，本科生课程（参讲） 环境科学与工程研究方法，研究生课程（参讲）。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/51.html",
     "papers": [
       {
@@ -7871,7 +7727,6 @@
     "name": "陈洪",
     "school_id": "sustech",
     "title": "长聘副教授、研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "主要围绕含金属固态废弃物的原子级尺度结构分析、浸出重金属探测与分离及如何清洁回收与二次利用重金属为目标，开发新型表征装置与技术、新结构环境材料及重金属处理的相关环境能源器件、重金属处理、回收与二次利用工程工艺"
     ],
@@ -7889,7 +7744,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 主要围绕含金属固态废弃物的原子级尺度结构分析、浸出重金属探测与分离及如何清洁回收与二次利用重金属为目标，开发新型表征装置与技术、新结构环境材料及重金属处理的相关环境能源器件、重金属处理、回收与二次利用工程工艺。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 主要围绕含金属固态废弃物的原子级尺度结构分析、浸出重金属探测与分离及如何清洁回收与二次利用重金属为目标，开发新型表征装置与技术、新结构环境材料及重金属处理的相关环境能源器件、重金属处理、回收与二次利用工程工艺。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/43.html",
     "papers": [
       {
@@ -7918,7 +7773,6 @@
     "name": "傅宗玫",
     "school_id": "sustech",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "包括空气污染、全球及区域大气化学、化学-气候相互作用等"
     ],
@@ -7930,7 +7784,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向：包括空气污染、全球及区域大气化学、化学-气候相互作用等。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向：包括空气污染、全球及区域大气化学、化学-气候相互作用等。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/53.html",
     "papers": [
       {
@@ -7959,7 +7813,6 @@
     "name": "郭芷琳",
     "school_id": "sustech",
     "title": "副教授、研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "1. 地下水流及污染物运移数值模拟 2. 污染场地修复模拟研究 3. 流域尺度污染物迁移的升尺度研究 4. 全球变化下地下水污染风险评估方法 代表性科研项目： 1. 广东省自然科学基金杰出青年项目(2024B1515020038)，滨海城市污染水文地质模拟与预测研究，2024.01-2027.12，主持，100万 2. 国家自然科学基金面上项目(42377"
     ],
@@ -7977,7 +7830,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1. 地下水流及污染物运移数值模拟 2. 污染场地修复模拟研究 3. 流域尺度污染物迁移的升尺度研究 4. 全球变化下地下水污染风险评估方法 代表性科研项目： 1. 广东省自然科学基金杰出青年项目(2024B1515020038)，滨海城市污染水文地质模拟与预测研究，2024.01-2027.12，主持，100万 2. 国家自然科学基金面上项目(42377。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1. 地下水流及污染物运移数值模拟 2. 污染场地修复模拟研究 3. 流域尺度污染物迁移的升尺度研究 4. 全球变化下地下水污染风险评估方法 代表性科研项目： 1. 广东省自然科学基金杰出青年项目(2024B1515020038)，滨海城市污染水文地质模拟与预测研究，2024.01-2027.12，主持，100万 2. 国家自然科学基金面上项目(42377。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/33.html",
     "papers": [
       {
@@ -8006,7 +7859,6 @@
     "name": "胡清",
     "school_id": "sustech",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "1. 大数据与环境",
       "2. 城市环境工程研究",
@@ -8027,7 +7879,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1. 大数据与环境； 2. 城市环境工程研究； 3. 绿色可持续污染场地修复； 4. 环境标准、政策及战略研究； 5. 绿色技术及清洁生产； 6. 棕地开发再利用； 7. 循环经济； 8. 水处理工程。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1. 大数据与环境； 2. 城市环境工程研究； 3. 绿色可持续污染场地修复； 4. 环境标准、政策及战略研究； 5. 绿色技术及清洁生产； 6. 棕地开发再利用； 7. 循环经济； 8. 水处理工程。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/56.html",
     "papers": [
       {
@@ -8066,7 +7918,6 @@
     "name": "姜丽光",
     "school_id": "sustech",
     "title": "助理教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "为遥感水文学，重点开展对地观测技术（EO）在水文和水资源领域的理论与应用研究"
     ],
@@ -8078,7 +7929,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向：为遥感水文学，重点开展对地观测 （Earth-Observation, EO）技术在水文和水资源领域的理论与应用研究。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向：为遥感水文学，重点开展对地观测 （Earth-Observation, EO）技术在水文和水资源领域的理论与应用研究。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/20.html",
     "papers": [
       {
@@ -8117,7 +7968,6 @@
     "name": "匡星星",
     "school_id": "sustech",
     "title": "副教授、研究员",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "1) 饱和-非饱和流与水气二相流参数模型研究 2) 饱和-非饱和流与水气二相流试验与数值模拟 3) 多孔介质溶质运移数值模拟 4) 地下水对气候变化的响应 简要介绍： 1) 饱和-非饱和流与水气二相流参数模型研究 非饱和渗透系数是含水层中饱和-非饱和流与水气二相流的关键参数"
     ],
@@ -8131,7 +7981,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1) 饱和-非饱和流与水气二相流参数模型研究 2) 饱和-非饱和流与水气二相流试验与数值模拟 3) 多孔介质溶质运移数值模拟 4) 地下水对气候变化的响应 简要介绍： 1) 饱和-非饱和流与水气二相流参数模型研究 非饱和渗透系数是含水层中饱和-非饱和流与水气二相流的关键参数。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1) 饱和-非饱和流与水气二相流参数模型研究 2) 饱和-非饱和流与水气二相流试验与数值模拟 3) 多孔介质溶质运移数值模拟 4) 地下水对气候变化的响应 简要介绍： 1) 饱和-非饱和流与水气二相流参数模型研究 非饱和渗透系数是含水层中饱和-非饱和流与水气二相流的关键参数。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/47.html",
     "papers": [
       {
@@ -8160,7 +8010,6 @@
     "name": "雷洋",
     "school_id": "sustech",
     "title": "助理教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "废水处理与资源化",
       "环境电化学"
@@ -8177,7 +8026,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 废水处理与资源化、环境电化学 学术成果： * 通讯作者 1. Lei, Yang*, Zhengshuo Zhan, Michel Saakes, Renata D. van der Weijden*, and Cees JN Buisman. “Electrochemical Recovery of Phosphorus from Acidic Chee。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 废水处理与资源化、环境电化学 学术成果： * 通讯作者 1. Lei, Yang*, Zhengshuo Zhan, Michel Saakes, Renata D. van der Weijden*, and Cees JN Buisman. “Electrochemical Recovery of Phosphorus from Acidic Chee。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/21.html",
     "papers": [
       {
@@ -8206,7 +8055,6 @@
     "name": "李海龙",
     "school_id": "sustech",
     "title": "讲席教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "1.海底地下水排泄及其生态环境效应 2.海岸带地下多组分多相流数值模拟及其应用 3.海湾营养物质、污染物迁移转化规律与机理 4.地下水-地表水相互作用及其生态环境效应 代表性科研项目 ： 1. 2024-2029：国家重点研发计划项目“全球变化背景下河口海岸生态系统演变与多样性维持机制”，课题三“流域-河口-海岸连续体水动力过程与生态效应耦合模型构建及预测"
     ],
@@ -8226,7 +8074,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1.海底地下水排泄及其生态环境效应 2.海岸带地下多组分多相流数值模拟及其应用 3.海湾营养物质、污染物迁移转化规律与机理 4.地下水-地表水相互作用及其生态环境效应 代表性科研项目 ： 1. 2024-2029：国家重点研发计划项目“全球变化背景下河口海岸生态系统演变与多样性维持机制”，课题三“流域-河口-海岸连续体水动力过程与生态效应耦合模型构建及预测。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1.海底地下水排泄及其生态环境效应 2.海岸带地下多组分多相流数值模拟及其应用 3.海湾营养物质、污染物迁移转化规律与机理 4.地下水-地表水相互作用及其生态环境效应 代表性科研项目 ： 1. 2024-2029：国家重点研发计划项目“全球变化背景下河口海岸生态系统演变与多样性维持机制”，课题三“流域-河口-海岸连续体水动力过程与生态效应耦合模型构建及预测。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/58.html",
     "papers": [],
     "sources": [
@@ -8244,7 +8092,6 @@
     "name": "梁修雨",
     "school_id": "sustech",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "饱和—非饱和水流耦合模拟",
       "地表—地下水交互作用",
@@ -8259,7 +8106,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： [1]. 饱和-非饱和水流耦合模拟 [2]. 地表-地下水交互作用 [3]. 气体迁移过程及模拟 [4]. 地下水流及溶质运移的随机理论 教学： 地下水水文学（Groundwater Hydrology） 空间统计学 (Applied Geostatistics) 发表论著： （1）期刊论文 [1]. Liang, X.Y., V. Zlotnik *, 。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： [1]. 饱和-非饱和水流耦合模拟 [2]. 地表-地下水交互作用 [3]. 气体迁移过程及模拟 [4]. 地下水流及溶质运移的随机理论 教学： 地下水水文学（Groundwater Hydrology） 空间统计学 (Applied Geostatistics) 发表论著： （1）期刊论文 [1]. Liang, X.Y., V. Zlotnik *, 。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/22.html",
     "papers": [
       {
@@ -8288,7 +8135,6 @@
     "name": "刘崇炫",
     "school_id": "sustech",
     "title": "讲席教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "1) 碳氮和污染物在地下水和地表水交互带中的水文生物地球化学过程 2) 污染物在土壤和沉积物中的多尺度行为和理论 3) 微生物群落结构功能和水文生物地球化学过程的协同演化 4) 微生物的降解和固定技术 5) 环境材料 简要介绍： 1) 碳氮和污染物在地下水和地表水交互带的水文生物地球化学过程 地下水与地表水交互带是流域生态系统的一个重要组成部分, 是化学物"
     ],
@@ -8306,7 +8152,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1) 碳氮和污染物在地下水和地表水交互带中的水文生物地球化学过程 2) 污染物在土壤和沉积物中的多尺度行为和理论 3) 微生物群落结构功能和水文生物地球化学过程的协同演化 4) 微生物的降解和固定技术 5) 环境材料 简要介绍： 1) 碳氮和污染物在地下水和地表水交互带的水文生物地球化学过程 地下水与地表水交互带是流域生态系统的一个重要组成部分, 是化学物。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1) 碳氮和污染物在地下水和地表水交互带中的水文生物地球化学过程 2) 污染物在土壤和沉积物中的多尺度行为和理论 3) 微生物群落结构功能和水文生物地球化学过程的协同演化 4) 微生物的降解和固定技术 5) 环境材料 简要介绍： 1) 碳氮和污染物在地下水和地表水交互带的水文生物地球化学过程 地下水与地表水交互带是流域生态系统的一个重要组成部分, 是化学物。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/61.html",
     "papers": [],
     "sources": [
@@ -8324,7 +8170,6 @@
     "name": "刘延",
     "school_id": "sustech",
     "title": "助理教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "为生态河流动力学，重点开展天然水域中的湍流结构、泥沙输移和底栖动物的相互作用关系"
     ],
@@ -8336,7 +8181,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向：为生态河流动力学，重点开展天然水域中的湍流结构、泥沙输移和底栖动物的相互作用关系。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向：为生态河流动力学，重点开展天然水域中的湍流结构、泥沙输移和底栖动物的相互作用关系。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/19.html",
     "papers": [
       {
@@ -8375,7 +8220,6 @@
     "name": "裘文慧",
     "school_id": "sustech",
     "title": "助理教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "1. 新污染物环境检测方法开发和高通量筛查技术"
     ],
@@ -8387,7 +8231,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1. 新污染物环境检测方法开发和高通量筛查技术。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1. 新污染物环境检测方法开发和高通量筛查技术。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/34.html",
     "papers": [],
     "sources": [
@@ -8405,7 +8249,6 @@
     "name": "沈惠中",
     "school_id": "sustech",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "为区域及全球大气污染物排放清单编制及主要驱动力分析、空气质量模式的应用、人群暴露及健康评估"
     ],
@@ -8419,7 +8262,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向：为区域及全球大气污染物排放清单编制及主要驱动力分析、空气质量模式的应用、人群暴露及健康评估。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向：为区域及全球大气污染物排放清单编制及主要驱动力分析、空气质量模式的应用、人群暴露及健康评估。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/39.html",
     "papers": [
       {
@@ -8448,7 +8291,6 @@
     "name": "史海匀",
     "school_id": "sustech",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "为数字流域与水信息学、气候变化下极端水文事件、水资源可持续发展等"
     ],
@@ -8460,7 +8302,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向：为数字流域与水信息学、气候变化下极端水文事件、水资源可持续发展等。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向：为数字流域与水信息学、气候变化下极端水文事件、水资源可持续发展等。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/44.html",
     "papers": [
       {
@@ -8499,7 +8341,6 @@
     "name": "唐圆圆",
     "school_id": "sustech",
     "title": "助理教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "集中于固废污染防控及资源化、典型固废环境影响等方面"
     ],
@@ -8511,7 +8352,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向：集中于固废污染防控及资源化、典型固废环境影响等方面。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向：集中于固废污染防控及资源化、典型固废环境影响等方面。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/48.html",
     "papers": [
       {
@@ -8540,7 +8381,6 @@
     "name": "陶澍",
     "school_id": "sustech",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "主要从事微量有毒污染物排放、行为、归趋和效应等区域尺度环境过程的研究"
     ],
@@ -8552,7 +8392,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 主要从事微量有毒污染物排放、行为、归趋和效应等区域尺度环境过程的研究。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 主要从事微量有毒污染物排放、行为、归趋和效应等区域尺度环境过程的研究。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/64.html",
     "papers": [
       {
@@ -8591,7 +8431,6 @@
     "name": "田勇",
     "school_id": "sustech",
     "title": "助理教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "流域尺度地表水—地下水耦合模拟与生态水文过程",
       "环境信息科学与三维可视化",
@@ -8609,7 +8448,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 流域尺度地表水-地下水耦合模拟与生态水文过程 环境信息科学与三维可视化 水动力水质数值模拟 讲授的本科生课程： 《地理信息系统与遥感应用》 学术成果： 期刊论文： [1] Tian, Y., Zheng, Y., Zheng, C., Xiao, H., Fang, J., Zou, S., Wu, B., Yao, Y., Zhang, A., Liu,。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 流域尺度地表水-地下水耦合模拟与生态水文过程 环境信息科学与三维可视化 水动力水质数值模拟 讲授的本科生课程： 《地理信息系统与遥感应用》 学术成果： 期刊论文： [1] Tian, Y., Zheng, Y., Zheng, C., Xiao, H., Fang, J., Zou, S., Wu, B., Yao, Y., Zhang, A., Liu,。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/30.html",
     "papers": [],
     "sources": [
@@ -8627,7 +8466,6 @@
     "name": "田展",
     "school_id": "sustech",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "区域气候模式模拟及应用",
       "城市洪涝风险模拟与评估",
@@ -8642,7 +8480,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1. 区域气候模式模拟及应用 2. 城市洪涝风险模拟及评估 3. 农业生态系统模型开发及应用 4. 气候变化影响适应决策研究 代表性科研项目： 在研项目 1. 港澳大湾区响应极端复合洪涝灾害风险机理研究（国家自然科学基金重点资助项目）（2025.01-2029.12）主持 230万 2. 英国皇家工程院Distinguished International。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1. 区域气候模式模拟及应用 2. 城市洪涝风险模拟及评估 3. 农业生态系统模型开发及应用 4. 气候变化影响适应决策研究 代表性科研项目： 在研项目 1. 港澳大湾区响应极端复合洪涝灾害风险机理研究（国家自然科学基金重点资助项目）（2025.01-2029.12）主持 230万 2. 英国皇家工程院Distinguished International。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/45.html",
     "papers": [],
     "sources": [
@@ -8660,7 +8498,6 @@
     "name": "王辰",
     "school_id": "sustech",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "包括大气化学、室内空气污染、大气污染物室内外关联及影响等"
     ],
@@ -8674,7 +8511,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向：包括大气化学、室内空气污染、大气污染物室内外关联及影响等。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向：包括大气化学、室内空气污染、大气污染物室内外关联及影响等。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/38.html",
     "papers": [
       {
@@ -8703,7 +8540,6 @@
     "name": "王俊坚",
     "school_id": "sustech",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "1. 根系化学性状与功能 2. SOM生物地球化学与全球环境变化 3. DOM化学和水安全 代表性科研项目： 1. 2024 国家自然科学基金-面上项目 半干旱草地根鞘土壤有机碳组分的稳定性及其对模拟增温的响应 主持 2. 2023 广东省科技厅-公益研究与能力建设-学科类省重点实验室建设 广东省土壤与地下水污染防控及修复重点实验室 参与 3. 2023"
     ],
@@ -8719,7 +8555,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1. 根系化学性状与功能 2. SOM生物地球化学与全球环境变化 3. DOM化学和水安全 代表性科研项目： 1. 2024 国家自然科学基金-面上项目 半干旱草地根鞘土壤有机碳组分的稳定性及其对模拟增温的响应 主持 2. 2023 广东省科技厅-公益研究与能力建设-学科类省重点实验室建设 广东省土壤与地下水污染防控及修复重点实验室 参与 3. 2023 。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1. 根系化学性状与功能 2. SOM生物地球化学与全球环境变化 3. DOM化学和水安全 代表性科研项目： 1. 2024 国家自然科学基金-面上项目 半干旱草地根鞘土壤有机碳组分的稳定性及其对模拟增温的响应 主持 2. 2023 广东省科技厅-公益研究与能力建设-学科类省重点实验室建设 广东省土壤与地下水污染防控及修复重点实验室 参与 3. 2023 。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/46.html",
     "papers": [
       {
@@ -8748,7 +8584,6 @@
     "name": "王钟颍",
     "school_id": "sustech",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "膜分离",
       "纳米材料环境应用",
@@ -8770,7 +8605,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 膜分离，纳米材料环境应用，环境行为、转化及毒性 教学： 本科生课程 水处理工程 发表论著： 1. Wang Z, von dem Bussche A, Kabadi PK, Kane AB, Hurt RH, Biological and Environmental Transformations of Copper-based Nanomaterials。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 膜分离，纳米材料环境应用，环境行为、转化及毒性 教学： 本科生课程 水处理工程 发表论著： 1. Wang Z, von dem Bussche A, Kabadi PK, Kane AB, Hurt RH, Biological and Environmental Transformations of Copper-based Nanomaterials。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/40.html",
     "papers": [
       {
@@ -8799,7 +8634,6 @@
     "name": "夏雨",
     "school_id": "sustech",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "代表性科研项目： 1.深圳市科技创新委（面上项目）：2024.11-2027.10，负责人，在研 2.国家自然科学基金（面上项目）：2023.01-2026.12，负责人，在研 3.国家重点研发计划（政府间国际科技创新合作专项）：2022.01-2025.12，课题负责人，在研 4.国家重点研发计划（青年科学家项目）：课题负责人，在研 教学（教学课程和任导"
     ],
@@ -8811,7 +8645,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 代表性科研项目： 1.深圳市科技创新委（面上项目）：2024.11-2027.10，负责人，在研 2.国家自然科学基金（面上项目）：2023.01-2026.12，负责人，在研 3.国家重点研发计划（政府间国际科技创新合作专项）：2022.01-2025.12，课题负责人，在研 4.国家重点研发计划（青年科学家项目）：课题负责人，在研 教学（教学课程和任导。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 代表性科研项目： 1.深圳市科技创新委（面上项目）：2024.11-2027.10，负责人，在研 2.国家自然科学基金（面上项目）：2023.01-2026.12，负责人，在研 3.国家重点研发计划（政府间国际科技创新合作专项）：2022.01-2025.12，课题负责人，在研 4.国家重点研发计划（青年科学家项目）：课题负责人，在研 教学（教学课程和任导。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/42.html",
     "papers": [
       {
@@ -8840,7 +8674,6 @@
     "name": "杨新",
     "school_id": "sustech",
     "title": "讲席教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "包括：大气气溶胶物理化学特性及环境气候效应、城市区域空气质量、新型环境检测技术研发等"
     ],
@@ -8852,7 +8685,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向：包括：大气气溶胶物理化学特性及环境气候效应、城市区域空气质量、新型环境检测技术研发等。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向：包括：大气气溶胶物理化学特性及环境气候效应、城市区域空气质量、新型环境检测技术研发等。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/62.html",
     "papers": [
       {
@@ -8881,7 +8714,6 @@
     "name": "叶斌",
     "school_id": "sustech",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "环境管理与可持续发展管理",
       "能源生产和水处理碳减排技术经济评估"
@@ -8898,7 +8730,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1. 环境管理：环境与可持续发展管理，基于市场机制的环境政策 2. 技术经济：能源生产与水处理领域的碳减排潜力与节能减排经济技术评估 环境经济学（本科）；气候变化经济学（研究生） 论文发表： 1.英文期刊论文 2022 (77). Xia C. Y., Ye B. , Jiang J., Hou Z. L., (2022) , Review of natu。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1. 环境管理：环境与可持续发展管理，基于市场机制的环境政策 2. 技术经济：能源生产与水处理领域的碳减排潜力与节能减排经济技术评估 环境经济学（本科）；气候变化经济学（研究生） 论文发表： 1.英文期刊论文 2022 (77). Xia C. Y., Ye B. , Jiang J., Hou Z. L., (2022) , Review of natu。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/23.html",
     "papers": [
       {
@@ -8937,7 +8769,6 @@
     "name": "叶建淮",
     "school_id": "sustech",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "包括大气污染物排放特征表征、大气污染形成机制及其环境气候效应、大气污染物化学传感器的开发与应用等"
     ],
@@ -8951,7 +8782,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向：包括大气污染物排放特征表征、大气污染形成机制及其环境气候效应、大气污染物化学传感器的开发与应用等。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向：包括大气污染物排放特征表征、大气污染形成机制及其环境气候效应、大气污染物化学传感器的开发与应用等。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/37.html",
     "papers": [
       {
@@ -8990,7 +8821,6 @@
     "name": "易树平",
     "school_id": "sustech",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "放射性废物的安全处置，核素迁移机理及模拟、地下水及土壤污染调查与修复，地下水循环及环境影响评价"
     ],
@@ -9004,7 +8834,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 放射性废物的安全处置，核素迁移机理及模拟、地下水及土壤污染调查与修复，地下水循环及环境影响评价。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 放射性废物的安全处置，核素迁移机理及模拟、地下水及土壤污染调查与修复，地下水循环及环境影响评价。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/49.html",
     "papers": [],
     "sources": [
@@ -9022,7 +8852,6 @@
     "name": "张斌田",
     "school_id": "sustech",
     "title": "副教授（研究员）",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "为环境分析化学及生物传感技术，围绕新污染物的快速检测、污染物的毒性效应筛查以及分子毒理学研究，发展高灵敏的生物分析方法、生物传感器及便携式检测器件和设备等"
     ],
@@ -9034,7 +8863,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向：为环境分析化学及生物传感技术，围绕新污染物的快速检测、污染物的毒性效应筛查以及分子毒理学研究，发展高灵敏的生物分析方法、生物传感器及便携式检测器件和设备等。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向：为环境分析化学及生物传感技术，围绕新污染物的快速检测、污染物的毒性效应筛查以及分子毒理学研究，发展高灵敏的生物分析方法、生物传感器及便携式检测器件和设备等。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/36.html",
     "papers": [
       {
@@ -9073,7 +8902,6 @@
     "name": "张作泰",
     "school_id": "sustech",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "固废高效清洁利用",
       "固废综合利用有害元素污染防控",
@@ -9089,7 +8917,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： (1) 固废高效清洁利用研究 (2) 固废综合利用有害元素污染转化及防控研究 (3) 固废综合利用政策研究 讲授的本科生及研究生课程： (1) 《工业生态学》 (2) 《资源循环利用基础》 (3) 《资源循环原理与技术》 (4) 《固体废弃物处理处置与资源化》 论文与专著： 1) Book Chapter:“Chapter 12: Energy Savin。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： (1) 固废高效清洁利用研究 (2) 固废综合利用有害元素污染转化及防控研究 (3) 固废综合利用政策研究 讲授的本科生及研究生课程： (1) 《工业生态学》 (2) 《资源循环利用基础》 (3) 《资源循环原理与技术》 (4) 《固体废弃物处理处置与资源化》 论文与专著： 1) Book Chapter:“Chapter 12: Energy Savin。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/54.html",
     "papers": [
       {
@@ -9118,7 +8946,6 @@
     "name": "郑国贸",
     "school_id": "sustech",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "1.新污染物筛查 2.新污染物的环境行为 3.新污染物的人体暴露 4.代谢致毒机制 5.基于高分辨质谱的代谢组学 代表性科研项目： 1. 国家自然科学基金委员会面上项目 （主持，2025-2028，22476080） 2. 广东省自然科学基金面上项目（主持，2025-2027，22476080） 3. 国家级青年人才（主持，2023-2025） 4. 国家"
     ],
@@ -9130,7 +8957,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1.新污染物筛查 2.新污染物的环境行为 3.新污染物的人体暴露 4.代谢致毒机制 5.基于高分辨质谱的代谢组学 代表性科研项目： 1. 国家自然科学基金委员会面上项目 （主持，2025-2028，22476080） 2. 广东省自然科学基金面上项目（主持，2025-2027，22476080） 3. 国家级青年人才（主持，2023-2025） 4. 国家。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1.新污染物筛查 2.新污染物的环境行为 3.新污染物的人体暴露 4.代谢致毒机制 5.基于高分辨质谱的代谢组学 代表性科研项目： 1. 国家自然科学基金委员会面上项目 （主持，2025-2028，22476080） 2. 广东省自然科学基金面上项目（主持，2025-2027，22476080） 3. 国家级青年人才（主持，2023-2025） 4. 国家。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/35.html",
     "papers": [
       {
@@ -9169,7 +8996,6 @@
     "name": "郑焰",
     "school_id": "sustech",
     "title": "讲席教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "1） 不同空间尺度地下水天然污染物成因及对策研究 2） 地下水回补与水资源可持续性研究 3） 饮用水安全及个人健康行为关系 简要介绍： 1） 不同空间尺度地下水天然污染物成因及对策研究 地下水资源对经济的可持续发展起着举足轻重的作用"
     ],
@@ -9183,7 +9009,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1） 不同空间尺度地下水天然污染物成因及对策研究 2） 地下水回补与水资源可持续性研究 3） 饮用水安全及个人健康行为关系 简要介绍： 1） 不同空间尺度地下水天然污染物成因及对策研究 地下水资源对经济的可持续发展起着举足轻重的作用。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1） 不同空间尺度地下水天然污染物成因及对策研究 2） 地下水回补与水资源可持续性研究 3） 饮用水安全及个人健康行为关系 简要介绍： 1） 不同空间尺度地下水天然污染物成因及对策研究 地下水资源对经济的可持续发展起着举足轻重的作用。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/60.html",
     "papers": [],
     "sources": [
@@ -9201,7 +9027,6 @@
     "name": "郑一",
     "school_id": "sustech",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "1. 水资源、水环境、生态水文 2. 水-农业-环境系统关联 3. 环境大数据与人工智能 代表性科研项目： 1. 国家自然科学基金国家杰出青年科学基金项目（42325702）“陆地水循环演变及其生态环境效应”，项目负责人，2024-2028 2. 国家自然科学基金“创新研究群体”团队项目（42321004）“陆-海过渡带环境与生态科学”，核心成员，2024"
     ],
@@ -9217,7 +9042,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1. 水资源、水环境、生态水文 2. 水-农业-环境系统关联 3. 环境大数据与人工智能 代表性科研项目： 1. 国家自然科学基金国家杰出青年科学基金项目（42325702）“陆地水循环演变及其生态环境效应”，项目负责人，2024-2028 2. 国家自然科学基金“创新研究群体”团队项目（42321004）“陆-海过渡带环境与生态科学”，核心成员，2024。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1. 水资源、水环境、生态水文 2. 水-农业-环境系统关联 3. 环境大数据与人工智能 代表性科研项目： 1. 国家自然科学基金国家杰出青年科学基金项目（42325702）“陆地水循环演变及其生态环境效应”，项目负责人，2024-2028 2. 国家自然科学基金“创新研究群体”团队项目（42321004）“陆-海过渡带环境与生态科学”，核心成员，2024。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/55.html",
     "papers": [
       {
@@ -9246,7 +9071,6 @@
     "name": "朱雷",
     "school_id": "sustech",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "1. 大气化学 2. 痕量气体遥感 3. 数据同化 4. 空气质量 5. 大气 -地面-海洋交互作用 6. 温室气体 代表性科研项目： 在研科研项目： 1. 中国地区人为源非甲烷挥发性有机物日间逐时高分辨率卫星遥感监测，国家自然科学基金面上项目（ 42375090），2024.01-2027.12，项目负责人 2. 大气活性含碳成分环境与辐射效应模拟项目课"
     ],
@@ -9258,7 +9082,7 @@
     ],
     "ccus_relevance": "方法/交叉相关",
     "match_score": null,
-    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1. 大气化学 2. 痕量气体遥感 3. 数据同化 4. 空气质量 5. 大气 -地面-海洋交互作用 6. 温室气体 代表性科研项目： 在研科研项目： 1. 中国地区人为源非甲烷挥发性有机物日间逐时高分辨率卫星遥感监测，国家自然科学基金面上项目（ 42375090），2024.01-2027.12，项目负责人 2. 大气活性含碳成分环境与辐射效应模拟项目课。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "南方科技大学环境科学与工程学院官方个人主页记录的研究方向： 1. 大气化学 2. 痕量气体遥感 3. 数据同化 4. 空气质量 5. 大气 -地面-海洋交互作用 6. 温室气体 代表性科研项目： 在研科研项目： 1. 中国地区人为源非甲烷挥发性有机物日间逐时高分辨率卫星遥感监测，国家自然科学基金面上项目（ 42375090），2024.01-2027.12，项目负责人 2. 大气活性含碳成分环境与辐射效应模拟项目课。论文 JIF 需逐项复核。",
     "official_profile_url": "https://ese.sustech.edu.cn/content/teacher2/nid/101/id/24.html",
     "papers": [],
     "sources": [
@@ -9276,7 +9100,6 @@
     "name": "姜培学",
     "school_id": "tsinghua",
     "title": "教授、院士",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "低碳能源与 CCUS",
       "能源动力系统",
@@ -9295,7 +9118,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "清华大学碳中和研究院低碳能源与CCUS研究中心官方页面记录的研究方向：低碳能源与 CCUS；能源动力系统；碳捕集、利用与封存；储能与氢能。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "清华大学碳中和研究院低碳能源与CCUS研究中心官方页面记录的研究方向：低碳能源与 CCUS；能源动力系统；碳捕集、利用与封存；储能与氢能。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.icon.tsinghua.edu.cn/info/1065/1098.htm",
     "papers": [],
     "sources": [
@@ -9313,7 +9136,6 @@
     "name": "李水清",
     "school_id": "tsinghua",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "清洁煤与低碳利用",
       "燃烧与污染控制",
@@ -9336,7 +9158,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "清华大学碳中和研究院低碳能源与CCUS研究中心官方页面记录的研究方向：清洁煤与低碳利用；燃烧与污染控制；碳捕集与资源化利用；能源系统优化。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "清华大学碳中和研究院低碳能源与CCUS研究中心官方页面记录的研究方向：清洁煤与低碳利用；燃烧与污染控制；碳捕集与资源化利用；能源系统优化。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.icon.tsinghua.edu.cn/info/1065/1098.htm",
     "papers": [],
     "sources": [
@@ -9354,7 +9176,6 @@
     "name": "骞伟中",
     "school_id": "tsinghua",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "绿色反应工程",
       "二氧化碳加氢制乙醇",
@@ -9375,7 +9196,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "清华大学化学工程系教师主页记录的研究方向：绿色反应工程；二氧化碳加氢制乙醇；碳纳米材料与储能；碳材料吸附与减排。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "清华大学化学工程系教师主页记录的研究方向：绿色反应工程；二氧化碳加氢制乙醇；碳纳米材料与储能；碳材料吸附与减排。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.chemeng.tsinghua.edu.cn/info/1021/1197.htm",
     "papers": [],
     "sources": [
@@ -9393,7 +9214,6 @@
     "name": "王淑娟",
     "school_id": "tsinghua",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "传统能源低碳化",
       "新能源与储能",
@@ -9410,7 +9230,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "清华大学碳中和研究院官方交流页面记录的研究方向：传统能源低碳化；新能源与储能；智慧能源系统；人工智能赋能能源转型。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "清华大学碳中和研究院官方交流页面记录的研究方向：传统能源低碳化；新能源与储能；智慧能源系统；人工智能赋能能源转型。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.icon.tsinghua.edu.cn/info/1129/2156.htm",
     "papers": [],
     "sources": [
@@ -9428,7 +9248,6 @@
     "name": "王哲",
     "school_id": "tsinghua",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "热能动力系统建模与数字孪生",
       "储热储电",
@@ -9449,7 +9268,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "清华大学碳中和研究院官方招聘与导师页面记录的研究方向：热能动力系统建模与数字孪生；储热储电；多能耦合优化调度；CCUS与低碳能源系统。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "清华大学碳中和研究院官方招聘与导师页面记录的研究方向：热能动力系统建模与数字孪生；储热储电；多能耦合优化调度；CCUS与低碳能源系统。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.icon.tsinghua.edu.cn/jrwm.htm",
     "papers": [],
     "sources": [
@@ -9467,7 +9286,6 @@
     "name": "吴玉新",
     "school_id": "tsinghua",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "燃烧优化与测量控制",
       "氢氨燃烧",
@@ -9484,7 +9302,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "清华大学碳中和研究院低碳能源与CCUS研究中心官方页面记录的研究方向：燃烧优化与测量控制；氢氨燃烧；低碳动力系统；碳捕集与利用。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "清华大学碳中和研究院低碳能源与CCUS研究中心官方页面记录的研究方向：燃烧优化与测量控制；氢氨燃烧；低碳动力系统；碳捕集与利用。论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.icon.tsinghua.edu.cn/info/1065/1098.htm",
     "papers": [],
     "sources": [
@@ -9502,7 +9320,6 @@
     "name": "陈树军",
     "school_id": "upc",
     "title": "教授、博士生导师",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "气体吸附与吸附—水合耦合",
       "天然气与氢储运",
@@ -9523,7 +9340,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国石油大学（华东）官方教师主页记录的研究方向：气体吸附与吸附—水合耦合；天然气与氢储运；碳捕集；跨临界 CO₂ 制冷制热。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国石油大学（华东）官方教师主页记录的研究方向：气体吸附与吸附—水合耦合；天然气与氢储运；碳捕集；跨临界 CO₂ 制冷制热。论文 JIF 需逐项复核。",
     "official_profile_url": "https://cj.upc.edu.cn/2018/0328/c19272a370964/page.htm",
     "papers": [],
     "sources": [
@@ -9541,7 +9358,6 @@
     "name": "杜殿发",
     "school_id": "upc",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "深层稠油开发",
       "二氧化碳埋存与提高油气采收率",
@@ -9563,7 +9379,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国石油大学（华东）石油工程学院导师方向页记录的研究方向：深层稠油开发；二氧化碳埋存与提高油气采收率；储层渗流与地质力学。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国石油大学（华东）石油工程学院导师方向页记录的研究方向：深层稠油开发；二氧化碳埋存与提高油气采收率；储层渗流与地质力学。论文 JIF 需逐项复核。",
     "official_profile_url": "https://pe.upc.edu.cn/",
     "papers": [],
     "sources": [
@@ -9581,7 +9397,6 @@
     "name": "孙仁远",
     "school_id": "upc",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "非常规油气高效开发",
       "二氧化碳利用与封存",
@@ -9599,7 +9414,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国石油大学（华东）石油工程学院导师方向页记录的研究方向：非常规油气高效开发；二氧化碳利用与封存；油气藏渗流与提高采收率。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国石油大学（华东）石油工程学院导师方向页记录的研究方向：非常规油气高效开发；二氧化碳利用与封存；油气藏渗流与提高采收率。论文 JIF 需逐项复核。",
     "official_profile_url": "https://pe.upc.edu.cn/",
     "papers": [],
     "sources": [
@@ -9617,7 +9432,6 @@
     "name": "王森",
     "school_id": "upc",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "储碳储氢与智能油田",
       "CO₂ 利用与封存",
@@ -9632,7 +9446,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国石油大学（华东）官方教师主页记录的研究方向：储碳储氢与智能油田；CO₂ 利用与封存；油藏数值模拟；大数据与人工智能。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国石油大学（华东）官方教师主页记录的研究方向：储碳储氢与智能油田；CO₂ 利用与封存；油藏数值模拟；大数据与人工智能。论文 JIF 需逐项复核。",
     "official_profile_url": "https://skldog.upc.edu.cn/2025/1103/c22290a475209/page.htm",
     "papers": [],
     "sources": [
@@ -9650,7 +9464,6 @@
     "name": "郑俊杰",
     "school_id": "upc",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "二氧化碳捕集、利用与封存",
       "天然气水合物",
@@ -9669,7 +9482,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国石油大学（华东）石油工程学院官方个人主页记录的研究方向：二氧化碳捕集、利用与封存；天然气水合物；低品位天然气回收；天然气与氢气储运。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国石油大学（华东）石油工程学院官方个人主页记录的研究方向：二氧化碳捕集、利用与封存；天然气水合物；低品位天然气回收；天然气与氢气储运。论文 JIF 需逐项复核。",
     "official_profile_url": "https://pe.upc.edu.cn/2025/0108/c20542a450133/page.htm",
     "papers": [],
     "sources": [
@@ -9687,7 +9500,6 @@
     "name": "陈文翔",
     "school_id": "ustc",
     "title": "特任教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "无机和有机储能材料",
       "电极材料原子尺度缺陷",
@@ -9704,7 +9516,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "中国科学技术大学官方教师主页记录的研究方向：无机和有机储能材料；电极材料原子尺度缺陷；有机氧化还原活性材料；储能材料结构表征。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学技术大学官方教师主页记录的研究方向：无机和有机储能材料；电极材料原子尺度缺陷；有机氧化还原活性材料；储能材料结构表征。论文 JIF 需逐项复核。",
     "official_profile_url": "https://faculty.ustc.edu.cn/chenwenxiang/zh_CN/yjfx/1027967/content/6479.htm",
     "papers": [],
     "sources": [
@@ -9722,7 +9534,6 @@
     "name": "李洪良",
     "school_id": "ustc",
     "title": "特任教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "二氧化碳催化转化",
       "二氧化碳加氢",
@@ -9742,7 +9553,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国科学技术大学官方教师主页记录的研究方向：二氧化碳催化转化；二氧化碳加氢；合成气转化；低碳烷烃转化；塑料降解。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学技术大学官方教师主页记录的研究方向：二氧化碳催化转化；二氧化碳加氢；合成气转化；低碳烷烃转化；塑料降解。论文 JIF 需逐项复核。",
     "official_profile_url": "https://faculty.ustc.edu.cn/lihongliang/zh_CN/index.htm",
     "papers": [],
     "sources": [
@@ -9760,7 +9571,6 @@
     "name": "刘江涛",
     "school_id": "ustc",
     "title": "特任教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "碳达峰碳中和",
       "二氧化碳分离捕集",
@@ -9784,7 +9594,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国科学技术大学官方教师主页记录的研究方向：碳达峰碳中和；二氧化碳分离捕集；膜材料与膜过程；环境工程水处理；油水分离与盐湖提锂。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学技术大学官方教师主页记录的研究方向：碳达峰碳中和；二氧化碳分离捕集；膜材料与膜过程；环境工程水处理；油水分离与盐湖提锂。论文 JIF 需逐项复核。",
     "official_profile_url": "https://faculty.ustc.edu.cn/liujiangtao/zh_CN/yjfx/10289/content/5295.htm",
     "papers": [],
     "sources": [
@@ -9802,7 +9612,6 @@
     "name": "余彦",
     "school_id": "ustc",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "锂离子电池、钠离子电池与钠硫电池关键电极材料",
       "化学储能",
@@ -9822,7 +9631,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "中国科学技术大学官方教师主页记录的研究方向：锂离子电池、钠离子电池与钠硫电池关键电极材料；化学储能；燃料电池。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学技术大学官方教师主页记录的研究方向：锂离子电池、钠离子电池与钠硫电池关键电极材料；化学储能；燃料电池。论文 JIF 需逐项复核。",
     "official_profile_url": "https://faculty.ustc.edu.cn/yuyan/zh_CN/yjfx/1026754/content/1924.htm",
     "papers": [],
     "sources": [
@@ -9840,7 +9649,6 @@
     "name": "曾杰",
     "school_id": "ustc",
     "title": "讲席教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "二氧化碳催化转化",
       "二氧化碳加氢",
@@ -9861,7 +9669,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "中国科学技术大学官方教师主页记录的研究方向：二氧化碳催化转化；二氧化碳加氢；合成气与低碳化学品；催化材料。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学技术大学官方教师主页记录的研究方向：二氧化碳催化转化；二氧化碳加氢；合成气与低碳化学品；催化材料。论文 JIF 需逐项复核。",
     "official_profile_url": "https://faculty.ustc.edu.cn/cengjie/zh_CN/more/998587/jsjjgd/index.htm",
     "papers": [],
     "sources": [
@@ -9879,7 +9687,6 @@
     "name": "朱彦武",
     "school_id": "ustc",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "碳基材料能量存储与转换",
       "碳材料与电化学储能",
@@ -9899,7 +9706,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "中国科学技术大学官方教师主页记录的研究方向：碳基材料能量存储与转换；碳材料与电化学储能；能源材料。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "中国科学技术大学官方教师主页记录的研究方向：碳基材料能量存储与转换；碳材料与电化学储能；能源材料。论文 JIF 需逐项复核。",
     "official_profile_url": "https://faculty.ustc.edu.cn/zhuyanwu/zh_CN/yjfx/90217/content/2188.htm",
     "papers": [],
     "sources": [
@@ -9917,7 +9724,6 @@
     "name": "Chang Li",
     "school_id": "westlake",
     "title": "助理教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "多价金属离子界面电化学",
       "水系锌电池",
@@ -9937,7 +9743,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "西湖大学界面电化学工程实验室官方主页记录的研究方向：多价金属离子界面电化学；水系锌电池；电化学储能与转化。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "西湖大学界面电化学工程实验室官方主页记录的研究方向：多价金属离子界面电化学；水系锌电池；电化学储能与转化。论文 JIF 需逐项复核。",
     "official_profile_url": "https://en.westlake.edu.cn/faculty/chang-li.html",
     "papers": [],
     "sources": [
@@ -9955,7 +9761,6 @@
     "name": "Kai Liu",
     "school_id": "westlake",
     "title": "助理教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "环境与能源催化",
       "单原子催化材料",
@@ -9982,7 +9787,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "西湖大学水—能源韧性研究实验室官方主页记录的研究方向：环境与能源催化；单原子催化材料；二氧化碳电还原；水处理与资源化。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "西湖大学水—能源韧性研究实验室官方主页记录的研究方向：环境与能源催化；单原子催化材料；二氧化碳电还原；水处理与资源化。论文 JIF 需逐项复核。",
     "official_profile_url": "https://en.westlake.edu.cn/faculty/kai-liu.html",
     "papers": [],
     "sources": [
@@ -10000,7 +9805,6 @@
     "name": "Lele Duan",
     "school_id": "westlake",
     "title": "长聘副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "电催化剂设计与机理",
       "碱性膜电极水电解",
@@ -10023,7 +9827,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "西湖大学人工光合作用与太阳能燃料中心官方主页记录的研究方向：电催化剂设计与机理；碱性膜电极水电解；石墨炔碳材料；绿色制氢。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "西湖大学人工光合作用与太阳能燃料中心官方主页记录的研究方向：电催化剂设计与机理；碱性膜电极水电解；石墨炔碳材料；绿色制氢。论文 JIF 需逐项复核。",
     "official_profile_url": "https://en.westlake.edu.cn/faculty/lele-duan.html",
     "papers": [],
     "sources": [
@@ -10041,7 +9845,6 @@
     "name": "Ling Li",
     "school_id": "westlake",
     "title": "讲席教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "生态水文",
       "多尺度多相多孔介质流动与运移",
@@ -10064,7 +9867,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "西湖大学生态环境研究实验室官方主页记录的研究方向：生态水文；多尺度多相多孔介质流动与运移；环境系统模拟；污染控制与全球变化。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "西湖大学生态环境研究实验室官方主页记录的研究方向：生态水文；多尺度多相多孔介质流动与运移；环境系统模拟；污染控制与全球变化。论文 JIF 需逐项复核。",
     "official_profile_url": "https://en.westlake.edu.cn/faculty/ling-li.html",
     "papers": [],
     "sources": [
@@ -10082,7 +9885,6 @@
     "name": "Pan Wang",
     "school_id": "westlake",
     "title": "助理教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "有机功能材料",
       "液流电池",
@@ -10102,7 +9904,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "西湖大学有机功能材料实验室官方主页记录的研究方向：有机功能材料；液流电池；能源存储与转换。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "西湖大学有机功能材料实验室官方主页记录的研究方向：有机功能材料；液流电池；能源存储与转换。论文 JIF 需逐项复核。",
     "official_profile_url": "https://en.westlake.edu.cn/faculty/pan-wang.html",
     "papers": [],
     "sources": [
@@ -10120,7 +9922,6 @@
     "name": "Weixuan Nie",
     "school_id": "westlake",
     "title": "助理教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "电催化二氧化碳还原",
       "光电化学 CO₂ 转化",
@@ -10140,7 +9941,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "西湖大学电催化 CO₂ 转化实验室官方主页记录的研究方向：电催化二氧化碳还原；光电化学 CO₂ 转化；高选择性液体燃料合成。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "西湖大学电催化 CO₂ 转化实验室官方主页记录的研究方向：电催化二氧化碳还原；光电化学 CO₂ 转化；高选择性液体燃料合成。论文 JIF 需逐项复核。",
     "official_profile_url": "https://en.westlake.edu.cn/faculty/weixuan-nie.html",
     "papers": [],
     "sources": [
@@ -10158,7 +9959,6 @@
     "name": "Yu Chen",
     "school_id": "westlake",
     "title": "助理教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "储能材料",
       "固态电池正极材料",
@@ -10176,7 +9976,7 @@
     ],
     "ccus_relevance": "交叉相关",
     "match_score": null,
-    "direction_match": "西湖大学工学院能源存储材料实验室官方主页记录的研究方向：储能材料；固态电池正极材料；无机材料设计与合成。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "西湖大学工学院能源存储材料实验室官方主页记录的研究方向：储能材料；固态电池正极材料；无机材料设计与合成。论文 JIF 需逐项复核。",
     "official_profile_url": "https://en.westlake.edu.cn/faculty/yu-chen.html",
     "papers": [],
     "sources": [
@@ -10194,7 +9994,6 @@
     "name": "李会雄",
     "school_id": "xjtu",
     "title": "教授",
-    "degree_supervision": "博士生导师",
     "official_directions": [
       "多相流动与传热传质",
       "气液两相流数值模拟",
@@ -10230,7 +10029,6 @@
     "name": "马原",
     "school_id": "xjtu",
     "title": "副教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "低温两相流动换热",
       "低温安全储运技术"
@@ -10261,7 +10059,6 @@
     "name": "王树众",
     "school_id": "xjtu",
     "title": "教授",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "非牛顿流体多相流动与传热",
       "泡沫驱油技术",
@@ -10299,7 +10096,6 @@
     "name": "赵昆鹏",
     "school_id": "xjtu",
     "title": "副教授",
-    "degree_supervision": "博士生导师",
     "official_directions": [
       "化石能源高效开发与清洁利用",
       "可再生能源长时储运与融合利用",
@@ -10333,7 +10129,6 @@
     "name": "程少安",
     "school_id": "zju",
     "title": "教授、博士生导师",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "微生物电化学能源系统",
       "氢能与绿色储能",
@@ -10357,7 +10152,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "浙江大学能源工程学院官方个人主页记录的研究方向：微生物电化学能源系统；氢能与绿色储能；废水资源化；海水光热界面蒸发；二氧化碳转化利用。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "浙江大学能源工程学院官方个人主页记录的研究方向：微生物电化学能源系统；氢能与绿色储能；废水资源化；海水光热界面蒸发；二氧化碳转化利用。论文 JIF 需逐项复核。",
     "official_profile_url": "https://person.zju.edu.cn/en/0008086",
     "papers": [],
     "sources": [
@@ -10375,7 +10170,6 @@
     "name": "傅杰",
     "school_id": "zju",
     "title": "教授、博士生导师",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "生物质化学转化",
       "电化学二氧化碳转化",
@@ -10397,7 +10191,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "浙江大学化学工程与生物工程学院官方个人主页记录的研究方向：生物质化学转化；电化学二氧化碳转化；纳米催化剂设计与合成。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "浙江大学化学工程与生物工程学院官方个人主页记录的研究方向：生物质化学转化；电化学二氧化碳转化；纳米催化剂设计与合成。论文 JIF 需逐项复核。",
     "official_profile_url": "https://person.zju.edu.cn/en/jiefu",
     "papers": [],
     "sources": [
@@ -10415,7 +10209,6 @@
     "name": "王涛",
     "school_id": "zju",
     "title": "教授、博士生导师",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "二氧化碳捕集、封存与利用",
       "能源动力系统",
@@ -10431,7 +10224,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "浙江大学能源工程学院官方个人主页记录的研究方向：二氧化碳捕集、封存与利用；能源动力系统；低碳热能工程。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "浙江大学能源工程学院官方个人主页记录的研究方向：二氧化碳捕集、封存与利用；能源动力系统；低碳热能工程。论文 JIF 需逐项复核。",
     "official_profile_url": "https://person.zju.edu.cn/en/co2",
     "papers": [],
     "sources": [
@@ -10449,7 +10242,6 @@
     "name": "肖刚",
     "school_id": "zju",
     "title": "教授、博士生导师",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "太阳能热发电",
       "热储能",
@@ -10467,7 +10259,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "浙江大学能源工程学院官方个人主页记录的研究方向：太阳能热发电；热储能；斯特林循环；布雷顿循环；超临界 CO₂。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "浙江大学能源工程学院官方个人主页记录的研究方向：太阳能热发电；热储能；斯特林循环；布雷顿循环；超临界 CO₂。论文 JIF 需逐项复核。",
     "official_profile_url": "https://person.zju.edu.cn/en/xiaogangtianmen",
     "papers": [],
     "sources": [
@@ -10485,7 +10277,6 @@
     "name": "支晓勤",
     "school_id": "zju",
     "title": "教授、博士生导师",
-    "degree_supervision": "招生资格待核验",
     "official_directions": [
       "低温制冷与气体液化",
       "低温二氧化碳捕集",
@@ -10503,7 +10294,7 @@
     ],
     "ccus_relevance": "直接相关",
     "match_score": null,
-    "direction_match": "浙江大学能源工程学院官方个人主页记录的研究方向：低温制冷与气体液化；低温二氧化碳捕集；低温分离过程。招生资格和论文 JIF 需逐项复核。",
+    "direction_match": "浙江大学能源工程学院官方个人主页记录的研究方向：低温制冷与气体液化；低温二氧化碳捕集；低温分离过程。论文 JIF 需逐项复核。",
     "official_profile_url": "https://person.zju.edu.cn/en/0015155",
     "papers": [],
     "sources": [

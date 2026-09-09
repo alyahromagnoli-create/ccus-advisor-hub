@@ -4,7 +4,7 @@
     "name": "重庆大学",
     "kind": "university",
     "official_url": "https://www.cqu.edu.cn/",
-    "selection_reason": "作为用户本科背景的比较基准纳入高校池；相关学院、导师方向与当年招生资格仍需逐项核验。",
+    "selection_reason": "作为用户本科背景的比较基准纳入高校池；相关学院与导师方向仍需逐项核验。",
     "checked_at": "2026-09-08",
     "status": "待核验"
   },
@@ -76,7 +76,7 @@
     "name": "浙江大学",
     "kind": "university",
     "official_url": "https://www.zju.edu.cn/",
-    "selection_reason": "纳入能源、化工、环境与地学交叉方向候选池，具体 CCUS 导师和招生资格留待官方页面核验。",
+    "selection_reason": "纳入能源、化工、环境与地学交叉方向候选池，具体 CCUS 导师留待官方页面核验。",
     "checked_at": "2026-09-08",
     "status": "待核验"
   },
@@ -94,7 +94,7 @@
     "name": "中国石油大学（华东）",
     "kind": "university",
     "official_url": "https://www.upc.edu.cn/",
-    "selection_reason": "纳入油气储层、输运与低碳能源方法候选池，具体导师方向及招生资格需要官方来源确认。",
+    "selection_reason": "纳入油气储层、输运与低碳能源方法候选池，具体导师方向需要官方来源确认。",
     "checked_at": "2026-09-08",
     "status": "待核验"
   },
@@ -130,7 +130,7 @@
     "name": "中国科学院广州能源研究所",
     "kind": "institute",
     "official_url": "http://www.giec.cas.cn/",
-    "selection_reason": "纳入能源转化、气体水合物与低碳技术候选池，具体导师及当年招生资格需要官方个人页确认。",
+    "selection_reason": "纳入能源转化、气体水合物与低碳技术候选池，具体导师需要官方个人页确认。",
     "checked_at": "2026-09-08",
     "status": "待核验"
   },

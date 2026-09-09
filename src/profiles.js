@@ -104,7 +104,7 @@ export function renderAdvisorCard(advisor, school) {
     <div class="card-top">
       <div>
         <h3>${escapeHtml(textOrPending(advisor.name, '导师姓名待核验'))}</h3>
-        <p class="advisor-role">${escapeHtml(textOrPending(advisor.title, '职称待核验'))} · ${escapeHtml(textOrPending(advisor.degree_supervision, '导师资格待核验'))}</p>
+        <p class="advisor-role">${escapeHtml(textOrPending(advisor.title, '职称待核验'))}</p>
         <p class="institution">${escapeHtml(textOrPending(school?.name, '院校待核验'))}</p>
       </div>
       <div class="card-badges">
@@ -160,7 +160,7 @@ export function renderProfileContent(advisor, school, privateRecord = {}) {
   return `<div class="profile-head">
     <span class="eyebrow">导师档案</span>
     <h2 id="dialog-name">${escapeHtml(textOrPending(advisor.name, '导师姓名待核验'))}</h2>
-    <p class="institution">${escapeHtml(textOrPending(school?.name, '院校待核验'))} · ${escapeHtml(textOrPending(advisor.title, '职称待核验'))} · ${escapeHtml(textOrPending(advisor.degree_supervision, '导师资格待核验'))}</p>
+    <p class="institution">${escapeHtml(textOrPending(school?.name, '院校待核验'))} · ${escapeHtml(textOrPending(advisor.title, '职称待核验'))}</p>
     <div class="profile-status"><span class="relevance-badge">CCUS 相关度：${escapeHtml(textOrPending(advisor.ccus_relevance))}</span><span class="evidence-badge">${escapeHtml(textOrPending(advisor.review_status))}</span><span>核验日期 ${escapeHtml(textOrPending(advisor.checked_at))}</span></div>
   </div>
   <section class="profile-section" aria-labelledby="direction-heading">
