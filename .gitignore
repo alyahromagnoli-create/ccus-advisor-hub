@@ -1,5 +1,8 @@
 .vercel/
 .wrangler/
+.npm-cache/
 node_modules/
 *.log
 
+
+.vercel

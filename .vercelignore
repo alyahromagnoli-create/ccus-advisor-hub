@@ -1,0 +1,11 @@
+.git/
+.github/
+.npm-cache/
+.vercel/
+.wrangler/
+cloudflare-upload-v1/
+cloudflare-upload-v2/
+cloudflare-agent-setup-prompt-*.md
+tmp/
+node_modules/
+*.log
