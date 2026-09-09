@@ -57,6 +57,13 @@ function officialProfile(advisor) {
   return source ? { url: source.url, label: source.label || '教师官网' } : null;
 }
 
+function avatarMarkup(advisor, className, imageClassName) {
+  const avatarUrl = safeHttpUrl(advisor.avatar_url);
+  const fallback = escapeHtml(String(advisor.name || '导').trim().slice(0, 1) || '导');
+  if (!avatarUrl) return `<span class="${className} ${className}-fallback" aria-hidden="true">${fallback}</span>`;
+  return `<span class="${className}"><img class="${imageClassName}" src="${escapeHtml(avatarUrl)}" alt="${escapeHtml(textOrPending(advisor.name, '导师'))}官网头像" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.classList.add('${className}-fallback');this.remove()"></span>`;
+}
+
 function paperDetails(paper) {
   if (!paper) return { title: '代表论文待核验', jif: '期刊 JIF（年份）待核验' };
   return {
@@ -99,10 +106,12 @@ export function renderAdvisorCard(advisor, school) {
   const tags = (Array.isArray(advisor.site_tags) ? advisor.site_tags : [])
     .map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`)
     .join('');
+  const avatar = avatarMarkup(advisor, 'advisor-avatar', 'advisor-avatar-image');
 
   return `<article class="advisor-card" data-advisor-id="${escapeHtml(advisor.id)}">
     <div class="card-top">
-      <div>
+      ${avatar}
+      <div class="advisor-identity">
         <h3>${escapeHtml(textOrPending(advisor.name, '导师姓名待核验'))}</h3>
         <p class="advisor-role">${escapeHtml(textOrPending(advisor.title, '职称待核验'))}</p>
         <p class="institution">${escapeHtml(textOrPending(school?.name, '院校待核验'))}</p>
@@ -156,12 +165,13 @@ export function renderProfileContent(advisor, school, privateRecord = {}) {
   const tags = (Array.isArray(advisor.site_tags) ? advisor.site_tags : [])
     .map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`)
     .join('');
+  const avatar = avatarMarkup(advisor, 'profile-avatar', 'profile-avatar-image');
 
   return `<div class="profile-head">
     <span class="eyebrow">导师档案</span>
-    <h2 id="dialog-name">${escapeHtml(textOrPending(advisor.name, '导师姓名待核验'))}</h2>
+    <div class="profile-identity">${avatar}<div><h2 id="dialog-name">${escapeHtml(textOrPending(advisor.name, '导师姓名待核验'))}</h2>
     <p class="institution">${escapeHtml(textOrPending(school?.name, '院校待核验'))} · ${escapeHtml(textOrPending(advisor.title, '职称待核验'))}</p>
-    <div class="profile-status"><span class="relevance-badge">CCUS 相关度：${escapeHtml(textOrPending(advisor.ccus_relevance))}</span><span class="evidence-badge">${escapeHtml(textOrPending(advisor.review_status))}</span><span>核验日期 ${escapeHtml(textOrPending(advisor.checked_at))}</span></div>
+    <div class="profile-status"><span class="relevance-badge">CCUS 相关度：${escapeHtml(textOrPending(advisor.ccus_relevance))}</span><span class="evidence-badge">${escapeHtml(textOrPending(advisor.review_status))}</span><span>核验日期 ${escapeHtml(textOrPending(advisor.checked_at))}</span></div></div></div>
   </div>
   <section class="profile-section" aria-labelledby="direction-heading">
     <h3 id="direction-heading">研究方向匹配</h3>
