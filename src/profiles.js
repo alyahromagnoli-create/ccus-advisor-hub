@@ -57,8 +57,14 @@ function officialProfile(advisor) {
   return source ? { url: source.url, label: source.label || '教师官网' } : null;
 }
 
+function safeAvatarAsset(value) {
+  return typeof value === 'string' && /^assets\/advisor-portraits\/[a-z0-9._-]+\.png$/i.test(value)
+    ? `./${value}`
+    : '';
+}
+
 function avatarMarkup(advisor, className, imageClassName) {
-  const avatarUrl = safeHttpUrl(advisor.avatar_url);
+  const avatarUrl = safeAvatarAsset(advisor.avatar_asset) || safeHttpUrl(advisor.avatar_url);
   const fallback = escapeHtml(String(advisor.name || '导').trim().slice(0, 1) || '导');
   if (!avatarUrl) return `<span class="${className} ${className}-fallback" aria-hidden="true">${fallback}</span>`;
   return `<span class="${className}"><img class="${imageClassName}" src="${escapeHtml(avatarUrl)}" alt="${escapeHtml(textOrPending(advisor.name, '导师'))}官网头像" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.classList.add('${className}-fallback');this.remove()"></span>`;
