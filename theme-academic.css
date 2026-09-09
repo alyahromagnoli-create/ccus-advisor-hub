@@ -1,0 +1,87 @@
+/* Public directory theme: a calm academic catalogue with visible editorial structure. */
+:root {
+  --ink: #173136;
+  --muted: #64787b;
+  --line: #cfdbda;
+  --paper: #f5f8f7;
+  --card: #ffffff;
+  --green: #126653;
+  --mint: #e3f0eb;
+  --amber: #93601e;
+  --shadow: none;
+  --radius: 0;
+  font-family: "Noto Sans SC", "Microsoft YaHei", sans-serif;
+}
+
+body { background: var(--paper); color: var(--ink); }
+body::before { content: ""; position: fixed; inset: 0; z-index: -1; pointer-events: none; background-image: linear-gradient(90deg, transparent 0, transparent calc(8.333% - 1px), #12665308 calc(8.333% - 1px), #12665308 8.333%); background-size: min(12vw, 156px) 100%; }
+.site-header { height: 80px; padding: 0 clamp(22px, 5vw, 84px); border-color: var(--line); background: #ffffffee; backdrop-filter: blur(14px); z-index: 5; }
+.brand { gap: 13px; }
+.brand-mark { width: 38px; height: 38px; border: 1px solid var(--green); border-radius: 50%; background: transparent; color: var(--green); font: 700 16px/1 "Noto Serif SC", SimSun, serif; }
+.brand strong, .hero h1, .panel-heading h2, .results-heading h2, .private-progress h2, .profile-head h2 { font-family: "Noto Serif SC", "Songti SC", SimSun, serif; font-weight: 600; }
+.brand strong { font-size: 18px; letter-spacing: .08em; }
+.brand small { color: var(--muted); letter-spacing: .11em; }
+nav { gap: 30px; }
+nav a { padding: 30px 0; }
+nav a.active { color: var(--green); border-bottom-width: 1px; }
+.page-shell { max-width: 1520px; padding: 76px clamp(22px, 5vw, 84px) 110px; }
+.hero { max-width: 950px; margin-bottom: 64px; }
+.eyebrow { color: var(--green); font-size: 11px; letter-spacing: .2em; }
+.hero h1 { font-size: clamp(44px, 5.8vw, 80px); line-height: 1.12; letter-spacing: .025em; margin: 14px 0; }
+.hero h1 em { color: var(--green); }
+.hero-copy { max-width: 600px; color: var(--muted); font-size: 15px; }
+.search-box { height: 60px; max-width: 760px; border-radius: 0; border-color: #aebfbd; background: #ffffffcc; box-shadow: none; }
+.search-box span { color: var(--green); }
+.search-box:focus-within { border-color: var(--green); box-shadow: 0 0 0 3px #12665318; }
+kbd { border-radius: 0; }
+.workspace-grid { grid-template-columns: 274px minmax(0, 1fr); gap: 46px; }
+.filter-panel { position: sticky; top: 108px; align-self: start; border-top: 2px solid var(--green); border-bottom: 1px solid var(--line); padding: 20px 0 22px; }
+.panel-heading h2, .results-heading h2, .private-progress h2 { font-size: 25px; letter-spacing: .03em; }
+.text-button { color: var(--green); text-decoration: underline; text-underline-offset: 4px; }
+.filter-group { border-color: var(--line); padding: 16px 0; }
+.filter-group summary { font-size: 14px; letter-spacing: .04em; }
+.summary-icon { width: 8px; height: 8px; border: 1px solid var(--green); transform: rotate(45deg); }
+.filter-options { padding-left: 18px; gap: 8px; }
+.filter-option { color: #486064; font-size: 12px; }
+.filter-option input { accent-color: var(--green); }
+.filter-chip, .tag { border-radius: 0; border: 1px solid #c7dcd5; background: var(--mint); color: var(--green); padding: 4px 8px; }
+.results-heading { border-color: var(--green); margin-bottom: 24px; }
+.results-heading select { border-radius: 0; border-color: var(--line); background: #fff; color: var(--ink); }
+.advisor-list { counter-reset: advisor; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0; border-top: 1px solid var(--line); border-left: 1px solid var(--line); }
+.advisor-card { counter-increment: advisor; min-height: 410px; position: relative; border-radius: 0; border: 0; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); background: #ffffffd9; box-shadow: none; padding: 30px 26px 26px 58px; transition: background .22s ease, transform .22s ease; }
+.advisor-card::before { content: counter(advisor, decimal-leading-zero); position: absolute; left: 26px; top: 28px; color: var(--green); font: 600 12px/1 "Noto Serif SC", SimSun, serif; letter-spacing: .08em; }
+.advisor-card:hover { background: #ffffff; transform: translateY(-2px); }
+.card-top h3 { font: 600 24px/1.2 "Noto Serif SC", SimSun, serif; letter-spacing: .06em; }
+.advisor-role { color: var(--green); font-size: 12px; }
+.institution, .card-directions, .jif-label { color: var(--muted); }
+.card-label { color: var(--green); letter-spacing: .16em; }
+.relevance-badge, .evidence-badge, .paper-badge { border-radius: 0; border: 1px solid currentColor; background: transparent; }
+.relevance-badge { color: var(--green); }
+.evidence-badge { color: var(--amber); }
+.paper-summary, .card-footer { border-color: var(--line); }
+.paper-summary strong { font-family: "Noto Serif SC", SimSun, serif; font-weight: 500; }
+.official-link, .source-list a, .card-button { color: var(--green); text-underline-offset: 4px; }
+.card-button { text-decoration: underline; text-decoration-thickness: 1px; }
+.private-progress { margin-top: 86px; border: 1px solid var(--line); border-top: 2px solid var(--green); border-radius: 0; background: #ffffffd9; }
+.private-progress .eyebrow, .private-progress p, .progress-stats span { color: var(--muted); }
+.progress-stats strong { color: var(--green); font-family: "Noto Serif SC", SimSun, serif; }
+.secondary-button { border-radius: 0; border-color: var(--green); color: var(--green); }
+.secondary-button:hover { background: var(--green); color: #fff; }
+.about-note { border-top: 1px solid var(--line); padding-top: 20px; color: var(--muted); }
+.about-note strong { color: var(--green); }
+.contact-float { position: fixed; left: 24px; bottom: 24px; z-index: 6; display: inline-flex; align-items: center; gap: 9px; border: 1px solid #b7d0c7; background: #ffffffdd; backdrop-filter: blur(14px); color: var(--ink); padding: 10px 13px; font-size: 12px; text-decoration: none; box-shadow: 6px 8px 20px #17313612; }
+.contact-float span:first-child { color: var(--green); font-size: 15px; }
+.contact-float:hover { border-color: var(--green); background: #fff; color: var(--green); }
+#profile-dialog { width: min(700px, calc(100% - 100px)); max-height: none; overflow: visible; border: 0; padding: 0; border-radius: 0; background: transparent; box-shadow: none; }
+#profile-dialog::backdrop { background: #17313673; backdrop-filter: blur(5px); }
+.profile-dialog-form { max-height: min(86vh, 780px); overflow-y: auto; padding: 34px; position: relative; border: 1px solid var(--line); border-top: 2px solid var(--green); background: #fff; }
+.dialog-close { position: absolute; left: calc(100% + 14px); top: 0; min-width: 48px; min-height: 48px; border: 1px solid var(--green); border-radius: 0; background: #fff; color: var(--green); padding: 8px 10px; font: 12px/1 "Noto Sans SC", sans-serif; cursor: pointer; z-index: 2; }
+.dialog-close:hover { background: var(--green); color: #fff; }
+.profile-head { padding-right: 0; border-color: var(--line); }
+.profile-section h3 { color: var(--green); letter-spacing: .13em; }
+.profile-paper, .private-box { border-radius: 0; border: 1px solid var(--line); background: #f7faf9; }
+.private-box textarea, .private-box select { border-radius: 0; border-color: var(--line); background: #fff; color: var(--ink); }
+.card-button:focus-visible, .dialog-close:focus-visible, .source-list a:focus-visible, .official-link:focus-visible, .contact-float:focus-visible { outline: 2px solid #12665377; outline-offset: 3px; }
+
+@media (max-width: 900px) { .advisor-list { grid-template-columns: 1fr; } .filter-panel { position: static; } }
+@media (max-width: 760px) { .site-header { height: 70px; } .brand small { display: none; } .page-shell { padding: 50px 18px 90px; } .workspace-grid { gap: 34px; } .advisor-card { min-height: 0; } .contact-float { left: 14px; bottom: 14px; font-size: 11px; } #profile-dialog { width: min(100% - 34px, 700px); } .dialog-close { left: auto; right: 0; top: -54px; } .profile-dialog-form { max-height: min(82vh, 780px); padding: 24px 20px; } }
