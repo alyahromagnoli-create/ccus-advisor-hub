@@ -40,6 +40,74 @@
             "url": "https://doi.org/10.1016/j.jechem.2023.03.029"
           }
         ]
+      },
+      {
+        "title": "CO2 (carbon dioxide) separation from CO2–H2 (hydrogen) gas mixtures by gas hydrates in TBAB (tetra-n-butyl ammonium bromide) solution and Raman spectroscopic analysis",
+        "journal": "Energy",
+        "publication_year": 2013,
+        "cited_by_count": 123,
+        "doi": "10.1016/j.energy.2013.07.056",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1016/j.energy.2013.07.056",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5016555038",
+          "display_name": "Chun‐Gang Xu",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W2088364931"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1016/j.energy.2013.07.056"
+          }
+        ]
+      },
+      {
+        "title": "Effects of Tetrabutyl-(ammonium/phosphonium) Salts on Clathrate Hydrate Capture of CO2 from Simulated Flue Gas",
+        "journal": "Energy & Fuels",
+        "publication_year": 2012,
+        "cited_by_count": 111,
+        "doi": "10.1021/ef3000399",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1021/ef3000399",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5016555038",
+          "display_name": "Chun‐Gang Xu",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W2154912851"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1021/ef3000399"
+          }
+        ]
       }
     ],
     "sources": [
@@ -75,7 +143,76 @@
     "match_score": null,
     "direction_match": "中国科学院广州能源研究所官方个人主页记录的研究方向：天然气水合物；CO₂置换开采；水合物储运。招生资格和论文 JIF 需逐项复核。",
     "official_profile_url": "https://giec.cas.cn/sourcedb/zw/zjrck/202204/t20220424_6436794.html",
-    "papers": [],
+    "papers": [
+      {
+        "title": "Equilibrium Hydrate Formation Conditions for the Mixtures of CO2 + H2 + Tetrabutyl Ammonium Bromide",
+        "journal": "Journal of Chemical & Engineering Data",
+        "publication_year": 2009,
+        "cited_by_count": 141,
+        "doi": "10.1021/je900758t",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1021/je900758t",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5015259617",
+          "display_name": "Kefeng Yan",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W2137874845"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1021/je900758t"
+          }
+        ]
+      },
+      {
+        "title": "Effects of Tetrabutyl-(ammonium/phosphonium) Salts on Clathrate Hydrate Capture of CO2 from Simulated Flue Gas",
+        "journal": "Energy & Fuels",
+        "publication_year": 2012,
+        "cited_by_count": 111,
+        "doi": "10.1021/ef3000399",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1021/ef3000399",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5015259617",
+          "display_name": "Kefeng Yan",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W2154912851"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1021/ef3000399"
+          }
+        ]
+      }
+    ],
     "sources": [
       {
         "label": "中国科学院广州能源研究所官方个人主页",
@@ -107,7 +244,76 @@
     "match_score": null,
     "direction_match": "中国科学院广州能源研究所官方个人主页记录的研究方向：CO₂/CH₄水合物捕集与存储；水合物CO₂封存；流动安全。招生资格和论文 JIF 需逐项复核。",
     "official_profile_url": "https://giec.cas.cn/sourcedb/zw/zjrck/202403/t20240305_7012434.html",
-    "papers": [],
+    "papers": [
+      {
+        "title": "Research on micro-mechanism and efficiency of CH4 exploitation via CH4-CO2 replacement from natural gas hydrates",
+        "journal": "Fuel",
+        "publication_year": 2017,
+        "cited_by_count": 94,
+        "doi": "10.1016/j.fuel.2017.12.022",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1016/j.fuel.2017.12.022",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5051451245",
+          "display_name": "Yisong Yu",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W2772808377"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1016/j.fuel.2017.12.022"
+          }
+        ]
+      },
+      {
+        "title": "Effect of graphite nanoparticles on CO2 hydrate phase equilibrium",
+        "journal": "Fluid Phase Equilibria",
+        "publication_year": 2016,
+        "cited_by_count": 85,
+        "doi": "10.1016/j.fluid.2015.12.054",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1016/j.fluid.2015.12.054",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5051451245",
+          "display_name": "Yisong Yu",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W2226028159"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1016/j.fluid.2015.12.054"
+          }
+        ]
+      }
+    ],
     "sources": [
       {
         "label": "中国科学院广州能源研究所官方个人主页",
@@ -221,7 +427,42 @@
     "match_score": null,
     "direction_match": "中国科学院工程热物理研究所导师页面记录的研究方向：能源有序转化；分布式供能与可再生能源；热化学储能；氢能转化利用。招生资格和论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.iet.cas.cn/edu/dsjs/",
-    "papers": [],
+    "papers": [
+      {
+        "title": "A novel gas turbine cycle with hydrogen-fueled chemical-looping combustion",
+        "journal": "International Journal of Hydrogen Energy",
+        "publication_year": 2000,
+        "cited_by_count": 95,
+        "doi": "10.1016/s0360-3199(00)00032-x",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1016/s0360-3199(00)00032-x",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5108604404",
+          "display_name": "Hongguang Jin",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W2033069681"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1016/s0360-3199(00)00032-x"
+          }
+        ]
+      }
+    ],
     "sources": [
       {
         "label": "中国科学院工程热物理研究所导师页面",
@@ -366,7 +607,76 @@
     "match_score": null,
     "direction_match": "中国科学院地质与地球物理研究所官方个人主页记录的研究方向：全球生物地球化学循环；碳—磷—氧循环；古环境指标与气候调节机制。招生资格和论文 JIF 需逐项复核。",
     "official_profile_url": "https://igg.cas.cn/sourcedb_igg_cas/cn/zjrck/202206/t20220630_6468644.html",
-    "papers": [],
+    "papers": [
+      {
+        "title": "Atmospheric evolution of environmentally persistent free radicals in the rural North China Plain: effects on water solubility and PM 2.5 oxidative potential",
+        "journal": "Atmospheric chemistry and physics",
+        "publication_year": 2024,
+        "cited_by_count": 14,
+        "doi": "10.5194/acp-24-11029-2024",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.5194/acp-24-11029-2024",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5076606414",
+          "display_name": "Mingyu Zhao",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W4403076620"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.5194/acp-24-11029-2024"
+          }
+        ]
+      },
+      {
+        "title": "Copper and zinc isotopic compositions of methane-derived carbonates: Implications for paleo-methane seepage and paleoenvironmental proxies",
+        "journal": "Geological Society of America Bulletin",
+        "publication_year": 2024,
+        "cited_by_count": 8,
+        "doi": "10.1130/b37374.1",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1130/b37374.1",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5076606414",
+          "display_name": "Mingyu Zhao",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W4392367843"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1130/b37374.1"
+          }
+        ]
+      }
+    ],
     "sources": [
       {
         "label": "中国科学院地质与地球物理研究所官方个人主页",
@@ -445,7 +755,76 @@
     "match_score": null,
     "direction_match": "中国科学院过程工程研究所官方个人主页记录的研究方向：战略金属资源绿色循环；工业固废高值化；退役新能源器件回收；二氧化碳绿色催化与高值转化。招生资格和论文 JIF 需逐项复核。",
     "official_profile_url": "https://ipe.cas.cn/sourcedb/zw/zjrc/yjy/202105/t20210511_6012374.html",
-    "papers": [],
+    "papers": [
+      {
+        "title": "Activity and characterization of modified Cr2O3/ZrO2 nano-composite catalysts for oxidative dehydrogenation of ethane to ethylene with CO2",
+        "journal": "Journal of Molecular Catalysis A Chemical",
+        "publication_year": 2006,
+        "cited_by_count": 114,
+        "doi": "10.1016/j.molcata.2006.12.033",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1016/j.molcata.2006.12.033",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5111221859",
+          "display_name": "Huiquan Li",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W1996181472"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1016/j.molcata.2006.12.033"
+          }
+        ]
+      },
+      {
+        "title": "Oxidative Dehydrogenation of Ethane to Ethylene with CO2 over Fe−Cr/ZrO2 Catalysts",
+        "journal": "Industrial & Engineering Chemistry Research",
+        "publication_year": 2009,
+        "cited_by_count": 79,
+        "doi": "10.1021/ie9007387",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1021/ie9007387",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5111221859",
+          "display_name": "Huiquan Li",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W2036714738"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1021/ie9007387"
+          }
+        ]
+      }
+    ],
     "sources": [
       {
         "label": "中国科学院过程工程研究所官方个人主页",
@@ -488,7 +867,76 @@
     "match_score": null,
     "direction_match": "中国科学院过程工程研究所官方个人主页记录的研究方向：煤与生物质热化学转化；化学链燃烧与气化；二氧化碳捕获；固废资源化与污染控制。招生资格和论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.ipe.cas.cn/sourcedb/zw/zjrc/yjy/202105/t20210511_6012373.html",
-    "papers": [],
+    "papers": [
+      {
+        "title": "Emission characteristics of Cd, Pb and Mn from coal combustion: Field study at coal-fired power plants in China",
+        "journal": "Fuel Processing Technology",
+        "publication_year": 2014,
+        "cited_by_count": 133,
+        "doi": "10.1016/j.fuproc.2014.06.009",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1016/j.fuproc.2014.06.009",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5051996187",
+          "display_name": "Songgeng Li",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W2042574933"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1016/j.fuproc.2014.06.009"
+          }
+        ]
+      },
+      {
+        "title": "Activity and characterization of modified Cr2O3/ZrO2 nano-composite catalysts for oxidative dehydrogenation of ethane to ethylene with CO2",
+        "journal": "Journal of Molecular Catalysis A Chemical",
+        "publication_year": 2006,
+        "cited_by_count": 114,
+        "doi": "10.1016/j.molcata.2006.12.033",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1016/j.molcata.2006.12.033",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5051996187",
+          "display_name": "Songgeng Li",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W1996181472"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1016/j.molcata.2006.12.033"
+          }
+        ]
+      }
+    ],
     "sources": [
       {
         "label": "中国科学院过程工程研究所官方个人主页",
@@ -605,7 +1053,76 @@
     "match_score": null,
     "direction_match": "中国科学院青岛生物能源与过程研究所官方个人主页记录的研究方向：能源小分子电催化；氢能技术；质子传导膜电极与燃料电池电堆。招生资格和论文 JIF 需逐项复核。",
     "official_profile_url": "https://qibebt.cas.cn/sourcedb/zw/expert/202604/t20260409_8183236.html",
-    "papers": [],
+    "papers": [
+      {
+        "title": "Simultaneously boosting hydrogen production and ethanol upgrading using a highly-efficient hollow needle-like copper cobalt sulfide as a bifunctional electrocatalyst",
+        "journal": "Journal of Colloid and Interface Science",
+        "publication_year": 2021,
+        "cited_by_count": 136,
+        "doi": "10.1016/j.jcis.2021.06.001",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1016/j.jcis.2021.06.001",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5072537853",
+          "display_name": "Ke Ye",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W3168010298"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1016/j.jcis.2021.06.001"
+          }
+        ]
+      },
+      {
+        "title": "Preparation of nickel-cobalt nanowire arrays anode electro-catalyst and its application in direct urea/hydrogen peroxide fuel cell",
+        "journal": "Electrochimica Acta",
+        "publication_year": 2016,
+        "cited_by_count": 123,
+        "doi": "10.1016/j.electacta.2016.01.215",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1016/j.electacta.2016.01.215",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5072537853",
+          "display_name": "Ke Ye",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W2266946421"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1016/j.electacta.2016.01.215"
+          }
+        ]
+      }
+    ],
     "sources": [
       {
         "label": "中国科学院青岛生物能源与过程研究所官方个人主页",
@@ -682,7 +1199,72 @@
     "match_score": null,
     "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：碳中和岩土力学；CO₂地质封存；干热岩地热；生态修复。招生资格和论文 JIF 需逐项复核。",
     "official_profile_url": "https://whrsm.cas.cn/sourcedb/zw/zjrck/fyjy/201901/t20190110_5226654.html",
-    "papers": [],
+    "papers": [
+      {
+        "title": "Evaluating the Sealing Effectiveness of a Caprock-Fault System for CO2-EOR Storage: A Case Study of the Shengli Oilfield",
+        "journal": "Geofluids",
+        "publication_year": 2017,
+        "cited_by_count": 12,
+        "doi": "10.1155/2017/8536724",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1155/2017/8536724",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5056652259",
+          "display_name": "Bing Bai",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W2760526525"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1155/2017/8536724"
+          }
+        ]
+      },
+      {
+        "title": "PRELIMINARY ESTIMATION OF CO2 STORAGE CAPACITY OF COALBEDS IN CHINA",
+        "journal": "Chinese journal of rock mechanics and engineering",
+        "publication_year": 2005,
+        "cited_by_count": 33,
+        "doi": null,
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://openalex.org/W2348572388",
+        "source_label": "OpenAlex 论文记录",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5056652259",
+          "display_name": "Bing Bai",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W2348572388"
+          }
+        ]
+      }
+    ],
     "sources": [
       {
         "label": "中国科学院武汉岩土力学研究所官方页面",
@@ -752,7 +1334,76 @@
     "match_score": null,
     "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：二氧化碳地质利用与封存监测；煤层封存与驱煤层气。招生资格和论文 JIF 需逐项复核。",
     "official_profile_url": "https://whrsm.cas.cn/sourcedb/zw/zjrck/fyjy/201501/t20150112_4297297.html",
-    "papers": [],
+    "papers": [
+      {
+        "title": "Current status and technical challenges of CO2 storage in coal seams and enhanced coalbed methane recovery: an overview",
+        "journal": "International Journal of Coal Science & Technology",
+        "publication_year": 2014,
+        "cited_by_count": 119,
+        "doi": "10.1007/s40789-014-0002-9",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1007/s40789-014-0002-9",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5108939827",
+          "display_name": "Zhiming Fang",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W2019635269"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1007/s40789-014-0002-9"
+          }
+        ]
+      },
+      {
+        "title": "Influence of Stress on Gas Sorption Behavior and Induced Swelling in Coal: Implications for Sustainable CO2 Geological Storage",
+        "journal": "Sustainability",
+        "publication_year": 2025,
+        "cited_by_count": 2,
+        "doi": "10.3390/su17208990",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.3390/su17208990",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5108939827",
+          "display_name": "Zhiming Fang",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W4415046247"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.3390/su17208990"
+          }
+        ]
+      }
+    ],
     "sources": [
       {
         "label": "中国科学院武汉岩土力学研究所官方页面",
@@ -853,7 +1504,76 @@
     "match_score": null,
     "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：智能岩石力学；地下工程与储层安全。招生资格和论文 JIF 需逐项复核。",
     "official_profile_url": "https://whrsm.cas.cn/yjsjy2020/zsxx_168126/sszs_168127/202007/P020200718406893633595.pdf",
-    "papers": [],
+    "papers": [
+      {
+        "title": "In situ monitoring of rockburst nucleation and evolution in the deeply buried tunnels of Jinping II hydropower station",
+        "journal": "Engineering Geology",
+        "publication_year": 2012,
+        "cited_by_count": 314,
+        "doi": "10.1016/j.enggeo.2012.03.010",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1016/j.enggeo.2012.03.010",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5101988067",
+          "display_name": "Shaojun Li",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W2022858863"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1016/j.enggeo.2012.03.010"
+          }
+        ]
+      },
+      {
+        "title": "Deformation and failure behaviours of rock-concrete interfaces with natural morphology under shear testing",
+        "journal": "Construction and Building Materials",
+        "publication_year": 2021,
+        "cited_by_count": 103,
+        "doi": "10.1016/j.conbuildmat.2021.123468",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1016/j.conbuildmat.2021.123468",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5101988067",
+          "display_name": "Shaojun Li",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W3160833320"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1016/j.conbuildmat.2021.123468"
+          }
+        ]
+      }
+    ],
     "sources": [
       {
         "label": "中国科学院武汉岩土力学研究所官方页面",
@@ -890,7 +1610,76 @@
     "match_score": null,
     "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：二氧化碳地质封存；岩石力学与工程安全。招生资格和论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.whrsm.cas.cn/yjsjy2020/xkfx_168130/co2_subject/",
-    "papers": [],
+    "papers": [
+      {
+        "title": "Paleolatitudes of the T ibetan H imalaya from primary and secondary magnetizations of J urassic to L ower C retaceous sedimentary rocks",
+        "journal": "Geochemistry Geophysics Geosystems",
+        "publication_year": 2014,
+        "cited_by_count": 75,
+        "doi": "10.1002/2014gc005624",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1002/2014gc005624",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5100413895",
+          "display_name": "Xiaochun Li",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W2061855188"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1002/2014gc005624"
+          }
+        ]
+      },
+      {
+        "title": "What was the Paleogene latitude of the Lhasa terrane? A reassessment of the geochronology and paleomagnetism of Linzizong volcanic rocks (Linzhou basin, Tibet)",
+        "journal": "Tectonics",
+        "publication_year": 2015,
+        "cited_by_count": 67,
+        "doi": "10.1002/2014tc003787",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1002/2014tc003787",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5100413895",
+          "display_name": "Xiaochun Li",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W2135777195"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1002/2014tc003787"
+          }
+        ]
+      }
+    ],
     "sources": [
       {
         "label": "中国科学院武汉岩土力学研究所官方页面",
@@ -922,7 +1711,76 @@
     "match_score": null,
     "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：岩石力学；深部地下工程；多场耦合。招生资格和论文 JIF 需逐项复核。",
     "official_profile_url": "https://whrsm.cas.cn/yjsjy2020/zsxx_168126/sszs_168127/202007/P020200718406893633595.pdf",
-    "papers": [],
+    "papers": [
+      {
+        "title": "True triaxial test and PFC3D-GBM simulation study on mechanical properties and fracture evolution mechanisms of rock under high stresses",
+        "journal": "Computers and Geotechnics",
+        "publication_year": 2022,
+        "cited_by_count": 101,
+        "doi": "10.1016/j.compgeo.2022.105136",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1016/j.compgeo.2022.105136",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5059315681",
+          "display_name": "Peng‐Zhi Pan",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W4310136213"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1016/j.compgeo.2022.105136"
+          }
+        ]
+      },
+      {
+        "title": "Rock damage and fracturing induced by high static stress and slightly dynamic disturbance with acoustic emission and digital image correlation techniques",
+        "journal": "Journal of Rock Mechanics and Geotechnical Engineering",
+        "publication_year": 2021,
+        "cited_by_count": 106,
+        "doi": "10.1016/j.jrmge.2021.05.001",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1016/j.jrmge.2021.05.001",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5059315681",
+          "display_name": "Peng‐Zhi Pan",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W3175840395"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1016/j.jrmge.2021.05.001"
+          }
+        ]
+      }
+    ],
     "sources": [
       {
         "label": "中国科学院武汉岩土力学研究所官方页面",
@@ -960,7 +1818,76 @@
     "match_score": null,
     "direction_match": "中国科学院武汉岩土力学研究所官方页面记录的研究方向：CO₂地质高效利用与安全封存；井筒完整性；储层多相渗流。招生资格和论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.whrsm.cas.cn/sourcedb/zw/zjrck/fyjy/202501/t20250119_7520097.html",
-    "papers": [],
+    "papers": [
+      {
+        "title": "Experimental measurements and characterization models of caprock breakthrough pressure for CO2 geological storage",
+        "journal": "Earth-Science Reviews",
+        "publication_year": 2024,
+        "cited_by_count": 52,
+        "doi": "10.1016/j.earscirev.2024.104732",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1016/j.earscirev.2024.104732",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5101720181",
+          "display_name": "Yongsheng Tan",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W4392345496"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1016/j.earscirev.2024.104732"
+          }
+        ]
+      },
+      {
+        "title": "Effects of SiO2 Nanoparticles on Wettability and CO2–Brine–Rock Interactions in Carbonate Reservoirs: Implications for CO2 Storage",
+        "journal": "Energy & Fuels",
+        "publication_year": 2024,
+        "cited_by_count": 33,
+        "doi": "10.1021/acs.energyfuels.3c03356",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1021/acs.energyfuels.3c03356",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5101720181",
+          "display_name": "Yongsheng Tan",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W4390511798"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1021/acs.energyfuels.3c03356"
+          }
+        ]
+      }
+    ],
     "sources": [
       {
         "label": "中国科学院武汉岩土力学研究所官方页面",
@@ -1168,7 +2095,76 @@
     "match_score": null,
     "direction_match": "重庆大学官方教师主页记录的研究方向：薄膜太阳能电池；有机热电；可穿戴能源器件。招生资格和论文 JIF 需逐项复核。",
     "official_profile_url": "https://cte.cqu.edu.cn/szdw/jszy/yxjs/xnyycnx.htm",
-    "papers": [],
+    "papers": [
+      {
+        "title": "Cathode engineering with perylene-diimide interlayer enabling over 17% efficiency single-junction organic solar cells",
+        "journal": "Nature Communications",
+        "publication_year": 2020,
+        "cited_by_count": 780,
+        "doi": "10.1038/s41467-020-16509-w",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1038/s41467-020-16509-w",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5100416650",
+          "display_name": "Shanshan Chen",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W3028938884"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1038/s41467-020-16509-w"
+          }
+        ]
+      },
+      {
+        "title": "11.4% Efficiency non-fullerene polymer solar cells with trialkylsilyl substituted 2D-conjugated polymer as donor",
+        "journal": "Nature Communications",
+        "publication_year": 2016,
+        "cited_by_count": 986,
+        "doi": "10.1038/ncomms13651",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1038/ncomms13651",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5100416650",
+          "display_name": "Shanshan Chen",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W2559686099"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1038/ncomms13651"
+          }
+        ]
+      }
+    ],
     "sources": [
       {
         "label": "重庆大学官方教师主页",
@@ -1207,7 +2203,76 @@
     "match_score": null,
     "direction_match": "重庆大学官方教师主页记录的研究方向：碳中和；CO₂减排转化利用；氢能；储能。招生资格和论文 JIF 需逐项复核。",
     "official_profile_url": "https://cte.cqu.edu.cn/szdw/jszy/yxjs/xnyycnx.htm",
-    "papers": [],
+    "papers": [
+      {
+        "title": "MOF-derived Cu@Cu2O heterogeneous electrocatalyst with moderate intermediates adsorption for highly selective reduction of CO2 to methanol",
+        "journal": "Chemical Engineering Journal",
+        "publication_year": 2021,
+        "cited_by_count": 228,
+        "doi": "10.1016/j.cej.2021.134171",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1016/j.cej.2021.134171",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5087470750",
+          "display_name": "Jun Cheng",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W4200002410"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1016/j.cej.2021.134171"
+          }
+        ]
+      },
+      {
+        "title": "Photoelectrocatalytic Reduction of CO2 into Chemicals Using Pt-Modified Reduced Graphene Oxide Combined with Pt-Modified TiO2 Nanotubes",
+        "journal": "Environmental Science & Technology",
+        "publication_year": 2014,
+        "cited_by_count": 167,
+        "doi": "10.1021/es500364g",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1021/es500364g",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5087470750",
+          "display_name": "Jun Cheng",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W2331264659"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1021/es500364g"
+          }
+        ]
+      }
+    ],
     "sources": [
       {
         "label": "重庆大学官方教师主页",
@@ -1280,7 +2345,76 @@
     "match_score": null,
     "direction_match": "重庆大学官方教师主页记录的研究方向：裂隙岩体变形与渗流；深部地热；CO₂地质封存。招生资格和论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.res.cqu.edu.cn/info/1207/9341.htm",
-    "papers": [],
+    "papers": [
+      {
+        "title": "Niobium‐Based Oxides Toward Advanced Electrochemical Energy Storage: Recent Advances and Challenges",
+        "journal": "Small",
+        "publication_year": 2019,
+        "cited_by_count": 206,
+        "doi": "10.1002/smll.201804884",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1002/smll.201804884",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5052854540",
+          "display_name": "Qinglin Deng",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W2911995295"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1002/smll.201804884"
+          }
+        ]
+      },
+      {
+        "title": "Advantageous Functional Integration of Adsorption‐Intercalation‐Conversion Hybrid Mechanisms in 3D Flexible Nb2O5@Hard Carbon@MoS2@Soft Carbon Fiber Paper Anodes for Ultrafast and Super‐Stable Sodium Storage",
+        "journal": "Advanced Functional Materials",
+        "publication_year": 2020,
+        "cited_by_count": 92,
+        "doi": "10.1002/adfm.201908665",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1002/adfm.201908665",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5052854540",
+          "display_name": "Qinglin Deng",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W2998928161"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1002/adfm.201908665"
+          }
+        ]
+      }
+    ],
     "sources": [
       {
         "label": "重庆大学官方教师主页",
@@ -1348,7 +2482,76 @@
     "match_score": null,
     "direction_match": "重庆大学官方教师主页记录的研究方向：深部地热；咸水层CO₂封存密闭性；储层地球物理。招生资格和论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.res.cqu.edu.cn/info/1208/5827.htm",
-    "papers": [],
+    "papers": [
+      {
+        "title": "The use of supercritical CO2 in deep geothermal reservoirs as a working fluid: Insights from coupled THMC modeling",
+        "journal": "International Journal of Rock Mechanics and Mining Sciences",
+        "publication_year": 2021,
+        "cited_by_count": 65,
+        "doi": "10.1016/j.ijrmms.2021.104872",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1016/j.ijrmms.2021.104872",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5046553390",
+          "display_name": "Quan Gan",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W3200122033"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1016/j.ijrmms.2021.104872"
+          }
+        ]
+      },
+      {
+        "title": "Research progress of natural gas hydrate exploitation with CO2 replacement: A review",
+        "journal": "Fuel",
+        "publication_year": 2021,
+        "cited_by_count": 139,
+        "doi": "10.1016/j.fuel.2021.122873",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1016/j.fuel.2021.122873",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5046553390",
+          "display_name": "Quan Gan",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W4200168196"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1016/j.fuel.2021.122873"
+          }
+        ]
+      }
+    ],
     "sources": [
       {
         "label": "重庆大学官方教师主页",
@@ -1383,7 +2586,76 @@
     "match_score": null,
     "direction_match": "重庆大学官方教师主页记录的研究方向：煤层气开发；CO₂强化煤层气开发与地质封存一体化。招生资格和论文 JIF 需逐项复核。",
     "official_profile_url": "https://faculty.cqu.edu.cn/ZhaolongGe/zh_CN/yjfx/321995/content/3329.htm",
-    "papers": [],
+    "papers": [
+      {
+        "title": "Effect of ScCO2-H2O treatment duration on the microscopic structure of coal reservoirs: Implications for CO2 geological sequestration in coal",
+        "journal": "International Journal of Coal Geology",
+        "publication_year": 2023,
+        "cited_by_count": 27,
+        "doi": "10.1016/j.coal.2023.104439",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1016/j.coal.2023.104439",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5047809898",
+          "display_name": "Zhaolong Ge",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W4390431194"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1016/j.coal.2023.104439"
+          }
+        ]
+      },
+      {
+        "title": "Influence of supercritical CO2 on fracture network evolution with nanopore structure linkage in high-rank anthracite matrix",
+        "journal": "Fuel",
+        "publication_year": 2023,
+        "cited_by_count": 27,
+        "doi": "10.1016/j.fuel.2023.129729",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1016/j.fuel.2023.129729",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5047809898",
+          "display_name": "Zhaolong Ge",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W4386905840"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1016/j.fuel.2023.129729"
+          }
+        ]
+      }
+    ],
     "sources": [
       {
         "label": "重庆大学官方教师主页",
@@ -1421,7 +2693,76 @@
     "match_score": null,
     "direction_match": "重庆大学官方教师主页记录的研究方向：页岩气开发；CO₂地质封存岩石力学；深部储层。招生资格和论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.res.cqu.edu.cn/info/1208/8060.htm",
-    "papers": [],
+    "papers": [
+      {
+        "title": "Capillary sealing capability alteration of shale caprock induced by CO2-brine-rock interaction: Implication for CO2 geological storage",
+        "journal": "Geoenergy Science and Engineering",
+        "publication_year": 2024,
+        "cited_by_count": 16,
+        "doi": "10.1016/j.geoen.2024.213149",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1016/j.geoen.2024.213149",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5079249290",
+          "display_name": "Yunzhong Jia",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W4400748493"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1016/j.geoen.2024.213149"
+          }
+        ]
+      },
+      {
+        "title": "Assessment of the CO2 Geological Storage Potential of Yanchang Shale Gas Formation (Chang7 Member) Considering the Capillary Sealing Capability of Caprock",
+        "journal": "Sustainability",
+        "publication_year": 2023,
+        "cited_by_count": 4,
+        "doi": "10.3390/su152015038",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.3390/su152015038",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5079249290",
+          "display_name": "Yunzhong Jia",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W4387779782"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.3390/su152015038"
+          }
+        ]
+      }
+    ],
     "sources": [
       {
         "label": "重庆大学官方教师主页",
@@ -1458,7 +2799,76 @@
     "match_score": null,
     "direction_match": "重庆大学官方教师主页记录的研究方向：燃烧CFD；多相流；新能源与储能；氢氨燃烧。招生资格和论文 JIF 需逐项复核。",
     "official_profile_url": "https://cte.cqu.edu.cn/szdw/jslb/kyh.htm",
-    "papers": [],
+    "papers": [
+      {
+        "title": "Combustion mechanism of ammonia and ammonia-hydrogen mixtures in the intensely turbulent jet mixing layer under the spontaneous ignition condition",
+        "journal": "International Journal of Hydrogen Energy",
+        "publication_year": 2024,
+        "cited_by_count": 29,
+        "doi": "10.1016/j.ijhydene.2024.02.122",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1016/j.ijhydene.2024.02.122",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5006988842",
+          "display_name": "Yinhu Kang",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W4391868293"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1016/j.ijhydene.2024.02.122"
+          }
+        ]
+      },
+      {
+        "title": "Experimental and theoretical study on the flow, mixing, and combustion characteristics of dimethyl ether, methane, and LPG jet diffusion flames",
+        "journal": "Fuel Processing Technology",
+        "publication_year": 2014,
+        "cited_by_count": 50,
+        "doi": "10.1016/j.fuproc.2014.09.004",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1016/j.fuproc.2014.09.004",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5006988842",
+          "display_name": "Yinhu Kang",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W2082742328"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1016/j.fuproc.2014.09.004"
+          }
+        ]
+      }
+    ],
     "sources": [
       {
         "label": "重庆大学官方教师主页",
@@ -1561,7 +2971,76 @@
     "match_score": null,
     "direction_match": "重庆大学官方教师主页记录的研究方向：CO₂封存区地震—电磁监测；多尺度地球物理反演。招生资格和论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.res.cqu.edu.cn/info/1382/8032.htm",
-    "papers": [],
+    "papers": [
+      {
+        "title": "Advancing CO2 Storage Monitoring via Cross-Borehole Apparent Resistivity Imaging Simulation",
+        "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+        "publication_year": 2023,
+        "cited_by_count": 3,
+        "doi": "10.1109/tgrs.2023.3331421",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1109/tgrs.2023.3331421",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5100612766",
+          "display_name": "Tianyang Li",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W4388505210"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1109/tgrs.2023.3331421"
+          }
+        ]
+      },
+      {
+        "title": "Monitoring CO2 Injection at the CaMI Field Research Station Using Microseismic Noise Sources",
+        "journal": "Journal of Geophysical Research Solid Earth",
+        "publication_year": 2022,
+        "cited_by_count": 14,
+        "doi": "10.1029/2022jb024719",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1029/2022jb024719",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5100612766",
+          "display_name": "Tianyang Li",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W4310027127"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1029/2022jb024719"
+          }
+        ]
+      }
+    ],
     "sources": [
       {
         "label": "重庆大学官方教师主页",
@@ -1673,7 +3152,42 @@
     "match_score": null,
     "direction_match": "重庆大学官方教师主页记录的研究方向：深部煤岩灾变；非常规天然气；二氧化碳地质利用与封存。招生资格和论文 JIF 需逐项复核。",
     "official_profile_url": "https://www.res.cqu.edu.cn/info/1208/6047.htm",
-    "papers": [],
+    "papers": [
+      {
+        "title": "Laboratory experiments of CO2-enhanced coalbed methane recovery considering CO2 sequestration in a coal seam",
+        "journal": "Energy",
+        "publication_year": 2022,
+        "cited_by_count": 128,
+        "doi": "10.1016/j.energy.2022.125473",
+        "jif": null,
+        "jif_year": null,
+        "jif_source_url": null,
+        "openalex_2yr_mean_citedness": null,
+        "metric_note": "OpenAlex 两年平均被引次数（非 JIF）",
+        "relevance": "与公开研究方向关键词匹配",
+        "high_impact": false,
+        "source_url": "https://doi.org/10.1016/j.energy.2022.125473",
+        "source_label": "DOI 论文页",
+        "selection_basis": "OpenAlex 作者—机构消歧后，按研究方向关键词、被引次数和发表年份综合排序；属于自动推荐，不等同于导师官网指定代表作。",
+        "author_match": {
+          "source": "OpenAlex",
+          "author_id": "https://openalex.org/A5013744927",
+          "display_name": "Shoujian Peng",
+          "confidence_score": 100,
+          "method": "姓名拼音、当前/近期机构与研究主题联合匹配"
+        },
+        "sources": [
+          {
+            "label": "OpenAlex 论文记录",
+            "url": "https://openalex.org/W4296904192"
+          },
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1016/j.energy.2022.125473"
+          }
+        ]
+      }
+    ],
     "sources": [
       {
         "label": "重庆大学官方教师主页",

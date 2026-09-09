@@ -1,3 +1,5 @@
+import { metricText } from './paper-matching.js';
+
 export const escapeHtml = (value = '') => String(value).replace(
   /[&<>"']/g,
   (character) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#039;' })[character],
@@ -31,16 +33,6 @@ function matchScore(value) {
   return isValidMatchScore(value) ? `${value}%` : '待核验';
 }
 
-function jifText(paper = {}) {
-  const year = typeof paper.jif_year === 'number' || typeof paper.jif_year === 'string'
-    ? String(paper.jif_year).trim()
-    : '';
-  const hasValidYear = /^\d{4}$/.test(year);
-  return Number.isFinite(paper.jif) && hasValidYear
-    ? `期刊 JIF（${year}）：${paper.jif}`
-    : '期刊 JIF（年份）待核验';
-}
-
 function externalLink(url, label, className = '') {
   const safeUrl = safeHttpUrl(url);
   if (!safeUrl) return '';
@@ -69,7 +61,9 @@ function paperDetails(paper) {
   if (!paper) return { title: '代表论文待核验', jif: '期刊 JIF（年份）待核验' };
   return {
     title: textOrPending(paper.title, '代表论文待核验'),
-    jif: jifText(paper),
+    jif: metricText(paper),
+    cited: Number.isFinite(paper.cited_by_count) ? `被引 ${paper.cited_by_count} 次` : '',
+    sourceUrl: safeHttpUrl(paper.source_url || paper.url),
   };
 }
 
@@ -125,8 +119,8 @@ export function renderAdvisorCard(advisor, school) {
     </div>
     <div class="paper-summary">
       <span class="card-label">代表论文</span>
-      <strong>${escapeHtml(paper.title)}</strong>
-      <span class="jif-label">${escapeHtml(paper.jif)}</span>
+      ${paper.sourceUrl ? `<a class="paper-title-link" href="${escapeHtml(paper.sourceUrl)}" target="_blank" rel="noopener noreferrer"><strong>${escapeHtml(paper.title)}</strong></a>` : `<strong>${escapeHtml(paper.title)}</strong>`}
+      <span class="jif-label">${escapeHtml(paper.jif)}${paper.cited ? ` · ${escapeHtml(paper.cited)}` : ''}</span>
     </div>
     <div class="card-links">${profileLink}</div>
     <div class="card-footer">
@@ -147,7 +141,7 @@ function renderPaper(paper, index) {
     <span class="card-label">代表论文 ${index + 1}</span>
     <h4>${escapeHtml(details.title)}</h4>
     <div class="paper-badges"><span class="paper-badge relevance">${escapeHtml(relevance)}</span>${highImpact}</div>
-    <p class="paper-meta">${escapeHtml(textOrPending(paper?.journal, '期刊待核验'))} · ${escapeHtml(details.jif)}</p>
+    <p class="paper-meta">${escapeHtml(textOrPending(paper?.journal, '期刊待核验'))} · ${escapeHtml(details.jif)}${details.cited ? ` · ${escapeHtml(details.cited)}` : ''}</p>
   </article>`;
 }
 
